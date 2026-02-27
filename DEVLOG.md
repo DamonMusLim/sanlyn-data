@@ -1,0 +1,3 @@
+- sanlyn-data: transform script done, 75 orders / 9 customers
+- portal_orders.json generated (PETSOME 27, PETSOME EU 19, ENRICH 17...)
+- Next: CustomerLogistics.jsx fetch portal_orders.json from GitHub
