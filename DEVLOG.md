@@ -3,3 +3,9 @@
 - Next: CustomerLogistics.jsx fetch portal_orders.json from GitHub
 - Portal now reads portal_orders.json from GitHub raw URL
 - 75 orders / 9 customers live
+
+- - L4 driver-submit n8n workflow: Webhook → Build Payload → Update JDY Driver Info → Respond to Webhook
+  - - driver-submit POST /driver-submit, body: { entry_id, driver_name, driver_phone, plate_no }
+    - - JDY customs entry update: _widget_1766737976886 (driver_name), _widget_1766737976887 (driver_phone), _widget_1766737976888 (plate_no)
+      - - app_id: 689cb08a93c073210bfc772b, entry_id: 69a08efb981bbbf58c024599 (customs table)
+        - - Published 2026-02-28
