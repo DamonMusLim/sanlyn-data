@@ -2086,7 +2086,7 @@
       "pod": "Port Klang Westport",
       "containerType": "40hq",
       "totalBoxes": 2200,
-      "cbm": 7.1,
+      "cbm": 7.2,
       "totalAmount": 179520,
       "status": "未完成",
       "category": "湿粮零食",
@@ -2116,7 +2116,7 @@
       "pod": "Port Klang Westport",
       "containerType": "40hq",
       "totalBoxes": 1920,
-      "cbm": 7.1,
+      "cbm": 7.2,
       "totalAmount": 141696,
       "status": "未完成",
       "category": "湿粮零食",
@@ -2591,5 +2591,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-02-28T20:18:40.560Z"
+  "syncedAt": "2026-02-28T21:01:01.923Z"
 }
