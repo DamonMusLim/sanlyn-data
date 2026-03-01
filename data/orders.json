@@ -991,9 +991,9 @@
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "containerType": "40hq",
-      "totalBoxes": 186624,
-      "cbm": 0,
-      "totalAmount": 18139852.8,
+      "totalBoxes": 1920,
+      "cbm": 7.1,
+      "totalAmount": 186624,
       "status": "已完成",
       "category": "湿粮零食",
       "factory": "福建泰迪宠物食品有限公司",
@@ -1019,13 +1019,13 @@
       "country": "",
       "podOther": "",
       "paidAmount": 0,
-      "unpaidAmount": 18139852.8,
+      "unpaidAmount": 186624,
       "paidFactory": 0,
-      "unpaidFactory": 18139852.8,
+      "unpaidFactory": 186624,
       "_jdyId": "6985c79b1d563ff8c04d4f77",
       "contractNo": "PS-ORDER-0038",
       "customerPO": "XM-240",
-      "grossWeight": 1306368
+      "grossWeight": 13440
     },
     {
       "orderId": "FS20260206024",
@@ -2591,5 +2591,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-01T00:01:04.002Z"
+  "syncedAt": "2026-03-01T01:00:58.916Z"
 }
