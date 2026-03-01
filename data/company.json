@@ -1,0 +1,44 @@
+{
+    "sellers": [
+          {
+                  "id": "xiamen-pet-baby",
+                  "nameEN": "XIAMEN PET BABY IMPORT AND EXPORT CO.,LTD",
+                  "nameCN": "厦门巴匕进出口有限公司",
+                  "addressEN": "4TH FLOOR,26-9# HUARONG ROAD,HULI,XIAMEN,CHINA",
+                  "bankAccounts": [
+                            {
+                                        "currency": "CNY",
+                                        "bankNameCN": "中国银行厦门文灶支行",
+                                        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+                                        "accountNo": "431279918006",
+                                        "swift": "BKCHCNBI73A",
+                                        "bankAddress": "No. 40 North Hubin Road, Xiamen"
+                            },
+                            {
+                                        "currency": "USD",
+                                        "bankNameCN": "中国银行厦门文灶支行",
+                                        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+                                        "accountNo": "429982879286",
+                                        "swift": "BKCHCNBI73A",
+                                        "bankAddress": "No. 40 North Hubin Road, Xiamen"
+                            }
+                  ]
+          },
+          {
+                  "id": "fortunesanlyn-hk",
+                  "nameEN": "FORTUNESANLYN GROUP LIMITED",
+                  "nameCN": "富城山凌集团有限公司",
+                  "addressEN": "FLAT 03, 15/F CARNIVAL COMMERCIAL BUILDING 18 JAVA ROAD NORTH POINT HK",
+                  "bankAccounts": [
+                            {
+                                        "currency": "USD",
+                                        "bankNameCN": "",
+                                        "bankNameEN": "JP Morgan Chase HONG KONG BRANCH",
+                                        "accountNo": "63115257431",
+                                        "swift": "CHASHKHHXXX",
+                                        "bankAddress": "The Quayside, 18/F Tower 1, 77 Hoi Bun Road, Kwun Tong, Hong Kong"
+                            }
+                  ]
+          }
+    ]
+}
