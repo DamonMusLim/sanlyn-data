@@ -2890,38 +2890,38 @@
       "exchangeRate": 7.1
     },
     {
-      "orderId": "FS20260302003",
+      "orderId": "FS20260302004",
       "customer": "PETSOME (EU) SDN BHD",
       "companyNameEN": "PETSOME (EU) SDN BHD",
       "pol": "",
       "pod": "Port Klang Westport",
       "containerType": "40hq",
-      "totalBoxes": 2736,
+      "totalBoxes": 3798,
       "cbm": 7.1,
-      "totalAmount": 213888,
+      "totalAmount": 307344,
       "status": "未完成",
       "category": "犬零食",
       "factory": "烟台中宠食品股份有限公司",
       "brand": [
         "SNIFFLY"
       ],
-      "orderDate": "2026-02-09T16:00:00.000Z",
+      "orderDate": "2026-03-01T16:00:00.000Z",
       "deliveryDate": "",
       "country": "Malaysia",
       "podOther": "",
       "paidAmount": 0,
-      "unpaidAmount": 213888,
+      "unpaidAmount": 307344,
       "paidFactory": 0,
-      "unpaidFactory": 213888,
-      "_jdyId": "69a542d42b28a5c66aa6a1b6",
-      "contractNo": "PS-ORDER-0042",
+      "unpaidFactory": 307344,
+      "_jdyId": "69a54415b28cfbc4c3a5ff3b",
+      "contractNo": "PS-ORDER-0088",
       "customerPO": "wp-57",
-      "grossWeight": 23803.2,
+      "grossWeight": 29325.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
       "exchangeRate": 7.1
     }
   ],
   "total": 76,
-  "syncedAt": "2026-03-02T08:00:26.279Z"
+  "syncedAt": "2026-03-02T09:00:26.242Z"
 }
