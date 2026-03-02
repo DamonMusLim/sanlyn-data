@@ -1277,7 +1277,7 @@
       "pod": "Port Klang Westport",
       "containerType": "20gp",
       "totalBoxes": 1418,
-      "cbm": 7.3,
+      "cbm": 7.2,
       "totalAmount": 22546.2,
       "status": "未完成",
       "category": "猫砂",
@@ -1300,7 +1300,7 @@
       "grossWeight": 8536.36,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.3
+      "exchangeRate": 7.2
     },
     {
       "orderId": "FS20260218030",
@@ -2891,5 +2891,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-02T13:00:59.977Z"
+  "syncedAt": "2026-03-02T14:01:02.745Z"
 }
