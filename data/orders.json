@@ -39,7 +39,8 @@
       "grossWeight": 0,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-30T16:00:00.000Z"
     },
     {
       "orderId": "FS20251225056",
@@ -71,7 +72,8 @@
       "grossWeight": 0,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2025-12-28T16:00:00.000Z"
     },
     {
       "orderId": "FS20251229059",
@@ -111,7 +113,8 @@
       "grossWeight": 84.3,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-10T16:00:00.000Z"
     },
     {
       "orderId": "FS20251229060",
@@ -151,7 +154,8 @@
       "grossWeight": 36.48,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-09T16:00:00.000Z"
     },
     {
       "orderId": "FS20251230062",
@@ -191,7 +195,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-01-07T16:00:00.000Z"
     },
     {
       "orderId": "FS20251231065",
@@ -231,7 +236,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2025-12-30T16:00:00.000Z"
     },
     {
       "orderId": "FS20260105001",
@@ -271,7 +277,8 @@
       "grossWeight": 111,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-14T16:00:00.000Z"
     },
     {
       "orderId": "FS20260119016",
@@ -301,7 +308,8 @@
       "grossWeight": 11673.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-24T16:00:00.000Z"
     },
     {
       "orderId": "FS20260122017",
@@ -331,7 +339,8 @@
       "grossWeight": 13440,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-20T16:00:00.000Z"
     },
     {
       "orderId": "FS20260123018",
@@ -375,7 +384,8 @@
       "grossWeight": 26100,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-12T16:00:00.000Z"
     },
     {
       "orderId": "FS20260123020",
@@ -405,7 +415,8 @@
       "grossWeight": 1464,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "RMB",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-15T16:00:00.000Z"
     },
     {
       "orderId": "FS20260126025",
@@ -449,7 +460,8 @@
       "grossWeight": 11385,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "USD",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-02-05T16:00:00.000Z"
     },
     {
       "orderId": "FS20260203005",
@@ -493,7 +505,8 @@
       "grossWeight": 76190.65,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-02-02T16:00:00.000Z"
     },
     {
       "orderId": "FS20260204007",
@@ -537,7 +550,8 @@
       "grossWeight": 19354.5,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260205011",
@@ -581,7 +595,8 @@
       "grossWeight": 0,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260205012",
@@ -627,7 +642,8 @@
       "grossWeight": 0,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260205013",
@@ -673,7 +689,8 @@
       "grossWeight": 0,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260205014",
@@ -719,7 +736,8 @@
       "grossWeight": 0,
       "sellerCN": "",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260205015",
@@ -765,7 +783,8 @@
       "grossWeight": 9014.8000522,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-02-05T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206016",
@@ -811,7 +830,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-07T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206017",
@@ -857,7 +877,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-14T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206018",
@@ -903,7 +924,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-06T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206019",
@@ -949,7 +971,8 @@
       "grossWeight": 25080,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-07T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206020",
@@ -995,7 +1018,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-14T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206021",
@@ -1041,7 +1065,8 @@
       "grossWeight": 23063,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-02-09T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206022",
@@ -1087,7 +1112,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-25T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206023",
@@ -1133,7 +1159,8 @@
       "grossWeight": 13440,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-01-25T16:00:00.000Z"
     },
     {
       "orderId": "FS20260206024",
@@ -1179,7 +1206,8 @@
       "grossWeight": 25275,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 0
+      "exchangeRate": 0,
+      "actDelivery": "2026-01-25T16:00:00.000Z"
     },
     {
       "orderId": "FS20260209026",
@@ -1235,7 +1263,8 @@
       "grossWeight": 18304,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260210027",
@@ -1267,7 +1296,8 @@
       "grossWeight": 23803.2,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260210028",
@@ -1300,7 +1330,8 @@
       "grossWeight": 8536.36,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.2
+      "exchangeRate": 7.2,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260218030",
@@ -1341,7 +1372,8 @@
       "grossWeight": 17426.9,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-02-18T16:00:00.000Z"
     },
     {
       "orderId": "FS20260219031",
@@ -1383,7 +1415,8 @@
       "grossWeight": 26160,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-02-04T16:00:00.000Z"
     },
     {
       "orderId": "FS20260219032",
@@ -1425,7 +1458,8 @@
       "grossWeight": 26160,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-02-04T16:00:00.000Z"
     },
     {
       "orderId": "FS20260219033",
@@ -1467,7 +1501,8 @@
       "grossWeight": 26160,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": "2026-02-04T16:00:00.000Z"
     },
     {
       "orderId": "FS20260220035",
@@ -1509,7 +1544,8 @@
       "grossWeight": 26164.8,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220036",
@@ -1551,7 +1587,8 @@
       "grossWeight": 13728,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220037",
@@ -1593,7 +1630,8 @@
       "grossWeight": 26160,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220038",
@@ -1635,7 +1673,8 @@
       "grossWeight": 14304,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220039",
@@ -1677,7 +1716,8 @@
       "grossWeight": 13440,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220040",
@@ -1719,7 +1759,8 @@
       "grossWeight": 13440,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220041",
@@ -1761,7 +1802,8 @@
       "grossWeight": 11673.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220042",
@@ -1793,7 +1835,8 @@
       "grossWeight": 11673.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220043",
@@ -1835,7 +1878,8 @@
       "grossWeight": 22701.1,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220044",
@@ -1867,7 +1911,8 @@
       "grossWeight": 11673.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220045",
@@ -1899,7 +1944,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220046",
@@ -1931,7 +1977,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220047",
@@ -1963,7 +2010,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220048",
@@ -1995,7 +2043,8 @@
       "grossWeight": 24880,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220049",
@@ -2027,7 +2076,8 @@
       "grossWeight": 19488,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220050",
@@ -2069,7 +2119,8 @@
       "grossWeight": 11776,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220051",
@@ -2111,7 +2162,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220052",
@@ -2145,7 +2197,8 @@
       "grossWeight": 25200,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220053",
@@ -2179,7 +2232,8 @@
       "grossWeight": 14736,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220054",
@@ -2211,7 +2265,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220055",
@@ -2243,7 +2298,8 @@
       "grossWeight": 11673.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220056",
@@ -2275,7 +2331,8 @@
       "grossWeight": 11688.96,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220057",
@@ -2309,7 +2366,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220058",
@@ -2343,7 +2401,8 @@
       "grossWeight": 25300,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.2
+      "exchangeRate": 7.2,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260220059",
@@ -2377,7 +2436,8 @@
       "grossWeight": 13440,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.2
+      "exchangeRate": 7.2,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223060",
@@ -2411,7 +2471,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223061",
@@ -2445,7 +2506,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223062",
@@ -2479,7 +2541,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223063",
@@ -2513,7 +2576,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223064",
@@ -2547,7 +2611,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223065",
@@ -2581,7 +2646,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223066",
@@ -2615,7 +2681,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223067",
@@ -2649,7 +2716,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223068",
@@ -2683,7 +2751,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223069",
@@ -2717,7 +2786,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223070",
@@ -2751,7 +2821,8 @@
       "grossWeight": 26266.8,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223071",
@@ -2785,7 +2856,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223072",
@@ -2819,7 +2891,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.2
+      "exchangeRate": 7.2,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223073",
@@ -2853,7 +2926,8 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.2
+      "exchangeRate": 7.2,
+      "actDelivery": ""
     },
     {
       "orderId": "FS20260223074",
@@ -2887,9 +2961,10 @@
       "grossWeight": 26245.6,
       "sellerCN": "厦门巴匕进出口有限公司",
       "currency": "CNY",
-      "exchangeRate": 7.1
+      "exchangeRate": 7.1,
+      "actDelivery": ""
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-02T21:00:59.980Z"
+  "syncedAt": "2026-03-02T22:00:52.632Z"
 }
