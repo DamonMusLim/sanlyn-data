@@ -1557,7 +1557,7 @@
       "orderId": "FS20260220037",
       "customer": "PETSOME SDN BHD",
       "companyNameEN": "PETSOME SDN BHD",
-      "pol": "",
+      "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "containerType": "40hq",
       "totalBoxes": 2400,
@@ -2891,5 +2891,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-02T18:01:00.065Z"
+  "syncedAt": "2026-03-02T19:01:00.530Z"
 }
