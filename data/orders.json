@@ -1723,7 +1723,7 @@
       "totalAmountFactory": 205593.6,
       "currency": "CNY",
       "tradeCurrency": "",
-      "exchangeRate": 7.1,
+      "exchangeRate": 7.2,
       "profit": 18503.424,
       "invoicedAmount": 0,
       "pendingInvoice": 213888,
@@ -4091,5 +4091,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-03T07:00:38.604Z"
+  "syncedAt": "2026-03-03T08:00:38.687Z"
 }
