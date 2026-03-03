@@ -1520,7 +1520,7 @@
       "pod": "Port Klang Westport",
       "containerType": "40hq",
       "totalBoxes": 1920,
-      "cbm": 0,
+      "cbm": 39.9999936,
       "grossWeight": 13440,
       "netWeight": 11059.2,
       "totalAmount": 186624,
@@ -1651,7 +1651,7 @@
       "totalAmountFactory": 292864,
       "currency": "CNY",
       "tradeCurrency": "",
-      "exchangeRate": 7.1,
+      "exchangeRate": 7.2,
       "profit": 26357.76,
       "invoicedAmount": 0,
       "pendingInvoice": 309760,
@@ -4091,5 +4091,5 @@
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-03T06:00:41.781Z"
+  "syncedAt": "2026-03-03T07:00:38.604Z"
 }
