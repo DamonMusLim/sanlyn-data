@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "code": "00004",
+    "name": "PETSOME (EU) SDN BHD",
+    "country": "Malaysia",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": []
+  },
+  {
+    "code": "00005",
+    "name": "JJ PET GROUP SDN BHD",
+    "country": "Malaysia",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": []
+  },
+  {
+    "code": "00006",
+    "name": "DIBAQ (M) SDN BHD",
+    "country": "Malaysia",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": []
+  },
+  {
+    "code": "00007",
+    "name": "PETSOME SDN BHD",
+    "country": "Malaysia",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": [
+      {
+        "id": "addr_6951e26dbd937e1ab631e35d_0",
+        "country": "Malaysia",
+        "pod": "Kota Kinabalu",
+        "address": "Lot 1, Wei Hing Warehouse Jalan Bengkel Majlis Bandar Baru Penampang Jalan Bundusan 88300 Penampang Sabah, Malaysia",
+        "consignee": "PETSOME SDN BHD"
+      }
+    ]
+  },
+  {
+    "code": "00009",
+    "name": "FORTUNESANLYN GROUP LIMITED",
+    "country": "",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": [
+      {
+        "id": "addr_697466a4c02a1a689e67cc42_0",
+        "country": "Saudi Arabia",
+        "pod": "",
+        "address": "SOAQALJOMA.PARK BE HAPPY.199,TRIPOLI,LIBYA",
+        "consignee": "AL BASHEK COMPANY"
+      }
+    ]
+  },
+  {
+    "code": "00010",
+    "name": "Eversparkles Pte Ltd",
+    "country": "",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": [
+      {
+        "id": "addr_6977345f2c2f9c249a146d10_0",
+        "country": "Philippines",
+        "pod": "",
+        "address": "Unit8148SanFranciscoSt.Plainview MandaluyongCityMetroManilaPhilippines1550",
+        "consignee": "Nexquest- KMPInternational Corporation"
+      }
+    ]
+  },
+  {
+    "code": "00011",
+    "name": "HARMONIOUS HAPPY VENTURES SDN BHD",
+    "country": "Malaysia",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": []
+  },
+  {
+    "code": "00015",
+    "name": "ENRICH CHAMPION SDN BHD",
+    "country": "",
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "不加价",
+      "value": 0,
+      "currency": "CNY"
+    },
+    "addresses": []
+  }
+]
