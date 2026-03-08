@@ -57,7 +57,11 @@
       "docPI": null,
       "docIV": "https://files.jiandaoyun.com/3a2e0223-c929-442f-ae6f-893c9c43e948?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260124164700.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:8bb4yHUW67NXS1xNcZCCBnIIjBg=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU253901701",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-06",
+      "eta": "2026-02-28"
     },
     {
       "orderId": "-ORDER-0004",
@@ -107,7 +111,11 @@
       "docPI": "https://files.jiandaoyun.com/4ca6ede7-16be-460e-a124-764ed24517f1?attname=FS20251225056LL-Order-20.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Ruv_GMS0JA8c1VVoZkxoUBEQsAw=",
       "docIV": "https://files.jiandaoyun.com/521acf12-f4c1-4b16-ba1a-b6342e8092cf?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260218114054.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:5nahVOE2vo4abRSmKaYP4gGzHho=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU521798673",
+      "vessel": "MSC DIANA",
+      "etd": "2026-01-08",
+      "eta": "2026-01-30"
     },
     {
       "orderId": "-ORDER-0007",
@@ -165,7 +173,11 @@
       "docPI": null,
       "docIV": null,
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY103470374",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-01-12",
+      "eta": "2026-02-03"
     },
     {
       "orderId": "-ORDER-0008",
@@ -223,7 +235,11 @@
       "docPI": "https://files.jiandaoyun.com/00bdf750-5d07-49d4-8828-5720183f80ff?attname=FS20251229060XM246.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:x__9zW-pTyOIFOZrCRcyJAdrlGg=",
       "docIV": "https://files.jiandaoyun.com/9fccdd8c-0b20-4b97-bba9-2e78021cddb8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260211153213.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:oH0LhOACx4rp4Hip4JASu6x-55I=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU588004005",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-01-12",
+      "eta": "2026-02-03"
     },
     {
       "orderId": "-ORDER-0010",
@@ -281,7 +297,11 @@
       "docPI": "https://files.jiandaoyun.com/9dcb6aa5-80a4-4e84-a4ab-a259be67d781?attname=FS20251230062LL-21.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:TOARJZdlIg9ft4tYI0sBAsrGhrU=",
       "docIV": "https://files.jiandaoyun.com/d6e3b1b1-61ec-4cec-9957-d10eab1feea3?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260218114113.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:h17NZQ0XWAb8k652Rij7aWdVm4s=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU523773890",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-01-25",
+      "eta": "2026-02-16"
     },
     {
       "orderId": "-ORDER-0013",
@@ -665,7 +685,11 @@
       "docPI": "https://files.jiandaoyun.com/7d1bd833-6e4c-4d06-aa2c-377e476355c5?attname=FS20260126025PBZSL-20260204.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:-Hf6424418vcoOC0vFKpaLhxtYQ=",
       "docIV": "https://files.jiandaoyun.com/ec1f05d7-ccaf-4d23-a983-4ee36e492f6f?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260206110458.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:nP3Ct6MZXZck4Wv3B1RHRoTRxow=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU941832521",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-02-19",
+      "eta": "2026-03-19"
     },
     {
       "orderId": "PBTYF-20260104",
@@ -851,7 +875,11 @@
       "docPI": "https://files.jiandaoyun.com/2b1d6b31-60cc-463d-b352-b871a9a1374d?attname=FS20260205011PBCAM-20260205.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:kOHXVDsy7LX3j8ppHDEoVJm1hks=",
       "docIV": "https://files.jiandaoyun.com/6eb86b9e-e8d6-44dc-af48-804e0b90dadb?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205164924.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:vWJ7adzdrf5mHG3eRfSr_XQCg-o=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY171850413",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-19",
+      "eta": "2026-03-13"
     },
     {
       "orderId": "-ORDER-0027",
@@ -915,7 +943,11 @@
       "docPI": "https://files.jiandaoyun.com/568dd888-2863-441b-981d-38b44ccb7b07?attname=FS202602050121.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:26Ym5yX9BTpudXlfQ5ur-7FJJjA=",
       "docIV": "https://files.jiandaoyun.com/9295aa50-2d08-43c8-9f43-78dde496ed5e?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205180320.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:4KTuGYn_kt24GYt9PF4OuzXYLVM=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU473736886",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-02-19",
+      "eta": "2026-03-13"
     },
     {
       "orderId": "-ORDER-0028",
@@ -979,7 +1011,11 @@
       "docPI": "https://files.jiandaoyun.com/8397f6a0-0a2e-4dd0-9e3c-7642350dc61e?attname=FS202602050132.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:titC7LOQpAawforr-SJJxJRBr7A=",
       "docIV": "https://files.jiandaoyun.com/0bf0a4b4-a762-4fea-9d05-524762ee15a8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205181357.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:U2z6mApSuejF84e2MnLxyRf2zu8=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU920506845",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-19",
+      "eta": "2026-03-13"
     },
     {
       "orderId": "-ORDER-0029",
@@ -1043,7 +1079,11 @@
       "docPI": "https://files.jiandaoyun.com/e1622068-c8ef-459b-b249-55414177c086?attname=FS202602050143.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ZLImXH1fg8kJZyZ0elcWfQkeBn8=",
       "docIV": "https://files.jiandaoyun.com/8aa07218-337e-40c5-aa1d-b9cf5a5367cf?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260212161315.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:eqg_Ws56LPR0P8WYiLnN4cYrSBg=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU423794542",
+      "vessel": "MSC DIANA",
+      "etd": "2026-02-19",
+      "eta": "2026-03-13"
     },
     {
       "orderId": "PBXCD-20260205",
@@ -1107,7 +1147,11 @@
       "docPI": "https://files.jiandaoyun.com/473e8614-4e0d-4fba-803f-f8bb9a66276f?attname=FS20260205015PBXCD-20260205.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:_1NO1QdwGGqlaIdMVl9yN9wq2-g=",
       "docIV": "https://files.jiandaoyun.com/fcab3eb5-da0e-444c-9db9-50b395d87a37?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260213175310.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:20HJrLtZjflRo_9Qc-ZkuMDtQhI=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY911692380",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-19",
+      "eta": "2026-03-13"
     },
     {
       "orderId": "PS-ORDER-0031",
@@ -1491,7 +1535,11 @@
       "docPI": "https://files.jiandaoyun.com/9af2bd3e-3c7f-4659-adfd-2304948735ba?attname=FS20260206021PBTDP-20251229.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:fJp9JSGPhuDTo30lFnsP0M4yHJ4=",
       "docIV": "https://files.jiandaoyun.com/f0d6b803-a61c-4e80-b3d8-e3e41c39a9c0?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260212162717.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:9IXaTLOLgVzD47SXxOy7rcGxZqk=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU240233091",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-01-01",
+      "eta": "2026-02-02"
     },
     {
       "orderId": "PS-ORDER-0037",
@@ -1757,7 +1805,11 @@
       "docPI": "https://files.jiandaoyun.com/2f5b6a51-555e-423a-869c-2dfc93290764?attname=FS20260209026wp-52.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:a4nsAu14VAPod6leR1C15C0NOFg=",
       "docIV": "https://files.jiandaoyun.com/5fb77c21-c24c-4efe-9b1d-26805cd79c0f?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303144937.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:5LnNjQr94UWpbEtHOgVgOKX4UMA=",
       "docPL": "https://files.jiandaoyun.com/5a934335-9c1a-4628-b002-fcaf750e87a0?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303144939.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:L2fqyrFVspWUOF9uO6bsM9zhVbA=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU399580885",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-23",
+      "eta": "2026-03-17"
     },
     {
       "orderId": "PS-ORDER-0042",
@@ -3509,7 +3561,11 @@
       "docPI": "https://files.jiandaoyun.com/aceba20e-0317-43c0-8647-eee7d1d53a75?attname=FS20260223060CA-1.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:kY4Tstr3KGxa2fvp5OZxuxF7bWg=",
       "docIV": "https://files.jiandaoyun.com/2e65cb97-e639-44ce-9d8f-a9d7981c3c8a?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000914.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:T7i3e-igCArQYvg8kmdrTSMd0Ck=",
       "docPL": "https://files.jiandaoyun.com/b3084389-de16-4249-a384-ade5b3835eab?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000915.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:HggolK0Zzxzy-dv-V0ppIHr7184=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU135841486",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0074",
@@ -3561,7 +3617,11 @@
       "docPI": "https://files.jiandaoyun.com/be0ada0c-d43c-4426-9c16-9f5ebfcdf451?attname=FS20260223061CA-2.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:TP8gpo1QHQHPOUty-EI5bHVookc=",
       "docIV": "https://files.jiandaoyun.com/4ff1ea5e-0d16-4fe8-9903-4cc8a75edf5b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000903.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:B2s7jMEUNxuJx96nl6YMc4RpWBg=",
       "docPL": "https://files.jiandaoyun.com/ffcaa722-387a-4d40-a892-7948c36d442d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000906.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:TEI4cHRVjCEYtISLDqGS-AFf4n0=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU793412298",
+      "vessel": "MSC DIANA",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0075",
@@ -3613,7 +3673,11 @@
       "docPI": "https://files.jiandaoyun.com/e1c87bad-3b43-48b8-bd3a-19a30f77c150?attname=FS20260223062CA-3.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:tuLY-H_fgA8cMC8ufw4_G9ZDvV8=",
       "docIV": "https://files.jiandaoyun.com/ca620153-ed5e-4501-abd2-a1a784cf1ddd?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000854.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:G4fR3gMNX8lVePVG9fyclffwDZY=",
       "docPL": "https://files.jiandaoyun.com/b398d00e-f977-4111-9764-e4b1fd9ca724?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000856.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Bh44CrDweLVD34TzzkeeqsxwUAI=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY642624495",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0076",
@@ -3665,7 +3729,11 @@
       "docPI": "https://files.jiandaoyun.com/a63f4744-9e7d-4a64-a711-7fcf36fac5d8?attname=FS20260223063CA-4.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:8fnVHDp6j_kojRgQ_ig9e0NKQuM=",
       "docIV": "https://files.jiandaoyun.com/dec835c5-38ab-456a-994c-f82ebb9c9280?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000847.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:vHI7sTwTbVkNaEGqtf0E0eX-dY4=",
       "docPL": "https://files.jiandaoyun.com/abc3f3e4-b2ec-4065-aa01-2e3ba01a42b6?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000849.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:pTqlmKkxqvfSn1Ruc6iI2XkhSso=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU677513604",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0077",
@@ -3717,7 +3785,11 @@
       "docPI": "https://files.jiandaoyun.com/b7a2b6eb-31ce-4ebd-9e54-c6fafbb38ee4?attname=FS20260223064CA-5.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:RGZL_szLoeFBXgMTJN-5R2cqzHk=",
       "docIV": "https://files.jiandaoyun.com/c36b2231-26f9-468a-8273-23c88d457680?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000839.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:17wLyOnIaYD2Nki5LSA0mZH38eQ=",
       "docPL": "https://files.jiandaoyun.com/0f194a78-ac7a-4e21-b70e-2f4473a137bc?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000840.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:EVAg1WIjZ9hwpTpR7Oad-mqq70Q=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU927758444",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0078",
@@ -3769,7 +3841,11 @@
       "docPI": "https://files.jiandaoyun.com/985e903e-4a4c-4370-ac85-d3dadf9c82dc?attname=FS20260223065CA-6.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:oRo3pCRReRAconHumJeGHsGk6C0=",
       "docIV": "https://files.jiandaoyun.com/96a63cd5-154b-4735-8aa3-b889057e8b02?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000830.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:jI_PeWzGvd43bHFw_EKisNsufpc=",
       "docPL": "https://files.jiandaoyun.com/6b1b6e15-2026-4ed3-81ac-722c288fe27b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000833.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:4bk_cmPfPis2US0EKgZxePmxWJI=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU208990259",
+      "vessel": "MSC DIANA",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0079",
@@ -3821,7 +3897,11 @@
       "docPI": "https://files.jiandaoyun.com/9fe4a0bd-80ab-47b6-9bec-e050726ecbc5?attname=FS20260223066CA-7.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:54yPW1hPtNE-pIvKPnOpYfUlQM0=",
       "docIV": "https://files.jiandaoyun.com/e644e013-e9e4-4545-8b68-ee181aa31917?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000823.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:bKmjsMkcuZMCuxi7iotzkgZPIvo=",
       "docPL": "https://files.jiandaoyun.com/77c36d22-5b55-4b9c-978c-2f22bd8efb16?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000824.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:GprYaqHPlPNN09rPTr13TLjw1Oc=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY722109038",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0080",
@@ -3873,7 +3953,11 @@
       "docPI": "https://files.jiandaoyun.com/49c74a3c-51b0-4040-8fbb-7c7389cae293?attname=FS20260223067CA-8.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:r5mUVflGpglUFRzARgCfCdysRcQ=",
       "docIV": "https://files.jiandaoyun.com/104d225f-e618-434f-a6f3-87beeb6f754b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000814.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:eXKs-x7c6FTcO8s-qYfzTTkE7vg=",
       "docPL": "https://files.jiandaoyun.com/c39e97ad-137b-4fb1-bcdb-f716d8e4ad1d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000815.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:2xoiStE206ZctBTeYlxrxJ9JmXo=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU375890274",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0081",
@@ -3925,7 +4009,11 @@
       "docPI": "https://files.jiandaoyun.com/8e87f998-307f-4146-9765-2dbc96862dc2?attname=FS20260223068CA-9.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ZWu5mLfcIEEwmca72v3KnA3O9-0=",
       "docIV": "https://files.jiandaoyun.com/a27e407e-5c00-4c86-8c29-2e68c4bb9f05?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000807.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:7LI_flfUEWPBbDf2lJL0LkXpmz4=",
       "docPL": "https://files.jiandaoyun.com/b8bfff6c-b4a9-47c9-b439-96bbe1d9d468?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000811.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:1Lh5DavaAhwu5mdtrRl5v_5UXwk=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU547803471",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0082",
@@ -3977,7 +4065,11 @@
       "docPI": "https://files.jiandaoyun.com/6cf63736-f3f4-412b-a676-4f3a55df0f79?attname=FS20260223069CA-10.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:CK32WFmbhzQ7oEKBypDaNYPIIsM=",
       "docIV": "https://files.jiandaoyun.com/0b85a8de-cdbf-4cdc-9ca7-6eb313de3408?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000759.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ygYhzLMKx6tixknl6CeqdACYfgI=",
       "docPL": "https://files.jiandaoyun.com/1ec6d91c-6027-411b-a5e6-20455f2e64b8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000801.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:nCp7kQXju-t8gcYI_75zZ7zWCS4=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU461550165",
+      "vessel": "MSC DIANA",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0083",
@@ -4029,7 +4121,11 @@
       "docPI": "https://files.jiandaoyun.com/74de62a7-4de1-4648-9ea9-971e41f8afb8?attname=FS20260223070CA-11.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:q9uiuSuHb_UjbFWQPBHsw4Tvoyk=",
       "docIV": "https://files.jiandaoyun.com/7fc6cf32-6b66-46f0-a572-0707892ea0cb?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000749.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Xvk7wqKpvT7udFd9dxpotF10-UE=",
       "docPL": "https://files.jiandaoyun.com/add263d1-6592-4fdc-b2fc-f32e68549996?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000750.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:6OsKXsrDDJBzEtBwHX8zqrrVaFU=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY321776940",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0084",
@@ -4081,7 +4177,11 @@
       "docPI": "https://files.jiandaoyun.com/99013f2d-3543-4fdf-8f77-55777f43322c?attname=FS20260223071CA-12.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:F5wGZ4se8f2hROAOVfKWTjzhXWU=",
       "docIV": "https://files.jiandaoyun.com/6387c2f9-8a93-41b9-8ec4-ef9a7c5fc608?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000742.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:WhRlNPT2ZJS7p7aj5nawaYSuAmE=",
       "docPL": "https://files.jiandaoyun.com/35aa7cf3-afec-4f6b-852d-272846cd7c95?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000743.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:HQ3UbW2IXjnIWE6Y6KmohTLSYSc=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "EASU218702049",
+      "vessel": "EVER GENIUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0085",
@@ -4133,7 +4233,11 @@
       "docPI": "https://files.jiandaoyun.com/31c23966-e712-44bd-83a9-681ec7f9fdd6?attname=FS20260223072CA-13.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:xRrlUKK-IT2f7P1D01j5nxpndhA=",
       "docIV": "https://files.jiandaoyun.com/1fefbb7c-7c88-4eb4-bf07-7504b4a2f009?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000731.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:4waF61EYCoHqMd0fvwLSjmuH84E=",
       "docPL": "https://files.jiandaoyun.com/327573f4-e546-4b58-a5b8-7b1f32b3da3d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000733.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:pGgILrA1QljC7FV4aGE2EQGrJYI=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "COSU257407633",
+      "vessel": "COSCO SHIPPING GEMINI",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0086",
@@ -4185,7 +4289,11 @@
       "docPI": "https://files.jiandaoyun.com/3e750a40-b46d-4819-a2e0-398fff72ce65?attname=FS20260223073CA-14.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:wPBGQVnFC85Vhn6ioHui1Ea8sSA=",
       "docIV": "https://files.jiandaoyun.com/ba72cb46-c290-462d-a3be-8bbe98be0622?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000721.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:txHPYDFq08bhMtOxtvOV_c137Lo=",
       "docPL": "https://files.jiandaoyun.com/3edf0b71-114a-4a6c-a6c8-8950dc110d42?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000724.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ZOP0yfEWy5DPD5AwhNSXIGvCfWk=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "MSCU794025207",
+      "vessel": "MSC DIANA",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     },
     {
       "orderId": "-ORDER-0087",
@@ -4237,9 +4345,11 @@
       "docPI": "https://files.jiandaoyun.com/d42483ef-bb7f-4602-96cf-2f2587cec6f3?attname=FS20260223074CA-15.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:dkdZt6_QUotL9vx8KSRVLk4actY=",
       "docIV": "https://files.jiandaoyun.com/b167ba2e-6f0a-4805-b9db-a398a56e6360?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000713.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:LhNJuu2Zh22_oHhyJg9Oqt_MQpY=",
       "docPL": "https://files.jiandaoyun.com/eb0e2aee-b0a3-4553-8eca-531c2a2855aa?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000715.xlsx&e=1774259999&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:cTCv9cb-eWBLGeWeSjKrblD5GLI=",
-      "status": "Production"
+      "status": "Shipping",
+      "blNo": "ONEY787297463",
+      "vessel": "ONE OLYMPUS",
+      "etd": "2026-02-17",
+      "eta": "2026-03-11"
     }
-  ],
-  "total": 75,
-  "syncedAt": "2026-03-08T09:00:24.304Z"
+  ]
 }
