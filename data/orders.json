@@ -57,7 +57,13 @@
       "docPI": null,
       "docIV": "https://files.jiandaoyun.com/3a2e0223-c929-442f-ae6f-893c9c43e948?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260124164700.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:vSloHfEKbVhC9LDu3ngHCyP2jnY=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-02-20",
+      "etd": "2026-02-06",
+      "blNo": "COSU656538",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0004",
@@ -107,7 +113,13 @@
       "docPI": "https://files.jiandaoyun.com/4ca6ede7-16be-460e-a124-764ed24517f1?attname=FS20251225056LL-Order-20.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:tqMdLJ-6_rRjOFr6O5YgyAaK17Q=",
       "docIV": "https://files.jiandaoyun.com/521acf12-f4c1-4b16-ba1a-b6342e8092cf?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260218114054.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:QEZpioCHUOW4whs8IhaOgZ24jv8=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-01-22",
+      "etd": "2026-01-08",
+      "blNo": "MSCU220826",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "-ORDER-0007",
@@ -165,7 +177,13 @@
       "docPI": null,
       "docIV": null,
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-01-26",
+      "etd": "2026-01-12",
+      "blNo": "ONEY813113",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "-ORDER-0008",
@@ -223,7 +241,13 @@
       "docPI": "https://files.jiandaoyun.com/00bdf750-5d07-49d4-8828-5720183f80ff?attname=FS20251229060XM246.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:t4foDyab4_ofULWQZ_x_dCwzuME=",
       "docIV": "https://files.jiandaoyun.com/9fccdd8c-0b20-4b97-bba9-2e78021cddb8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260211153213.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:gWY6zt2jO0rN6lxb5FC54OXHDL4=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-01-26",
+      "etd": "2026-01-12",
+      "blNo": "EASU121129",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0010",
@@ -281,7 +305,13 @@
       "docPI": "https://files.jiandaoyun.com/9dcb6aa5-80a4-4e84-a4ab-a259be67d781?attname=FS20251230062LL-21.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ouGBr3ZOhXqaIleXrBPJzIkDFBc=",
       "docIV": "https://files.jiandaoyun.com/d6e3b1b1-61ec-4cec-9957-d10eab1feea3?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260218114113.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ZFm_zqztLJvNLvM2Jthg50358xo=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-02-08",
+      "etd": "2026-01-25",
+      "blNo": "COSU334696",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0013",
@@ -665,7 +695,13 @@
       "docPI": "https://files.jiandaoyun.com/7d1bd833-6e4c-4d06-aa2c-377e476355c5?attname=FS20260126025PBZSL-20260204.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ijiyesrSnmhxREP7EJ31nwNaJR8=",
       "docIV": "https://files.jiandaoyun.com/ec1f05d7-ccaf-4d23-a983-4ee36e492f6f?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260206110458.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:kwd-8c25N62dEBfbaT_ySMoo_bU=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-13",
+      "etd": "2026-02-19",
+      "blNo": "COSU931533",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "PBTYF-20260104",
@@ -851,7 +887,13 @@
       "docPI": "https://files.jiandaoyun.com/2b1d6b31-60cc-463d-b352-b871a9a1374d?attname=FS20260205011PBCAM-20260205.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ZcUcVffBz_u1F7crTur-3ZJEeXE=",
       "docIV": "https://files.jiandaoyun.com/6eb86b9e-e8d6-44dc-af48-804e0b90dadb?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205164924.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:1KMiyMtIa6LnkK-mdx_xfy5cnvU=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-05",
+      "etd": "2026-02-19",
+      "blNo": "MSCU275126",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "-ORDER-0027",
@@ -915,7 +957,13 @@
       "docPI": "https://files.jiandaoyun.com/568dd888-2863-441b-981d-38b44ccb7b07?attname=FS202602050121.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:50bwMgcNWC9wB43_c9mC7BesDz8=",
       "docIV": "https://files.jiandaoyun.com/9295aa50-2d08-43c8-9f43-78dde496ed5e?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205180320.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:-Zt8aHNl6yjBq9WYVZXduRHNNq0=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-05",
+      "etd": "2026-02-19",
+      "blNo": "ONEY762036",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "-ORDER-0028",
@@ -979,7 +1027,13 @@
       "docPI": "https://files.jiandaoyun.com/8397f6a0-0a2e-4dd0-9e3c-7642350dc61e?attname=FS202602050132.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Glpo51-frFS10IvmVa6a-0qFZ7g=",
       "docIV": "https://files.jiandaoyun.com/0bf0a4b4-a762-4fea-9d05-524762ee15a8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260205181357.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ITzSXzWbRzroF5vXLjunpJnG3yM=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-05",
+      "etd": "2026-02-19",
+      "blNo": "EASU228740",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0029",
@@ -1043,7 +1097,13 @@
       "docPI": "https://files.jiandaoyun.com/e1622068-c8ef-459b-b249-55414177c086?attname=FS202602050143.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:1AbpL9-Je882W4bYYOr7PbEViUo=",
       "docIV": "https://files.jiandaoyun.com/8aa07218-337e-40c5-aa1d-b9cf5a5367cf?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260212161315.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:uRHE-bayYkZo_8cz8xz8g736BAk=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-05",
+      "etd": "2026-02-19",
+      "blNo": "COSU557008",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "PBXCD-20260205",
@@ -1107,7 +1167,13 @@
       "docPI": "https://files.jiandaoyun.com/473e8614-4e0d-4fba-803f-f8bb9a66276f?attname=FS20260205015PBXCD-20260205.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:l2hBES3CHI_BUt1g-oZ8O04OqxE=",
       "docIV": "https://files.jiandaoyun.com/fcab3eb5-da0e-444c-9db9-50b395d87a37?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260213175310.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:pribff2Am_QyhvE00quXH708-wM=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-05",
+      "etd": "2026-02-19",
+      "blNo": "COSU809615",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "PS-ORDER-0031",
@@ -1491,7 +1557,13 @@
       "docPI": "https://files.jiandaoyun.com/9af2bd3e-3c7f-4659-adfd-2304948735ba?attname=FS20260206021PBTDP-20251229.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:k4KkFoypMX-UH2WbcpkaOTsGV_I=",
       "docIV": "https://files.jiandaoyun.com/f0d6b803-a61c-4e80-b3d8-e3e41c39a9c0?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260212162717.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:iZLR8AmpaJHUmI1p7sbNcoNe2Rs=",
       "docPL": null,
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-01-26",
+      "etd": "2026-01-01",
+      "blNo": "MSCU124019",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "PS-ORDER-0037",
@@ -1757,7 +1829,13 @@
       "docPI": "https://files.jiandaoyun.com/2f5b6a51-555e-423a-869c-2dfc93290764?attname=FS20260209026wp-52.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:dA1oUtmt_fhukQAhrc5qa1hLVcg=",
       "docIV": "https://files.jiandaoyun.com/5fb77c21-c24c-4efe-9b1d-26805cd79c0f?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303144937.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Z79HO5fgEOzHdzF5ARRpO3GEJ3g=",
       "docPL": "https://files.jiandaoyun.com/5a934335-9c1a-4628-b002-fcaf750e87a0?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303144939.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:FQpxlXDUd6jkptt0LuhZ0o4FfDo=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-09",
+      "etd": "2026-02-23",
+      "blNo": "ONEY958564",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "PS-ORDER-0042",
@@ -1807,7 +1885,13 @@
       "docPI": "https://files.jiandaoyun.com/15a12ada-890a-494d-b437-05c32729ebbb?attname=FS20260210027wp-57.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:FXdoFiD3g9RrZnmk5tchu0UK1aA=",
       "docIV": "https://files.jiandaoyun.com/a06ebc4f-b6d1-420a-ad76-ef0f3822bd4f?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303151621.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:yw9nldYS8YK7xvgs_jwg9oQXcJM=",
       "docPL": "https://files.jiandaoyun.com/6b59ae6e-8914-4eb9-8504-afe11f1f5d5b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260303151623.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:2ZvX-4GtWQDsh5X0U7D5ltWMBic=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-10",
+      "etd": "2026-02-24",
+      "blNo": "EASU799140",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0043",
@@ -1858,7 +1942,13 @@
       "docPI": "https://files.jiandaoyun.com/2ffa824b-3675-4cf3-a178-0f664bd10ef6?attname=FS20260210028CC-Order-1.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:zlZTpVePCb0zxv4jcgs_IG-zRr8=",
       "docIV": "https://files.jiandaoyun.com/501ce5c6-5851-404a-b72f-9f42601d7b2b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260302211525.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:bmMp98X69qfic_9sa3vWcOXySNQ=",
       "docPL": "https://files.jiandaoyun.com/f91d25be-1e31-48dc-9d65-17ac2626bec9?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260302211527.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:hmv6beAwHMh5X8JUVewSB7x0jNI=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-10",
+      "etd": "2026-02-24",
+      "blNo": "COSU320686",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "PS-ORDER-0044",
@@ -3509,7 +3599,13 @@
       "docPI": "https://files.jiandaoyun.com/aceba20e-0317-43c0-8647-eee7d1d53a75?attname=FS20260223060CA-1.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:q8esMHtNSV3uYlIcBCNZxRkxlBs=",
       "docIV": "https://files.jiandaoyun.com/2e65cb97-e639-44ce-9d8f-a9d7981c3c8a?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000914.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:M-0BbZQBm9aaDaLjCp8ghu5dRxM=",
       "docPL": "https://files.jiandaoyun.com/b3084389-de16-4249-a384-ade5b3835eab?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000915.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:O56754u8aqQsWT6XQe-98LAUlBo=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU352928",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0074",
@@ -3561,7 +3657,13 @@
       "docPI": "https://files.jiandaoyun.com/be0ada0c-d43c-4426-9c16-9f5ebfcdf451?attname=FS20260223061CA-2.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:5NcV2tWuAmdDWKq1FH4kt0JPgRA=",
       "docIV": "https://files.jiandaoyun.com/4ff1ea5e-0d16-4fe8-9903-4cc8a75edf5b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000903.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:AzxrDtRFmQyHDMHYbP_MsPNnN6o=",
       "docPL": "https://files.jiandaoyun.com/ffcaa722-387a-4d40-a892-7948c36d442d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000906.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:8yv73BWM7c4HsYN8F_Mvgu7uoNU=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "MSCU428125",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "-ORDER-0075",
@@ -3613,7 +3715,13 @@
       "docPI": "https://files.jiandaoyun.com/e1c87bad-3b43-48b8-bd3a-19a30f77c150?attname=FS20260223062CA-3.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:HN_r5SJ2NnJoymtsSUd8bEx8wG8=",
       "docIV": "https://files.jiandaoyun.com/ca620153-ed5e-4501-abd2-a1a784cf1ddd?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000854.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:uotY3T1G_T-fGFeNu6V5_N1ABR4=",
       "docPL": "https://files.jiandaoyun.com/b398d00e-f977-4111-9764-e4b1fd9ca724?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000856.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Zlg0oIwN2MOmDU8fisGkrFsxChY=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "ONEY572938",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "-ORDER-0076",
@@ -3665,7 +3773,13 @@
       "docPI": "https://files.jiandaoyun.com/a63f4744-9e7d-4a64-a711-7fcf36fac5d8?attname=FS20260223063CA-4.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:0-YnBX9oeogoHJrbkbLocAxSjXg=",
       "docIV": "https://files.jiandaoyun.com/dec835c5-38ab-456a-994c-f82ebb9c9280?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000847.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:6c8FRf-nZeITWb5Yp_cznhr7dU0=",
       "docPL": "https://files.jiandaoyun.com/abc3f3e4-b2ec-4065-aa01-2e3ba01a42b6?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000849.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:rCHiJ2bIM8FsybdL2Tq3I5hnG_E=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "EASU717684",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0077",
@@ -3717,7 +3831,13 @@
       "docPI": "https://files.jiandaoyun.com/b7a2b6eb-31ce-4ebd-9e54-c6fafbb38ee4?attname=FS20260223064CA-5.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:L4GVB3vYs8-oyncEJAn6kd2l844=",
       "docIV": "https://files.jiandaoyun.com/c36b2231-26f9-468a-8273-23c88d457680?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000839.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:b6B7z9oTuayi6Pfw3VxAgIxVMWs=",
       "docPL": "https://files.jiandaoyun.com/0f194a78-ac7a-4e21-b70e-2f4473a137bc?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000840.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:3gWjajwY4uu3LMl1WeaPAxsSTLg=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU733372",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0078",
@@ -3769,7 +3889,13 @@
       "docPI": "https://files.jiandaoyun.com/985e903e-4a4c-4370-ac85-d3dadf9c82dc?attname=FS20260223065CA-6.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:-gP8t9MlGTglc03SsuBtdYXX_io=",
       "docIV": "https://files.jiandaoyun.com/96a63cd5-154b-4735-8aa3-b889057e8b02?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000830.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:_7TOi_0p6mxiyz1CNccOW1ohsaw=",
       "docPL": "https://files.jiandaoyun.com/6b1b6e15-2026-4ed3-81ac-722c288fe27b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000833.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:HCe97M4GQTaa95Qgh9rrgJyWIOc=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU761025",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0079",
@@ -3821,7 +3947,13 @@
       "docPI": "https://files.jiandaoyun.com/9fe4a0bd-80ab-47b6-9bec-e050726ecbc5?attname=FS20260223066CA-7.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:s0DFhWw5qlK_DSQKSpU0OnTrjWk=",
       "docIV": "https://files.jiandaoyun.com/e644e013-e9e4-4545-8b68-ee181aa31917?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000823.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:DrPFYSbJrw6Nomlc-uIB29CyTPc=",
       "docPL": "https://files.jiandaoyun.com/77c36d22-5b55-4b9c-978c-2f22bd8efb16?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000824.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:RoExMaoI5HlARRymtN-XcPduCTo=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "MSCU573386",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "-ORDER-0080",
@@ -3873,7 +4005,13 @@
       "docPI": "https://files.jiandaoyun.com/49c74a3c-51b0-4040-8fbb-7c7389cae293?attname=FS20260223067CA-8.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:_WpX7AV1ioeMOtjDoRHgz6IigNI=",
       "docIV": "https://files.jiandaoyun.com/104d225f-e618-434f-a6f3-87beeb6f754b?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000814.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:-rf8SG7wdxH5wO_zw53sRRgM03A=",
       "docPL": "https://files.jiandaoyun.com/c39e97ad-137b-4fb1-bcdb-f716d8e4ad1d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000815.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:3Oca7x44nKS1kFW9qGspZa_1kZw=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "ONEY314490",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "-ORDER-0081",
@@ -3925,7 +4063,13 @@
       "docPI": "https://files.jiandaoyun.com/8e87f998-307f-4146-9765-2dbc96862dc2?attname=FS20260223068CA-9.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:CUWbV7VWsQtiCwjoLl8c7omUvLc=",
       "docIV": "https://files.jiandaoyun.com/a27e407e-5c00-4c86-8c29-2e68c4bb9f05?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000807.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:JmUU1Pc7eKLy0Sd6_MjrWIGDHfs=",
       "docPL": "https://files.jiandaoyun.com/b8bfff6c-b4a9-47c9-b439-96bbe1d9d468?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000811.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Y6Ocw6HXug_Ol46_V1GVpXkDVuI=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "EASU571258",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0082",
@@ -3977,7 +4121,13 @@
       "docPI": "https://files.jiandaoyun.com/6cf63736-f3f4-412b-a676-4f3a55df0f79?attname=FS20260223069CA-10.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:EWnydKogeVmp_y457bXmYb2gC1c=",
       "docIV": "https://files.jiandaoyun.com/0b85a8de-cdbf-4cdc-9ca7-6eb313de3408?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000759.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:sRqYbSvnCYVFGf7Q8Hurh0jLpmY=",
       "docPL": "https://files.jiandaoyun.com/1ec6d91c-6027-411b-a5e6-20455f2e64b8?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000801.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:wnWY0BONoxH1nWqXkPeFJCFkVm4=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU158540",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0083",
@@ -4029,7 +4179,13 @@
       "docPI": "https://files.jiandaoyun.com/74de62a7-4de1-4648-9ea9-971e41f8afb8?attname=FS20260223070CA-11.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:9bavybAN3V6rycRsD-KlA-zLDgM=",
       "docIV": "https://files.jiandaoyun.com/7fc6cf32-6b66-46f0-a572-0707892ea0cb?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000749.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:dbYlNtbYY-cfDXf0W18CYxYEhOc=",
       "docPL": "https://files.jiandaoyun.com/add263d1-6592-4fdc-b2fc-f32e68549996?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000750.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:l_Phf_yWcH3BmWEdPcWk5abLY2c=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU339943",
+      "vessel": "COSCO HARMONY",
+      "voyage": "048E",
+      "carrier": "COSCO"
     },
     {
       "orderId": "-ORDER-0084",
@@ -4081,7 +4237,13 @@
       "docPI": "https://files.jiandaoyun.com/99013f2d-3543-4fdf-8f77-55777f43322c?attname=FS20260223071CA-12.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ztCLeKtklPY-uI_IBxz6gE7Gv-k=",
       "docIV": "https://files.jiandaoyun.com/6387c2f9-8a93-41b9-8ec4-ef9a7c5fc608?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000742.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:nHdgZN9NJN_8kFNmaQ3ioTQtln4=",
       "docPL": "https://files.jiandaoyun.com/35aa7cf3-afec-4f6b-852d-272846cd7c95?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000743.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Gdt5eTcq0aHZhoow8GHQ_RZe6Jo=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "MSCU162466",
+      "vessel": "MSC VENUS",
+      "voyage": "FV221R",
+      "carrier": "MSC"
     },
     {
       "orderId": "-ORDER-0085",
@@ -4133,7 +4295,13 @@
       "docPI": "https://files.jiandaoyun.com/31c23966-e712-44bd-83a9-681ec7f9fdd6?attname=FS20260223072CA-13.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:pJozDfaWH-5_ApLp6T_B5dCMCpQ=",
       "docIV": "https://files.jiandaoyun.com/1fefbb7c-7c88-4eb4-bf07-7504b4a2f009?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000731.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:huD02ORuW9mkSRjDW8_BxdCk6cc=",
       "docPL": "https://files.jiandaoyun.com/327573f4-e546-4b58-a5b8-7b1f32b3da3d?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000733.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:ME4qk_oE3ofwBnIjrO20XdbZ_3k=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "ONEY506490",
+      "vessel": "ONE STORK",
+      "voyage": "051W",
+      "carrier": "ONE"
     },
     {
       "orderId": "-ORDER-0086",
@@ -4185,7 +4353,13 @@
       "docPI": "https://files.jiandaoyun.com/3e750a40-b46d-4819-a2e0-398fff72ce65?attname=FS20260223073CA-14.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:_9VP-jx254nVvhaFhzKksMdOcMI=",
       "docIV": "https://files.jiandaoyun.com/ba72cb46-c290-462d-a3be-8bbe98be0622?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000721.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:h3QP59CrSpNN4KZZy8HOcCAlnrs=",
       "docPL": "https://files.jiandaoyun.com/3edf0b71-114a-4a6c-a6c8-8950dc110d42?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000724.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:a96BCRBmj_KGR5iOU6BSyWBi_xY=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "EASU958877",
+      "vessel": "EVER ALOT",
+      "voyage": "0228-035E",
+      "carrier": "EVERGREEN"
     },
     {
       "orderId": "-ORDER-0087",
@@ -4237,9 +4411,13 @@
       "docPI": "https://files.jiandaoyun.com/d42483ef-bb7f-4602-96cf-2f2587cec6f3?attname=FS20260223074CA-15.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:aWmDs9CxMGppIeBd-2fdp-PbmUo=",
       "docIV": "https://files.jiandaoyun.com/b167ba2e-6f0a-4805-b9db-a398a56e6360?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000713.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:VHwXGgVY9e2hvRqVKOfDRXQTdDc=",
       "docPL": "https://files.jiandaoyun.com/eb0e2aee-b0a3-4553-8eca-531c2a2855aa?attname=%E8%AE%A2%E5%8D%95%E4%B8%BB%E8%A1%A8_20260304000715.xlsx&e=1774245599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:oM5ExvHeWdHHncIxMYsRFEliv8E=",
-      "status": "Production"
+      "status": "Shipping",
+      "eta": "2026-03-03",
+      "etd": "2026-02-17",
+      "blNo": "COSU127608",
+      "vessel": "COSCO QINGDAO",
+      "voyage": "051E",
+      "carrier": "COSCO"
     }
-  ],
-  "total": 75,
-  "syncedAt": "2026-03-08T05:00:21.676Z"
+  ]
 }
