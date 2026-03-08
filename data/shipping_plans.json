@@ -13,13 +13,13 @@
         "url": "https://files.jiandaoyun.com/d6545bc6-c06f-48a2-8577-2147922f55f7?attname=PBZSD-20260108%20BL.PDF&e=1774281599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Od--0MSx7GUM0d7CV9uNBJF644E="
       }
     ],
-    "vessel": "COSCO",
+    "vessel": "XIN ZHAN JIANG",
     "voyageNo": "TIAN CHANG HE/113S",
     "carrier": "",
     "pol": "Qingdao",
     "pod": "Port Klang Westport",
     "etd": "",
-    "eta": "",
+    "eta": "2026-02-11 21:00:00",
     "openPortDate": "",
     "cutoffDate": "2026-01-16T04:46:00.000Z",
     "vgmDate": "2026-01-18T04:46:00.000Z",
@@ -46,7 +46,12 @@
     "customerCompanyCN": "ENRICH CHAMPION SDN BHD",
     "customerCompany": "",
     "sellerCN": "",
-    "sellerEN": ""
+    "sellerEN": "",
+    "voyage": "196E",
+    "atd": "2026-01-23 10:22:00",
+    "currentStatus": "RCVE",
+    "currentStatusCn": "还空",
+    "trackingUpdatedAt": "2026-03-08T16:00:07.555Z"
   },
   {
     "_jdyId": "6968aca58d84c9c50a070542",
@@ -62,13 +67,13 @@
         "url": "https://files.jiandaoyun.com/bf0bc813-02f3-40c3-bcb7-9e8ccb77aea2?attname=42d25c60e9ca62e10ec3bd98bac5492a.png&e=1774281599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:Yq9oan6nn9PMvSsJxVjYzobbdRw="
       }
     ],
-    "vessel": "MSC",
+    "vessel": "XIN ZHAN JIANG",
     "voyageNo": "331212312",
     "carrier": "",
     "pol": "Qingdao",
     "pod": "Port Klang Westport",
     "etd": "",
-    "eta": "",
+    "eta": "2026-02-11 21:00:00",
     "openPortDate": "",
     "cutoffDate": "",
     "vgmDate": "",
@@ -95,7 +100,12 @@
     "customerCompanyCN": "",
     "customerCompany": "",
     "sellerCN": "",
-    "sellerEN": ""
+    "sellerEN": "",
+    "voyage": "196E",
+    "atd": "2026-01-23 10:22:00",
+    "currentStatus": "RCVE",
+    "currentStatusCn": "还空",
+    "trackingUpdatedAt": "2026-03-08T16:00:07.555Z"
   },
   {
     "_jdyId": "696d9dc8f832b2cf17e29384",
@@ -117,7 +127,7 @@
     "pol": "Qingdao",
     "pod": "Port Klang Westport",
     "etd": "",
-    "eta": "",
+    "eta": null,
     "openPortDate": "",
     "cutoffDate": "2025-12-30T15:00:00.000Z",
     "vgmDate": "",
@@ -144,7 +154,11 @@
     "customerCompanyCN": "",
     "customerCompany": "",
     "sellerCN": "",
-    "sellerEN": ""
+    "sellerEN": "",
+    "atd": "2026-01-11 14:32:00",
+    "currentStatus": "RCVE",
+    "currentStatusCn": "还空",
+    "trackingUpdatedAt": "2026-03-08T16:00:07.555Z"
   },
   {
     "_jdyId": "696df89665db2d3c9dfa7978",
@@ -307,13 +321,13 @@
         "url": "https://files.jiandaoyun.com/11a9cd5d-dabb-449a-a32f-4e7c48ab19b6?attname=COAU9505599300%20%E7%94%B5%E6%94%BE%E6%8F%90%E5%8D%95.PDF&e=1774281599&token=IAM-0WcXoIsrkVmXepo5BSXTXDcIPX-DF4zkUslHbLwm:cfPHhGUQIwrGQgNcwNq3FDd0S2c="
       }
     ],
-    "vessel": "COSCO",
+    "vessel": "TIAN CHANG HE",
     "voyageNo": "",
     "carrier": "",
     "pol": "Tianjin",
     "pod": "Port Klang Westport",
     "etd": "",
-    "eta": "",
+    "eta": "2026-02-04 08:00:00",
     "openPortDate": "",
     "cutoffDate": "",
     "vgmDate": "",
@@ -340,7 +354,12 @@
     "customerCompanyCN": "HARMONIOUS HAPPY VENTURES SDN BHD",
     "customerCompany": "",
     "sellerCN": "",
-    "sellerEN": ""
+    "sellerEN": "",
+    "voyage": "113S",
+    "atd": "2026-01-18 16:12:00",
+    "currentStatus": "RCVE",
+    "currentStatusCn": "还空",
+    "trackingUpdatedAt": "2026-03-08T16:00:07.555Z"
   },
   {
     "_jdyId": "6973639424dda352d4a0458d",
