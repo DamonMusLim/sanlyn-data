@@ -5,6 +5,7 @@
       "customerPO": "xm-order-245",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2025-12-31",
@@ -22,6 +23,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
@@ -72,6 +80,7 @@
       "customerPO": "LL-Order-20",
       "status": "",
       "companyNameEN": "DIBAQ (M) SDN BHD",
+      "companyCode": "DIBAQ",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2025-12-30",
@@ -80,6 +89,13 @@
       "brands": [
         "NATURAL WORLD"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "NATURAL WORLD TOFU CAT LITTER ORIGINAL 2.5KG",
@@ -123,6 +139,7 @@
       "customerPO": "XM 247",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-10",
@@ -139,6 +156,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
@@ -217,6 +241,7 @@
       "customerPO": "XM 246",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-17",
@@ -233,6 +258,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
@@ -290,6 +322,7 @@
       "customerPO": "LL-21",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-30",
@@ -306,6 +339,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME TOFU CAT LITTER MILK 2.5KG",
@@ -356,6 +396,7 @@
       "customerPO": "XM 241",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-10",
@@ -372,6 +413,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -401,6 +449,7 @@
       "customerPO": "ECO -202601",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-30",
@@ -417,6 +466,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ECO TOFU CAT LITTER CHARCOAL 2.2KG",
@@ -467,12 +523,20 @@
       "customerPO": "XM-238",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-02",
       "requireArrivalDate": "2026-02-02",
       "containerType": "1",
       "brands": [],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -516,12 +580,20 @@
       "customerPO": "XM-239",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-20",
       "requireArrivalDate": "2026-01-20",
       "containerType": "1",
       "brands": [],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
@@ -586,6 +658,7 @@
       "customerPO": "PBCAM-2025071102",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -606,6 +679,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
@@ -628,12 +708,20 @@
       "customerPO": "PBLSQ-20260115",
       "status": "",
       "companyNameEN": "Magros Petcare SL",
+      "companyCode": "",
       "pol": "",
       "pod": "",
       "orderDate": "",
       "requireArrivalDate": "",
       "containerType": "1",
       "brands": [],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": []
     },
     {
@@ -641,6 +729,7 @@
       "customerPO": "PBZSL-20260204",
       "status": "",
       "companyNameEN": "Eversparkles Pte Ltd",
+      "companyCode": "",
       "pol": "Qingdao",
       "pod": "Dammam",
       "orderDate": "",
@@ -661,6 +750,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Sinature7 TOFU CAT LITTER STRAWBERRY 2.5KG",
@@ -690,6 +786,7 @@
       "customerPO": "PBTYF-20260104",
       "status": "",
       "companyNameEN": "JJ PET GROUP SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Kota Kinabalu",
       "orderDate": "2026-02-02",
@@ -710,6 +807,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "No.1 Standard Pet Airline Carrier",
@@ -830,6 +934,7 @@
       "customerPO": "PBZSL-20260205",
       "status": "",
       "companyNameEN": "Eversparkles Pte Ltd",
+      "companyCode": "",
       "pol": "Qingdao",
       "pod": "Manila",
       "orderDate": "",
@@ -850,6 +955,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Sinature7 TOFU CAT LITTER Green tea 2.5KG",
@@ -886,6 +998,7 @@
       "customerPO": "PBCAM-20260205",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "2026-03-14",
@@ -906,6 +1019,13 @@
         "SINATURE 7",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
@@ -935,6 +1055,7 @@
       "customerPO": "1",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -957,6 +1078,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
@@ -972,6 +1100,7 @@
       "customerPO": "2",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -994,6 +1123,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  COFFEE 1.3KG",
@@ -1009,6 +1145,7 @@
       "customerPO": "3",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1031,6 +1168,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "",
@@ -1046,6 +1190,7 @@
       "customerPO": "PBXCD-20260205",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-05",
@@ -1068,6 +1213,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Cat Litter Box",
@@ -1146,6 +1298,7 @@
       "customerPO": "XM-227",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1168,6 +1321,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -1197,6 +1357,7 @@
       "customerPO": "XM-228",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1219,6 +1380,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
@@ -1276,6 +1444,7 @@
       "customerPO": "XM-229",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1298,6 +1467,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
@@ -1348,6 +1524,7 @@
       "customerPO": "XM-234",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1370,6 +1547,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
@@ -1462,6 +1646,7 @@
       "customerPO": "XM-235",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1484,6 +1669,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -1604,6 +1796,7 @@
       "customerPO": "PBTDP-20251229",
       "status": "",
       "companyNameEN": "FORTUNESANLYN GROUP LIMITED",
+      "companyCode": "",
       "pol": "Xiamen",
       "pod": "Tripoli",
       "orderDate": "2026-02-09",
@@ -1626,6 +1819,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN VSR CHICKEN PUMPKIN CANNED FOOD 400G",
@@ -1746,6 +1946,7 @@
       "customerPO": "XM-237",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1768,6 +1969,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF KITTY SARDINE WITH MACKEREL 400G",
@@ -1874,6 +2082,7 @@
       "customerPO": "XM-240",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1896,6 +2105,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
@@ -1932,6 +2148,7 @@
       "customerPO": "XM-236",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -1954,6 +2171,13 @@
         "JJ PET",
         "PET'S ACADEMY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME SALMON & CHICKEN GRAVY 80G",
@@ -2053,6 +2277,7 @@
       "customerPO": "wp-52",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-09",
@@ -2085,6 +2310,13 @@
         "TRULY",
         "WANPY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "DOGSOME TRAY DUCK+ORANGE",
@@ -2156,6 +2388,7 @@
       "customerPO": "wp-57",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-09",
@@ -2164,6 +2397,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY GF DOG CAN TURKEY CANNED FOOD",
@@ -2242,6 +2482,7 @@
       "customerPO": "CC-Order-1",
       "status": "",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "companyCode": "HARMONIOUS",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-28",
@@ -2251,6 +2492,13 @@
         "PET'S ACADEMY",
         "PROPAW"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
@@ -2273,6 +2521,7 @@
       "customerPO": "ZC-17",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-02-17",
@@ -2290,6 +2539,13 @@
         "SNIFLLY",
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "WANPY CHICKEN JERKY 100G",
@@ -2648,6 +2904,7 @@
       "customerPO": "WP-54",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -2666,6 +2923,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -2709,6 +2973,7 @@
       "customerPO": "WP-56",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -2727,6 +2992,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -2770,6 +3042,7 @@
       "customerPO": "WP-58",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -2788,6 +3061,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -2831,6 +3111,7 @@
       "customerPO": "ZC-18",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-01-31",
@@ -2849,6 +3130,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "WANPY MEAT LOAF VENISON CANNEDFOOD FOR DOG",
@@ -2892,6 +3180,7 @@
       "customerPO": "WP-55",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "2026-03-14",
@@ -2910,6 +3199,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "DOGSOME TRAY CHICKEN",
@@ -2974,6 +3270,7 @@
       "customerPO": "WP-59",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-03-14",
@@ -2992,6 +3289,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -3035,6 +3339,7 @@
       "customerPO": "XM-242",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3053,6 +3358,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF CHICKEN & GOAT MILK (KITTEN) POUCH 80G",
@@ -3089,6 +3401,7 @@
       "customerPO": "XM-243",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3107,6 +3420,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF CHICKEN POUCH 80G",
@@ -3143,6 +3463,7 @@
       "customerPO": "XM-245",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3161,6 +3482,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
@@ -3211,6 +3539,7 @@
       "customerPO": "XM-246",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3229,6 +3558,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -3279,6 +3615,7 @@
       "customerPO": "XM-244",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3287,6 +3624,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -3330,6 +3674,7 @@
       "customerPO": "xm-247",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3348,6 +3693,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
@@ -3426,6 +3778,7 @@
       "customerPO": "xm-249",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3434,6 +3787,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -3498,6 +3858,7 @@
       "customerPO": "XM-250",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3506,6 +3867,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
@@ -3556,6 +3924,7 @@
       "customerPO": "xm-251",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3564,6 +3933,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
@@ -3607,6 +3983,7 @@
       "customerPO": "XM-252",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3615,6 +3992,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -3651,6 +4035,7 @@
       "customerPO": "XM-253",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3659,6 +4044,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
@@ -3779,6 +4171,7 @@
       "customerPO": "XM-254",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3787,6 +4180,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
@@ -3928,6 +4328,7 @@
       "customerPO": "XM-255",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -3946,6 +4347,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN & GOAT MILK (KITTEN) 75G",
@@ -4017,6 +4425,7 @@
       "customerPO": "XM-256",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4035,6 +4444,13 @@
         "SNIFFLY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF KITTY CHICKEN 400G",
@@ -4085,6 +4501,7 @@
       "customerPO": "XM-257",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4095,6 +4512,13 @@
         "WANPY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME TUNA WHITE MEAT GRAVY 80G",
@@ -4243,6 +4667,7 @@
       "customerPO": "XM-258",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4253,6 +4678,13 @@
         "WANPY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF CHICKEN POUCH 80G",
@@ -4352,6 +4784,7 @@
       "customerPO": "XM-259",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4360,6 +4793,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -4438,6 +4878,7 @@
       "customerPO": "XM-260",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4446,6 +4887,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -4517,6 +4965,7 @@
       "customerPO": "XM-261",
       "status": "",
       "companyNameEN": "PETSOME (EU) SDN BHD",
+      "companyCode": "PETSOME_EU",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4525,6 +4974,13 @@
       "brands": [
         "SNIFFLY"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "SNIFFLY CAT STICK TUNA",
@@ -4610,6 +5066,7 @@
       "customerPO": "XM-262",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4620,6 +5077,13 @@
         "WANPY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
@@ -4670,6 +5134,7 @@
       "customerPO": "XM-263",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4680,6 +5145,13 @@
         "WANPY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
@@ -4730,6 +5202,7 @@
       "customerPO": "XM-264",
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
+      "companyCode": "PETSOME",
       "pol": "Xiamen",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4740,6 +5213,13 @@
         "WANPY",
         "DOGSOME"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
@@ -4818,6 +5298,7 @@
       "customerPO": "CA-1",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4828,6 +5309,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -4843,6 +5331,7 @@
       "customerPO": "CA-2",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4853,6 +5342,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE COFFEE 7KG",
@@ -4868,6 +5364,7 @@
       "customerPO": "CA-3",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4878,6 +5375,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE COFFEE 7KG",
@@ -4893,6 +5397,7 @@
       "customerPO": "CA-4",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4903,6 +5408,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -4918,6 +5430,7 @@
       "customerPO": "CA-5",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4928,6 +5441,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -4943,6 +5463,7 @@
       "customerPO": "CA-6",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4953,6 +5474,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -4968,6 +5496,7 @@
       "customerPO": "CA-7",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -4978,6 +5507,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -4993,6 +5529,7 @@
       "customerPO": "CA-8",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5003,6 +5540,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE APPLE 7KG",
@@ -5018,6 +5562,7 @@
       "customerPO": "CA-9",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5028,6 +5573,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE APPLE 7KG",
@@ -5043,6 +5595,7 @@
       "customerPO": "CA-10",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5053,6 +5606,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -5068,6 +5628,7 @@
       "customerPO": "CA-11",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5078,6 +5639,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "DACO BENTONITE COFFEE 7KG",
@@ -5100,6 +5668,7 @@
       "customerPO": "CA-12",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5110,6 +5679,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit LEMON 7KG",
@@ -5125,6 +5701,7 @@
       "customerPO": "CA-13",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5135,6 +5712,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit LAVENDER 7KG",
@@ -5150,6 +5734,7 @@
       "customerPO": "CA-14",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5160,6 +5745,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit APPLE 7KG",
@@ -5175,6 +5767,7 @@
       "customerPO": "CA-15",
       "status": "",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "",
       "pol": "",
       "pod": "Port Klang Westport",
       "orderDate": "",
@@ -5185,6 +5778,13 @@
         "ENRICH",
         "DACO"
       ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit Babypower 7KG",
