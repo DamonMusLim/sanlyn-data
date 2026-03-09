@@ -1783,5 +1783,37 @@
       "bankAccount": ""
     },
     "addresses": []
+  },
+  {
+    "code": "",
+    "name": "万汇恒通(厦门)围际物流有限公司",
+    "nameCN": "万汇恒通(厦门)围际物流有限公司",
+    "nameEN": "",
+    "shortCode": "万汇恒通",
+    "country": "",
+    "roleType": "Freight Forwarder（货代）",
+    "portalRole": "",
+    "supType": "ocean",
+    "supTypes": [
+      "Customs Broker (报关行)",
+      "Co-loader (同行货代/订舱代理)",
+      "Trucking (拖车/车队)"
+    ],
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "",
+      "value": 0,
+      "currency": "USD"
+    },
+    "invoice": {
+      "nameCN": "万汇恒通(厦门)围际物流有限公司",
+      "taxNo": "91350200MA3497XN2G",
+      "addressCN": "中国（福建）自由贸易试验区厦门片区屿南四路7号自贸金融中心A栋303室",
+      "phone": "",
+      "bankName": "中信银行福建自贸试验区厦门片区分行营业部",
+      "bankAccount": "8114901014100204417"
+    },
+    "addresses": []
   }
 ]
