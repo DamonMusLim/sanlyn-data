@@ -4,7 +4,7 @@
       "contractNo": "FS20260223074",
       "customerPO": "CA-15",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -13,6 +13,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -43,7 +44,8 @@
           "barcode": "9551017800202",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -51,7 +53,7 @@
       "contractNo": "FS20260223073",
       "customerPO": "CA-14",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -60,6 +62,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -90,7 +93,8 @@
           "barcode": "9551017800196",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -98,7 +102,7 @@
       "contractNo": "FS20260223072",
       "customerPO": "CA-13",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -107,6 +111,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -137,7 +142,8 @@
           "barcode": "9551017800189",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -145,7 +151,7 @@
       "contractNo": "FS20260223071",
       "customerPO": "CA-12",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -154,6 +160,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -184,7 +191,8 @@
           "barcode": "9551017800172",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -192,7 +200,7 @@
       "contractNo": "FS20260223070",
       "customerPO": "CA-11",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -201,6 +209,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -231,14 +240,16 @@
           "barcode": "04711987888872",
           "qty": 1048.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         },
         {
           "name": "DACO BENTONITE LAVENDER 7KG",
           "barcode": "04711987888873",
           "qty": 191.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -246,7 +257,7 @@
       "contractNo": "FS20260223069",
       "customerPO": "CA-10",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -255,6 +266,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -285,7 +297,8 @@
           "barcode": "9551017800134",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -293,7 +306,7 @@
       "contractNo": "FS20260223068",
       "customerPO": "CA-9",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -302,6 +315,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -332,7 +346,8 @@
           "barcode": "9551017800158",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -340,7 +355,7 @@
       "contractNo": "FS20260223067",
       "customerPO": "CA-8",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -349,6 +364,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -379,7 +395,8 @@
           "barcode": "9551017800158",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -387,7 +404,7 @@
       "contractNo": "FS20260223066",
       "customerPO": "CA-7",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -396,6 +413,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -426,7 +444,8 @@
           "barcode": "9551017800141",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -434,7 +453,7 @@
       "contractNo": "FS20260223065",
       "customerPO": "CA-6",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -443,6 +462,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -473,7 +493,8 @@
           "barcode": "9551017800141",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -481,7 +502,7 @@
       "contractNo": "FS20260223064",
       "customerPO": "CA-5",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -490,6 +511,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -520,7 +542,8 @@
           "barcode": "9551017800141",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -528,7 +551,7 @@
       "contractNo": "FS20260223063",
       "customerPO": "CA-4",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -537,6 +560,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -567,7 +591,8 @@
           "barcode": "9551017800134",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -575,7 +600,7 @@
       "contractNo": "FS20260223062",
       "customerPO": "CA-3",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -584,6 +609,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -614,7 +640,8 @@
           "barcode": "9551017800165",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -622,7 +649,7 @@
       "contractNo": "FS20260223061",
       "customerPO": "CA-2",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -631,6 +658,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -661,7 +689,8 @@
           "barcode": "9551017800165",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -669,7 +698,7 @@
       "contractNo": "FS20260223060",
       "customerPO": "CA-1",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -678,6 +707,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-01",
       "containerType": "20gp",
+      "category": "Bentonite Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -708,7 +738,8 @@
           "barcode": "9551017800134",
           "qty": 1238.0,
           "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Bentonite Cat Litter"
         }
       ]
     },
@@ -716,7 +747,7 @@
       "contractNo": "FS20260220059",
       "customerPO": "XM-264",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -725,6 +756,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "2026-02-01",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -755,70 +787,80 @@
           "barcode": "9551016104080",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
           "barcode": "9551016104097",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
           "barcode": "9551016104127",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
           "barcode": "9551016104134",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
           "barcode": "9551016104172",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -826,7 +868,7 @@
       "contractNo": "FS20260220058",
       "customerPO": "XM-263",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -835,6 +877,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -865,42 +908,48 @@
           "barcode": "9551016102970",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
           "barcode": "9551016102987",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
           "barcode": "9551016105131",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE LAMB CHICKEN CANNED FOOD",
           "barcode": "9551016105148",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE BEEF CHICKEN CANNED FOOD",
           "barcode": "9551016105162",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE CHICKEN GOAT MILK CANNED FOOD 400G",
           "barcode": "9551016105",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -908,7 +957,7 @@
       "contractNo": "FS20260220057",
       "customerPO": "XM-262",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -917,6 +966,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -947,42 +997,48 @@
           "barcode": "9551016100921",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL TUNA 400G",
           "barcode": "9551016100907",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA 400G",
           "barcode": "9551016100914",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA CRAB CANNED FOOD 400G",
           "barcode": "9551016102956",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
           "barcode": "9551016102963",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
           "barcode": "9551016102970",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -990,7 +1046,7 @@
       "contractNo": "FS20260220056",
       "customerPO": "XM-261",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -999,6 +1055,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -1027,77 +1084,88 @@
           "barcode": "9551016104288",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT STICK SALMON",
           "barcode": "9551016104295",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT STICK CHICKEN",
           "barcode": "9551016104301",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH SALMON",
           "barcode": "9551016104394",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH SALMON TUNA",
           "barcode": "9551016104400",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH TUNA GOAT MILK KITTEN",
           "barcode": "9551016104424",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN",
           "barcode": "9551016104431",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN TUNA",
           "barcode": "9551016104448",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN SALMON",
           "barcode": "9551016104455",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN EGG YOLK",
           "barcode": "9551016104462",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN GOAT MILK KITTEN",
           "barcode": "9551016104479",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1105,7 +1173,7 @@
       "contractNo": "FS20260220055",
       "customerPO": "XM-260",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1114,6 +1182,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -1142,63 +1211,72 @@
           "barcode": "9551016102482",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT SALMON POUCH 70G",
           "barcode": "9551016102499",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
           "barcode": "9551016102529",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
           "barcode": "9551016102536",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
           "barcode": "9551016102550",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
           "barcode": "9551016102833",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA & MACKEREL CAT POUCH 70G",
           "barcode": "9551016102840",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1206,7 +1284,7 @@
       "contractNo": "FS20260220054",
       "customerPO": "XM-259",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1215,6 +1293,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -1243,70 +1322,80 @@
           "barcode": "9551016101720",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016101737",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016101744",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016101775",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
           "barcode": "9551016101782",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
           "barcode": "9551016101799",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102093",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
           "barcode": "9551016102123",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
           "barcode": "9551016102130",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016102154",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1314,7 +1403,7 @@
       "contractNo": "FS20260220053",
       "customerPO": "XM-258",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1323,6 +1412,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -1353,91 +1443,104 @@
           "barcode": "9551016101225",
           "qty": 192.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & GOAT MILK (KITTEN) POUCH 80G",
           "barcode": "9551016101171",
           "qty": 288.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
           "barcode": "9551016101188",
           "qty": 96.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & TUNA POUCH 80G",
           "barcode": "9551016101195",
           "qty": 288.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
           "barcode": "9551016104080",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
           "barcode": "9551016104097",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
           "barcode": "9551016104134",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
           "barcode": "9551016104172",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1445,7 +1548,7 @@
       "contractNo": "FS20260220052",
       "customerPO": "XM-257",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1454,6 +1557,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -1484,140 +1588,160 @@
           "barcode": "9551016100082",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA WHITE MEAT & CHICKEN GRAVY 80G",
           "barcode": "9551016100167",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SALMON GRAVY 80G",
           "barcode": "9551016100105",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SHRIMP GRAVY 80G",
           "barcode": "9551016100112",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA ANCHOVY GRAVY 80G",
           "barcode": "9551016100198",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN GRAVY 80G",
           "barcode": "9551016100099",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN & PUMPKIN GRAVY 80G",
           "barcode": "9551016100181",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME SALMON & CHICKEN GRAVY 80G",
           "barcode": "9551016100174",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN GOAT MILK GRAVY 80G",
           "barcode": "9551016100",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA WHITE MEAT JELLY 80G",
           "barcode": "9551016100204",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA WHITE MEAT & CHICKEN JELLY 80G",
           "barcode": "9551016100280",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SALMON JELLY 80G",
           "barcode": "9551016100228",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN JELLY 80G",
           "barcode": "9551016100211",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN & PUMPKIN JELLY 80G",
           "barcode": "9551016100303",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME SALMON & CHICKEN JELLY 80G",
           "barcode": "9551016100297",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN & TUNA JELLY 80G",
           "barcode": "95510161001",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN GOAT MILK JELLY 80G",
           "barcode": "95510161002",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA GOAT MILK JELLY 80G",
           "barcode": "95510161003",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN 80G SALMON WITH CRANBERRY PATE",
           "barcode": "9551016105407",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY PATE",
           "barcode": "9551016105414",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1625,7 +1749,7 @@
       "contractNo": "FS20260220051",
       "customerPO": "XM-256",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1634,6 +1758,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -1672,42 +1797,48 @@
           "barcode": "9551016100938",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF KITTY SARDINE WITH MACKEREL 400G",
           "barcode": "9551016100945",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE  400G",
           "barcode": "9551016100969",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
           "barcode": "9551016100891",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
           "barcode": "9551016100952",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
           "barcode": "9551016100921",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1715,7 +1846,7 @@
       "contractNo": "FS20260220050",
       "customerPO": "XM-255",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1724,6 +1855,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -1762,63 +1894,72 @@
           "barcode": "9551016101478",
           "qty": 192.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN & MACKEREL 75G",
           "barcode": "9551016101508",
           "qty": 128.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN & SALMON 75G",
           "barcode": "9551016101492",
           "qty": 192.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN & SCALLOPS 75G",
           "barcode": "9551016101485",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN 75G",
           "barcode": "9551016101461",
           "qty": 192.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA & CHICKEN 75G",
           "barcode": "9551016101416",
           "qty": 128.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
           "barcode": "9551016101423",
           "qty": 192.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA & SHRIMP 75G",
           "barcode": "9551016101447",
           "qty": 128.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
           "barcode": "9551016101454",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1826,7 +1967,7 @@
       "contractNo": "FS20260220049",
       "customerPO": "XM-254",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -1835,6 +1976,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -1863,133 +2005,152 @@
           "barcode": "9551016104080",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
           "barcode": "9551016104097",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
           "barcode": "9551016104127",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
           "barcode": "9551016104134",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
           "barcode": "9551016104172",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN GRAVY 80G",
           "barcode": "9551016100099",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SALMON GRAVY 80G",
           "barcode": "9551016100105",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA WHITE MEAT & CHICKEN GRAVY 80G",
           "barcode": "9551016100167",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA WHITE MEAT GRAVY 80G",
           "barcode": "9551016100082",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN & PUMPKIN JELLY 80G",
           "barcode": "9551016100303",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN JELLY 80G",
           "barcode": "9551016100211",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME SALMON & CHICKEN JELLY 80G",
           "barcode": "9551016100297",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SALMON JELLY 80G",
           "barcode": "9551016100228",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA ANCHOVY JELLY 80G",
           "barcode": "9551016100310",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -1997,7 +2158,7 @@
       "contractNo": "FS20260220048",
       "customerPO": "XM-253",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2006,6 +2167,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2034,112 +2196,128 @@
           "barcode": "9551016101645",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH GOAT MILK CAT CANNED FOOD 80G",
           "barcode": "9551016101652",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN SALMON CAT CANNED FOOD 80G",
           "barcode": "9551016101676",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN FRESH TUNA CAT CANNED FOOD 80G",
           "barcode": "9551016101683",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN TUNA SALMON CAT CANNED FOOD 80G",
           "barcode": "9551016101713",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SILVER FISH CAT CANNED FOOD 80G",
           "barcode": "9551016102048",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SEAFOOD PLATTER CAT CANNED FOOD 80G",
           "barcode": "9551016102055",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 80G",
           "barcode": "9551016102062",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G CHICKEN WITH TUNA GRAVY",
           "barcode": "9551016105438",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G TUNA WITH SALMON GRAVY",
           "barcode": "9551016105445",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G CHICKEN WITH PUMPKIN GRAVY",
           "barcode": "9551016105452",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G TUNA GRAVY",
           "barcode": "9551016105469",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016101720",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
           "barcode": "9551016102130",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105735",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105759",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2147,7 +2325,7 @@
       "contractNo": "FS20260220047",
       "customerPO": "XM-252",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2156,6 +2334,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2184,28 +2363,32 @@
           "barcode": "9551016101720",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016101737",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016101744",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
           "barcode": "9551016101751",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2213,7 +2396,7 @@
       "contractNo": "FS20260220046",
       "customerPO": "xm-251",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2222,6 +2405,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2250,35 +2434,40 @@
           "barcode": "9551016101768",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016101775",
           "qty": 660.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
           "barcode": "9551016101782",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
           "barcode": "9551016101799",
           "qty": 660.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016102086",
           "qty": 440.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2286,7 +2475,7 @@
       "contractNo": "FS20260220045",
       "customerPO": "XM-250",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2295,6 +2484,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2323,42 +2513,48 @@
           "barcode": "9551016102093",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016102109",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
           "barcode": "9551016102116",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
           "barcode": "9551016102130",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102147",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016102154",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2366,7 +2562,7 @@
       "contractNo": "FS20260220044",
       "customerPO": "xm-249",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2375,6 +2571,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2403,56 +2600,64 @@
           "barcode": "9551016102482",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 480.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
           "barcode": "9551016102529",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
           "barcode": "9551016102536",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
           "barcode": "9551016102833",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN",
           "barcode": "9551016104431",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN EGG YOLK",
           "barcode": "9551016104462",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2460,7 +2665,7 @@
       "contractNo": "FS20260220043",
       "customerPO": "xm-247",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2469,6 +2674,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -2507,70 +2713,80 @@
           "barcode": "9551016105353",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN 80G TUNA WITH CRANBERRY GRAVY",
           "barcode": "9551016105360",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH SALMON GRAVY",
           "barcode": "9551016105384",
           "qty": 480.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE  400G",
           "barcode": "9551016100969",
           "qty": 351.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
           "barcode": "9551016100891",
           "qty": 351.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
           "barcode": "9551016100952",
           "qty": 351.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA 400G",
           "barcode": "9551016100914",
           "qty": 234.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
           "barcode": "9551016102963",
           "qty": 234.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
           "barcode": "9551016101423",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
           "barcode": "9551016101454",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2578,7 +2794,7 @@
       "contractNo": "FS20260220042",
       "customerPO": "XM-244",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2587,6 +2803,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -2615,35 +2832,40 @@
           "barcode": "9551016102482",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT SALMON POUCH 70G",
           "barcode": "9551016102499",
           "qty": 576.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
           "barcode": "9551016102550",
           "qty": 480.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2651,7 +2873,7 @@
       "contractNo": "FS20260220041",
       "customerPO": "XM-246",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2660,6 +2882,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -2698,42 +2921,48 @@
           "barcode": "9551016102482",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 480.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
           "barcode": "9551016102529",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
           "barcode": "9551016102536",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
           "barcode": "9551016102833",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2741,7 +2970,7 @@
       "contractNo": "FS20260220040",
       "customerPO": "XM-245",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2750,6 +2979,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -2788,42 +3018,48 @@
           "barcode": "9551016104097",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2831,7 +3067,7 @@
       "contractNo": "FS20260220039",
       "customerPO": "XM-243",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2840,6 +3076,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -2878,28 +3115,32 @@
           "barcode": "9551016101225",
           "qty": 384.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
           "barcode": "9551016101270",
           "qty": 384.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SHIRASU POUCH 80G",
           "barcode": "9551016101232",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA POUCH 80G",
           "barcode": "9551016101249",
           "qty": 672.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2907,7 +3148,7 @@
       "contractNo": "FS20260220038",
       "customerPO": "XM-242",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2916,6 +3157,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -2954,28 +3196,32 @@
           "barcode": "9551016101171",
           "qty": 192.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
           "barcode": "9551016101188",
           "qty": 288.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & SARDINE POUCH 80G",
           "barcode": "9551016101218",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SALMON POUCH 80G",
           "barcode": "9551016101287",
           "qty": 960.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -2983,7 +3229,7 @@
       "contractNo": "FS20260220037",
       "customerPO": "WP-59",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -2992,6 +3238,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Food / Canned",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3030,35 +3277,40 @@
           "barcode": "9551016105872",
           "qty": 360.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome salmon 375g",
           "barcode": "9551016100327",
           "qty": 360.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome codfish 375g",
           "barcode": "9551016100334",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome lamb 375g",
           "barcode": "9551016100341",
           "qty": 720.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome chicken 375g",
           "barcode": "9551016100358",
           "qty": 720.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         }
       ]
     },
@@ -3066,7 +3318,7 @@
       "contractNo": "FS20260220036",
       "customerPO": "WP-55",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3075,6 +3327,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Wet Food / Tray",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3113,56 +3366,64 @@
           "barcode": "9551016103489",
           "qty": 240.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY  LAMB",
           "barcode": "9551016103496",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY SALMON",
           "barcode": "9551016103502",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY CODFISH",
           "barcode": "9551016106015",
           "qty": 360.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY DUCK",
           "barcode": "9551016103526",
           "qty": 360.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY LAMB+BLUEBERRIES",
           "barcode": "9551016103540",
           "qty": 360.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY CODFISH+APPLE",
           "barcode": "9551016106022",
           "qty": 120.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         },
         {
           "name": "DOGSOME TRAY DUCK+ORANGE",
           "barcode": "9551016103571",
           "qty": 240.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Tray"
         }
       ]
     },
@@ -3170,7 +3431,7 @@
       "contractNo": "FS20260220035",
       "customerPO": "ZC-18",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3179,6 +3440,7 @@
       "deliveryDate": "2026-02-20",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Cat",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3217,35 +3479,40 @@
           "barcode": "8885565",
           "qty": 480.0,
           "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY MEAT LOAF CHICKEN &VEGETABLE CANNED FOOD FOR DOG",
           "barcode": "6927749850113",
           "qty": 480.0,
           "unit": "9KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY MEAT LOAF TURKEY CANNEDFOOD FOR DOG",
           "barcode": "6927749855514",
           "qty": 480.0,
           "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY MEAT LOAF SALMON CANNEDFOOD FOR DOG",
           "barcode": "6927749854517",
           "qty": 480.0,
           "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY MEAT LOAF LAMB CANNED FOODFOR DOG",
           "barcode": "6927749852018",
           "qty": 480.0,
           "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         }
       ]
     },
@@ -3253,7 +3520,7 @@
       "contractNo": "FS20260219033",
       "customerPO": "WP-58",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3262,6 +3529,7 @@
       "deliveryDate": "2026-02-19",
       "actDelivery": "2026-02-05",
       "containerType": "40hq",
+      "category": "Wet Food / Canned",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3300,35 +3568,40 @@
           "barcode": "9551016105872",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome salmon 375g",
           "barcode": "9551016100327",
           "qty": 720.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome codfish 375g",
           "barcode": "9551016100334",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome lamb 375g",
           "barcode": "9551016100341",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome chicken 375g",
           "barcode": "9551016100358",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         }
       ]
     },
@@ -3336,7 +3609,7 @@
       "contractNo": "FS20260219032",
       "customerPO": "WP-56",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3345,6 +3618,7 @@
       "deliveryDate": "2026-02-19",
       "actDelivery": "2026-02-05",
       "containerType": "40hq",
+      "category": "Wet Food / Canned",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3383,35 +3657,40 @@
           "barcode": "9551016105872",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome salmon 375g",
           "barcode": "9551016100327",
           "qty": 720.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome codfish 375g",
           "barcode": "9551016100334",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome lamb 375g",
           "barcode": "9551016100341",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         },
         {
           "name": "Dogsome chicken 375g",
           "barcode": "9551016100358",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Wet Food / Canned"
         }
       ]
     },
@@ -3419,7 +3698,7 @@
       "contractNo": "FS20260219031",
       "customerPO": "WP-54",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3428,6 +3707,7 @@
       "deliveryDate": "2026-02-18",
       "actDelivery": "2026-02-05",
       "containerType": "40hq",
+      "category": "Pet Supplies",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3466,35 +3746,40 @@
           "barcode": "9551016105872",
           "qty": 360.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Pet Supplies"
         },
         {
           "name": "Dogsome salmon 375g",
           "barcode": "9551016100327",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Pet Supplies"
         },
         {
           "name": "Dogsome codfish 375g",
           "barcode": "9551016100334",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Pet Supplies"
         },
         {
           "name": "Dogsome chicken 375g",
           "barcode": "9551016100358",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Pet Supplies"
         },
         {
           "name": "Dogsome lamb 375g",
           "barcode": "9551016100341",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Pet Supplies"
         }
       ]
     },
@@ -3502,7 +3787,7 @@
       "contractNo": "FS20260218030",
       "customerPO": "ZC-17",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3511,6 +3796,7 @@
       "deliveryDate": "2026-02-18",
       "actDelivery": "2026-02-19",
       "containerType": "40hq",
+      "category": "Dog",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3548,350 +3834,400 @@
           "barcode": "6927749810308",
           "qty": 50.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY STEAKS 100G",
           "barcode": "6927749810643",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY BARS 100G",
           "barcode": "6927749810612",
           "qty": 35.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SOFT CHICKEN JERKY STRIPS 100G",
           "barcode": "6927749810339",
           "qty": 35.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY CHIPS 100G",
           "barcode": "6927749810650",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SOFT CHICKEN JERKY & CHEESE SLICES 100G",
           "barcode": "6927749810926",
           "qty": 35.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & CODFISH SANDWICHES 100G",
           "barcode": "6927749810636",
           "qty": 35.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & CODFISH SUSHI 100G",
           "barcode": "6927749810629",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY DUMBBELLS 100G",
           "barcode": "6927749810896",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & RAWHIDE WRAPS 100G",
           "barcode": "6927749810278",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & RAWHIDE TWISTS 100G",
           "barcode": "6927749810919",
           "qty": 35.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & CALCIUME BONE TWISTS 100G",
           "barcode": "6927749810353",
           "qty": 20.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & CALCIUM BONE WRAP 100G",
           "barcode": "6927749812302",
           "qty": 25.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY DUCK JERKY 100G",
           "barcode": "6927749820048",
           "qty": 25.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY TOOTHBRUSH CHEW (CHICKEN FLAVOR) 100G",
           "barcode": "6927749869016",
           "qty": 15.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY LAMB JERKY DUMBBELLS 100G",
           "barcode": "6927749840206",
           "qty": 15.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SWEET POTATO DUMBBELLS 100G",
           "barcode": "6927749860136",
           "qty": 15.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SALMON STICKS 100G",
           "barcode": "6927749869047",
           "qty": 25.0,
           "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SOFT CHICKEN JERKY STRIPS FOR CAT 80G",
           "barcode": "6927749811299",
           "qty": 25.0,
           "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN BITES FOR CAT 80G",
           "barcode": "6927749811343",
           "qty": 15.0,
           "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY CHICKEN JERKY & CODFISH SANDWICHES FOR CAT 80G",
           "barcode": "6927749811336",
           "qty": 15.0,
           "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SOFT DUCK JERKY STRIPS FOR CAT 80G",
           "barcode": "6927749811466",
           "qty": 15.0,
           "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY SALMON FISH SHAPE BITES 450G",
           "barcode": "6927749868033",
           "qty": 84.0,
           "unit": "5.4KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "WANPY TOOTHBRUSH CHEW (CHICKEN FLAVOR) 500G",
           "barcode": "6927749869030",
           "qty": 42.0,
           "unit": "6KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Dog"
         },
         {
           "name": "TREAT - TU CREAMY NA & SHRIMP FOR CAT 70G",
           "barcode": "6927749871095",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - CHICKEN FOR CAT 70G",
           "barcode": "6927749871088",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT-TUNA & SCALLOP FOR CAT 70G",
           "barcode": "6927749871101",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - TUNA & SALMON FOR CAT 70G",
           "barcode": "6927749871118",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - TUNA & CODFISH FOR CAT 70G",
           "barcode": "6927749871125",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - TUNA FOR CAT 70G",
           "barcode": "6927749871194",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - TUNA & CRAB FOR CAT 70G",
           "barcode": "6927749871200",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - CHICKEN & CRAB FOR CAT 70G",
           "barcode": "6927749871217",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY CREAMY TREAT-4 FLAVORS ASSORTED 50P",
           "barcode": "6927749871859",
           "qty": 84.0,
           "unit": "8.4KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - CHICKEN 70G",
           "barcode": "6927749870241",
           "qty": 19.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY CREAMY TREAT-CHICKEN & CHEESE 40P",
           "barcode": "6927749870296",
           "qty": 19.0,
           "unit": "6.72KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY  TREAT - SALMON & CHICKEN 70G",
           "barcode": "6927749870265",
           "qty": 19.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "CREAMY TREAT - DUCK FOR DOG  70G",
           "barcode": "6927749870272",
           "qty": 19.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY SKIN & COAT  CREAMY TREAT TUNA & SALMON 70G",
           "barcode": "6927749871743",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "HAIRBALL CONTROL CREAMY TREAT CODFISH & CHICKEN 70G",
           "barcode": "6927749871750",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "URINARY CARE CREAMY TREAT DUCK & CHICKEN 70G",
           "barcode": "6927749871767",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "JOINT SUPPORT CREAMY TREAT BEEF & CHICKEN 70G",
           "barcode": "6927749871774",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "KIDNEY CARE CREAMY TREAT CHICKEN & VEGGIES 70G",
           "barcode": "6927749871781",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "DIGESTIVE HEALTH CREAMY TREAT SALMON & CHICKEN 70G",
           "barcode": "6927749871798",
           "qty": 28.0,
           "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY STEW TUNA FOR CAT 70G",
           "barcode": "6927749853251",
           "qty": 95.0,
           "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY STEW TUNA&CHICKEN FOR CAT 70G",
           "barcode": "6927749853282",
           "qty": 95.0,
           "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY STEW TUNA&SHRIMP FOR CAT 70G",
           "barcode": "6927749853275",
           "qty": 95.0,
           "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY STEW  SALMON&TUNA FOR KITTEN 70G",
           "barcode": "6927749853299",
           "qty": 95.0,
           "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY STEW CHICKEN&DUCK FOR KITTEN 70G",
           "barcode": "6927749853305",
           "qty": 95.0,
           "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY LICKABLE CREAM - SALMON FOR CAT",
           "barcode": "6927749871927",
           "qty": 24.0,
           "unit": "5.12KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         },
         {
           "name": "WANPY LICKABLE CREAM - CHICKEN FOR CAT",
           "barcode": "6927749871910",
           "qty": 24.0,
           "unit": "5.12KG/箱",
-          "factory": "烟台中宠股份有限公司"
+          "factory": "烟台中宠股份有限公司",
+          "category": "Cat"
         }
       ]
     },
@@ -3899,7 +4235,7 @@
       "contractNo": "FS20260210028",
       "customerPO": "CC-Order-1",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3908,6 +4244,7 @@
       "deliveryDate": "2026-02-10",
       "actDelivery": "",
       "containerType": "20gp",
+      "category": "Cat Litter",
       "brands": [
         "PET'S ACADEMY",
         "PROPAW"
@@ -3937,14 +4274,16 @@
           "barcode": "9551014016620",
           "qty": 709.0,
           "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "PROPAW BENTONITE CAT LITTER  COFFEE 6KG",
           "barcode": "9551014016637",
           "qty": 709.0,
           "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Cat Litter"
         }
       ]
     },
@@ -3952,7 +4291,7 @@
       "contractNo": "FS20260210027",
       "customerPO": "wp-57",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -3961,6 +4300,7 @@
       "deliveryDate": "2026-02-10",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Dog Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -3989,70 +4329,80 @@
           "barcode": "9551016102796",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY GF DOG CAN TURKEY CANNED FOOD",
           "barcode": "9551016102802",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY GF DOG CAN LAMB CANNED FOOD",
           "barcode": "9551016102826",
           "qty": 600.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY GF DOG CAN DUCK CANNED FOOD",
           "barcode": "9551016105889",
           "qty": 240.0,
           "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY CODFISH",
           "barcode": "9551016103397",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY TURKEY",
           "barcode": "9551016103403",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY MACKEREL",
           "barcode": "9551016103410",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY LAMB",
           "barcode": "9551016103427",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY VENSION",
           "barcode": "9551016103465",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "SNIFFLY DOG TRAY TUNA",
           "barcode": "9551016103472",
           "qty": 176.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         }
       ]
     },
@@ -4060,7 +4410,7 @@
       "contractNo": "FS20260209026",
       "customerPO": "wp-52",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4069,6 +4419,7 @@
       "deliveryDate": "2026-02-09",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Dog Treats",
       "brands": [
         "福贝",
         "SINATURE 7",
@@ -4121,63 +4472,72 @@
           "barcode": "9551016103571",
           "qty": 320.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY CODFISH+APPLE",
           "barcode": "9551016106022",
           "qty": 160.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY SALMON+KIWI",
           "barcode": "9551016103557",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY CHICKEN+PINEAPPLE",
           "barcode": "9551016103533",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY DUCK",
           "barcode": "9551016103526",
           "qty": 320.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY CODFISH",
           "barcode": "9551016106015",
           "qty": 160.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY SALMON",
           "barcode": "9551016103502",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY  LAMB",
           "barcode": "9551016103496",
           "qty": 640.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         },
         {
           "name": "DOGSOME TRAY CHICKEN",
           "barcode": "9551016103489",
           "qty": 480.0,
           "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司"
+          "factory": "烟台中宠食品股份有限公司",
+          "category": "Dog Treats"
         }
       ]
     },
@@ -4185,7 +4545,7 @@
       "contractNo": "FS20260206024",
       "customerPO": "XM-236",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4194,6 +4554,7 @@
       "deliveryDate": "2026-02-06",
       "actDelivery": "2026-01-26",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4236,91 +4597,104 @@
           "barcode": "9551016100174",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & CRAB & CHICKEN GRAVY 80G",
           "barcode": "9551016100150",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME CHICKEN JELLY 80G",
           "barcode": "9551016100211",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME TUNA & SALMON JELLY 80G",
           "barcode": "9551016100228",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN 80G CHICKEN GRAVY",
           "barcode": "9551016105377",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
           "barcode": "9551016102987",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
           "barcode": "9551016105131",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR CHICKEN PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105674",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR TUNA PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105681",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR DUCK PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105698",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR CHICKEN TUNA PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105704",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR TUNA DUCK PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105711",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR CHICKEN DUCK PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105728",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -4328,7 +4702,7 @@
       "contractNo": "FS20260206023",
       "customerPO": "XM-240",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4337,6 +4711,7 @@
       "deliveryDate": "2026-02-06",
       "actDelivery": "2026-01-26",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4379,28 +4754,32 @@
           "barcode": "9551016101270",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SALMON POUCH 80G",
           "barcode": "9551016101287",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SHIRASU POUCH 80G",
           "barcode": "9551016101232",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA POUCH 80G",
           "barcode": "9551016101249",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -4408,7 +4787,7 @@
       "contractNo": "FS20260206022",
       "customerPO": "XM-237",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4417,6 +4796,7 @@
       "deliveryDate": "2026-02-06",
       "actDelivery": "2026-01-26",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4459,98 +4839,112 @@
           "barcode": "9551016100945",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE  400G",
           "barcode": "9551016100969",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL CRAB 400G",
           "barcode": "9551016100884",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
           "barcode": "9551016100921",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL SILVERFISH 400G",
           "barcode": "9551016100877",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL TUNA 400G",
           "barcode": "9551016100907",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA 400G",
           "barcode": "9551016100914",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA CRAB CANNED FOOD 400G",
           "barcode": "9551016102956",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
           "barcode": "9551016102963",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
           "barcode": "9551016102970",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
           "barcode": "9551016102987",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
           "barcode": "9551016105131",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE LAMB CHICKEN CANNED FOOD",
           "barcode": "9551016105148",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GRAIN FREE BEEF CHICKEN CANNED FOOD",
           "barcode": "9551016105162",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -4567,6 +4961,7 @@
       "deliveryDate": "2025-12-18",
       "actDelivery": "2026-02-10",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4609,105 +5004,120 @@
           "barcode": "9551016105674",
           "qty": 610.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR DUCK PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105698",
           "qty": 137.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR CHICKEN TUNA PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105704",
           "qty": 380.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR TUNA PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105681",
           "qty": 137.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN VSR TUNA DUCK PUMPKIN CANNED FOOD 400G",
           "barcode": "9551016105711",
           "qty": 137.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
           "barcode": "9551016104080",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
           "barcode": "9551016104097",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
           "barcode": "9551016104127",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
           "barcode": "9551016104134",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 48.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 48.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 48.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
           "barcode": "9551016104172",
           "qty": 48.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -4715,7 +5125,7 @@
       "contractNo": "FS20260206020",
       "customerPO": "XM-235",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4724,6 +5134,7 @@
       "deliveryDate": "2026-01-10",
       "actDelivery": "2026-01-15",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4766,112 +5177,128 @@
           "barcode": "9551016101720",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016101737",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016101744",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
           "barcode": "9551016101751",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
           "barcode": "9551016101768",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016101775",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
           "barcode": "9551016101782",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
           "barcode": "9551016101799",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016102086",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102093",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016102109",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
           "barcode": "9551016102116",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
           "barcode": "9551016102123",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
           "barcode": "9551016102130",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102147",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016102154",
           "qty": 110.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -4879,7 +5306,7 @@
       "contractNo": "FS20260206019",
       "customerPO": "XM-234",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -4888,6 +5315,7 @@
       "deliveryDate": "2026-01-07",
       "actDelivery": "2026-01-08",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -4930,84 +5358,96 @@
           "barcode": "9551016101645",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY KITTY RECIPE CHICKEN CAT CANNED FOOD 80G",
           "barcode": "9551016101669",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN SALMON CAT CANNED FOOD 80G",
           "barcode": "9551016101676",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA  CAT CANNED FOOD 80G",
           "barcode": "9551016102024",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G CHICKEN WITH GOAT MILK PATE",
           "barcode": "9551016105476",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G CHICKEN WITH SALMON PATE",
           "barcode": "9551016105483",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G CHICKEN WITH KRILL PATE",
           "barcode": "9551016105490",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DELIGHT 80G SALMON WITH KRILL PATE",
           "barcode": "9551016105506",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105735",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY DUCK SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105742",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105759",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN & DUCK SOUP BASE CANNED FOOD 400G",
           "barcode": "9551016105766",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -5015,7 +5455,7 @@
       "contractNo": "FS20260206018",
       "customerPO": "XM-229",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5024,6 +5464,7 @@
       "deliveryDate": "2026-01-08",
       "actDelivery": "2026-01-07",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5066,42 +5507,48 @@
           "barcode": "9551016102109",
           "qty": 660.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
           "barcode": "9551016102116",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
           "barcode": "9551016102123",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
           "barcode": "9551016102130",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102147",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016102154",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -5109,7 +5556,7 @@
       "contractNo": "FS20260206017",
       "customerPO": "XM-228",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5118,6 +5565,7 @@
       "deliveryDate": "2026-01-23",
       "actDelivery": "2026-01-15",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5160,49 +5608,56 @@
           "barcode": "9551016101751",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
           "barcode": "9551016101768",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016101775",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
           "barcode": "9551016101782",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
           "barcode": "9551016101799",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
           "barcode": "9551016102086",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
           "barcode": "9551016102093",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -5210,7 +5665,7 @@
       "contractNo": "FS20260206016",
       "customerPO": "XM-227",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5219,6 +5674,7 @@
       "deliveryDate": "2026-01-07",
       "actDelivery": "2026-01-08",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5261,21 +5717,24 @@
           "barcode": "9551016101720",
           "qty": 1100.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016101737",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016101744",
           "qty": 550.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -5283,7 +5742,7 @@
       "contractNo": "FS20260205015",
       "customerPO": "PBXCD-20260205",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5292,6 +5751,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "2026-02-06",
       "containerType": "40hq",
+      "category": "",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5334,70 +5794,80 @@
           "barcode": "T138",
           "qty": 900.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T147",
           "qty": 480.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T149",
           "qty": 1200.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T151",
           "qty": 200.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T103",
           "qty": 540.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T167",
           "qty": 600.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Box",
           "barcode": "T133",
           "qty": 450.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "cat litter scoop",
           "barcode": "7020",
           "qty": 1000.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Grass Planter",
           "barcode": "T131",
           "qty": 15960.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         },
         {
           "name": "Cat Litter Mat",
           "barcode": "T140",
           "qty": 600.0,
           "unit": "",
-          "factory": "广州润聪电子商务有限公司"
+          "factory": "广州润聪电子商务有限公司",
+          "category": ""
         }
       ]
     },
@@ -5405,7 +5875,7 @@
       "contractNo": "FS20260205014",
       "customerPO": "3",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5414,6 +5884,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "",
       "containerType": "20gp",
+      "category": "",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5456,7 +5927,8 @@
           "barcode": "17",
           "qty": 1668.0,
           "unit": "",
-          "factory": ""
+          "factory": "",
+          "category": ""
         }
       ]
     },
@@ -5464,7 +5936,7 @@
       "contractNo": "FS20260205013",
       "customerPO": "2",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5473,6 +5945,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "",
       "containerType": "20gp",
+      "category": "",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5515,7 +5988,8 @@
           "barcode": "18",
           "qty": 1668.0,
           "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": ""
         }
       ]
     },
@@ -5523,7 +5997,7 @@
       "contractNo": "FS20260205012",
       "customerPO": "1",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5532,6 +6006,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "",
       "containerType": "20gp",
+      "category": "",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5574,7 +6049,8 @@
           "barcode": "19",
           "qty": 1668.0,
           "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": ""
         }
       ]
     },
@@ -5582,7 +6058,7 @@
       "contractNo": "FS20260205011",
       "customerPO": "PBCAM-20260205",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -5591,6 +6067,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "",
       "containerType": "20gp",
+      "category": "",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5631,21 +6108,24 @@
           "barcode": "19",
           "qty": 1668.0,
           "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": ""
         },
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  COFFEE 1.3KG",
           "barcode": "18",
           "qty": 1668.0,
           "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": ""
         },
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  LEMON 1.3KG",
           "barcode": "17",
           "qty": 1668.0,
           "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": ""
         }
       ]
     },
@@ -5662,6 +6142,7 @@
       "deliveryDate": "2026-03-15",
       "actDelivery": "",
       "containerType": "40hq",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5702,28 +6183,32 @@
           "barcode": "0753692081733",
           "qty": 288.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "Sinature7 TOFU CAT LITTER Charcoal 2.5KG",
           "barcode": "0753692081757",
           "qty": 360.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "Sinature7 TOFU CAT LITTER LAVENDER 2.5KG",
           "barcode": "0753692081764",
           "qty": 288.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "Sinature7 TOFU CAT LITTER LEMON 2.5KG",
           "barcode": "0753692081771",
           "qty": 288.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         }
       ]
     },
@@ -5731,7 +6216,7 @@
       "contractNo": "FS20260203005",
       "customerPO": "PBTYF-20260104",
       "companyNameEN": "JJ PET GROUP SDN BHD",
-      "companyCode": "",
+      "companyCode": "JJ_PET",
       "country": "",
       "pol": "",
       "pod": "Kota Kinabalu",
@@ -5740,6 +6225,7 @@
       "deliveryDate": "2026-02-03",
       "actDelivery": "2026-02-03",
       "containerType": "40hq",
+      "category": "Pet Travel",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5780,112 +6266,128 @@
           "barcode": "16",
           "qty": 252.0,
           "unit": "咖色，灰色，黑色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Travel"
         },
         {
           "name": "Hanging Large Bowl",
           "barcode": "15",
           "qty": 252.0,
           "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Hanging Water Dispenser",
           "barcode": "14",
           "qty": 144.0,
           "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Hanging Feeder",
           "barcode": "13",
           "qty": 180.0,
           "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Large Capacity Automatic Water Dispenser (8 L)",
           "barcode": "12",
           "qty": 600.0,
           "unit": "黑色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Square Food & Water Feeder",
           "barcode": "11",
           "qty": 600.0,
           "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Integrated 15° Tilted Food & Water Feeder",
           "barcode": "10",
           "qty": 200.0,
           "unit": "灰色，黄色，蓝色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "All-in-One Food & Water Feeder with Stainless Steel Bowl",
           "barcode": "9",
           "qty": 200.0,
           "unit": "灰色，蓝色，绿色，黄色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Automatic Water Dispenser (3.8 L)",
           "barcode": "8",
           "qty": 560.0,
           "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Automatic Water Dispenser (3.3 L)",
           "barcode": "7",
           "qty": 720.0,
           "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Automatic Feeder (2.1 kg)",
           "barcode": "6",
           "qty": 660.0,
           "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "Automatic Feeder (1.3 kg)",
           "barcode": "5",
           "qty": 50.0,
           "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Pet Tableware"
         },
         {
           "name": "No.40 Single-Layer Hamster Cage",
           "barcode": "4",
           "qty": 180.0,
           "unit": "橙色，蓝色，绿色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Hamster"
         },
         {
           "name": "No.50 High-Transparency Hamster Cage",
           "barcode": "3",
           "qty": 180.0,
           "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Hamster"
         },
         {
           "name": "No.43 High-Transparency Hamster Cage",
           "barcode": "2",
           "qty": 315.0,
           "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Hamster"
         },
         {
           "name": "No.35 High-Transparency Hamster Cage",
           "barcode": "1",
           "qty": 400.0,
           "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂"
+          "factory": "霸州市天缘塑料冲压制品厂",
+          "category": "Hamster"
         }
       ]
     },
@@ -5902,6 +6404,7 @@
       "deliveryDate": "2026-02-05",
       "actDelivery": "2026-02-06",
       "containerType": "20gp",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -5942,21 +6445,24 @@
           "barcode": "0753692081740",
           "qty": 144.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "Sinature7 TOFU CAT LITTER Charcoal 2.5KG",
           "barcode": "0753692081757",
           "qty": 288.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "Sinature7 TOFU CAT LITTER LAVENDER 2.5KG",
           "barcode": "0753692081764",
           "qty": 288.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Cat Litter"
         }
       ]
     },
@@ -5973,6 +6479,7 @@
       "deliveryDate": "2026-01-23",
       "actDelivery": "2026-01-16",
       "containerType": "40hq",
+      "category": "",
       "brands": [],
       "totalBoxes": 1218.0,
       "cbm": 0,
@@ -5999,7 +6506,7 @@
       "contractNo": "FS20260123018",
       "customerPO": "PBCAM-2025071102",
       "companyNameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
-      "companyCode": "",
+      "companyCode": "HARMONIOUS",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6008,6 +6515,7 @@
       "deliveryDate": "2026-01-23",
       "actDelivery": "2026-01-13",
       "containerType": "20gp",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -6048,14 +6556,16 @@
           "barcode": "9551014016620",
           "qty": 709.0,
           "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Cat Litter"
         },
         {
           "name": "PROPAW BENTONITE CAT LITTER  COFFEE 6KG",
           "barcode": "9551014016637",
           "qty": 709.0,
           "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司"
+          "factory": "辽宁宠爱科技有限公司",
+          "category": "Cat Litter"
         }
       ]
     },
@@ -6063,7 +6573,7 @@
       "contractNo": "FS20260122017",
       "customerPO": "XM-239",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6072,6 +6582,7 @@
       "deliveryDate": "2026-01-21",
       "actDelivery": "2026-01-21",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [],
       "totalBoxes": 1920.0,
       "cbm": 0,
@@ -6098,56 +6609,64 @@
           "barcode": "9551016101188",
           "qty": 96.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & SHRIMP POUCH 80G",
           "barcode": "9551016101201",
           "qty": 96.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN & TUNA POUCH 80G",
           "barcode": "9551016101195",
           "qty": 384.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF CHICKEN POUCH 80G",
           "barcode": "9551016101225",
           "qty": 192.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
           "barcode": "9551016101270",
           "qty": 480.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SALMON POUCH 80G",
           "barcode": "9551016101287",
           "qty": 384.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA & SCALLOPS POUCH 80G",
           "barcode": "9551016101263",
           "qty": 192.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "CATSOME GF TUNA POUCH 80G",
           "barcode": "9551016101249",
           "qty": 96.0,
           "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -6155,7 +6674,7 @@
       "contractNo": "FS20260119016",
       "customerPO": "XM-238",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6164,6 +6683,7 @@
       "deliveryDate": "2026-01-19",
       "actDelivery": "2026-01-25",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [],
       "totalBoxes": 1920.0,
       "cbm": 0,
@@ -6190,35 +6710,40 @@
           "barcode": "9551016102482",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT SALMON POUCH 70G",
           "barcode": "9551016102499",
           "qty": 576.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
           "barcode": "9551016102550",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -6226,7 +6751,7 @@
       "contractNo": "FS20260105001",
       "customerPO": "ECO -202601",
       "companyNameEN": "ENRICH CHAMPION SDN BHD",
-      "companyCode": "",
+      "companyCode": "ENRICH",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6235,6 +6760,7 @@
       "deliveryDate": "2026-01-15",
       "actDelivery": "2026-01-15",
       "containerType": "40hq",
+      "category": "Tofu Cat Litter",
       "brands": [
         "CATSOME",
         "ECO",
@@ -6271,42 +6797,48 @@
           "barcode": "9551017800257",
           "qty": 350.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "ECO TOFU CAT LITTER GREEN TEA 2.2KG",
           "barcode": "9551017800271",
           "qty": 140.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "ECO TOFU CAT LITTER STRAWBERRY 2.2KG",
           "barcode": "9551017800264",
           "qty": 70.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "ECO TOFU CAT LITTER LAVENDER 2.2KG",
           "barcode": "9551017800226",
           "qty": 350.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "ECO TOFU CAT LITTER ORIGINAL 2.2KG",
           "barcode": "9551017800240",
           "qty": 350.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "ECO TOFU CAT LITTER COFFE 2.2KG",
           "barcode": "9551017800233",
           "qty": 140.0,
           "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         }
       ]
     },
@@ -6314,7 +6846,7 @@
       "contractNo": "FS20251231065",
       "customerPO": "XM 241",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6323,6 +6855,7 @@
       "deliveryDate": "2026-01-07",
       "actDelivery": "2025-12-31",
       "containerType": "40hq",
+      "category": "Wet Treats",
       "brands": [
         "CATSOME",
         "ECO",
@@ -6359,21 +6892,24 @@
           "barcode": "9551016101720",
           "qty": 1760.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
           "barcode": "9551016101737",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         },
         {
           "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
           "barcode": "9551016101744",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Treats"
         }
       ]
     },
@@ -6381,7 +6917,7 @@
       "contractNo": "FS20251230062",
       "customerPO": "LL-21",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6390,6 +6926,7 @@
       "deliveryDate": "2026-01-11",
       "actDelivery": "2026-01-08",
       "containerType": "40hq",
+      "category": "Tofu Cat Litter",
       "brands": [
         "CATSOME",
         "ECO",
@@ -6426,42 +6963,48 @@
           "barcode": "9551016100471",
           "qty": 80.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "CATSOME TOFU CAT LITTER STRAWBERRY 2.5KG",
           "barcode": "9551016100464",
           "qty": 240.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "CATSOME TOFU CAT LITTER CHARCOAL 2.5KG",
           "barcode": "9551016100457",
           "qty": 400.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "CATSOME TOFU CAT LITTER GREEN TEA 2.5KG",
           "barcode": "9551016100440",
           "qty": 400.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "CATSOME TOFU CAT LITTER LAVENDER 2.5KG",
           "barcode": "9551016100433",
           "qty": 320.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "CATSOME TOFU CAT LITTER ORIGINAL 2.5KG",
           "barcode": "9551016100426",
           "qty": 160.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         }
       ]
     },
@@ -6469,7 +7012,7 @@
       "contractNo": "FS20251229060",
       "customerPO": "XM 246",
       "companyNameEN": "PETSOME (EU) SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME_EU",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6478,6 +7021,7 @@
       "deliveryDate": "2025-12-29",
       "actDelivery": "2026-01-10",
       "containerType": "40hq",
+      "category": "Wet Food",
       "brands": [
         "CATSOME",
         "ECO",
@@ -6514,42 +7058,48 @@
           "barcode": "9551016102833",
           "qty": 192.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
           "barcode": "9551016102543",
           "qty": 480.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
           "barcode": "9551016102536",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
           "barcode": "9551016102529",
           "qty": 96.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "SNIFFLY CAT TUNA POUCH 70G",
           "barcode": "9551016102505",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
           "barcode": "9551016102482",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         }
       ]
     },
@@ -6557,7 +7107,7 @@
       "contractNo": "FS20251229059",
       "customerPO": "XM 247",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6566,6 +7116,7 @@
       "deliveryDate": "2025-12-29",
       "actDelivery": "2026-01-11",
       "containerType": "40hq",
+      "category": "Wet Food",
       "brands": [
         "CATSOME",
         "ECO",
@@ -6602,70 +7153,80 @@
           "barcode": "9551016105353",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME KITCHEN 80G TUNA WITH CRANBERRY GRAVY",
           "barcode": "9551016105360",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH SALMON GRAVY",
           "barcode": "9551016105384",
           "qty": 450.0,
           "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF SARDINE  400G",
           "barcode": "9551016100969",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
           "barcode": "9551016100891",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
           "barcode": "9551016100952",
           "qty": 330.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF TUNA 400G",
           "barcode": "9551016100914",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
           "barcode": "9551016102963",
           "qty": 220.0,
           "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
           "barcode": "9551016101454",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         },
         {
           "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
           "barcode": "9551016101423",
           "qty": 64.0,
           "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": "Wet Food"
         }
       ]
     },
@@ -6673,7 +7234,7 @@
       "contractNo": "FS20251225056",
       "customerPO": "LL-Order-20",
       "companyNameEN": "DIBAQ (M) SDN BHD",
-      "companyCode": "",
+      "companyCode": "DIBAQ",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6682,6 +7243,7 @@
       "deliveryDate": "2025-12-25",
       "actDelivery": "2025-12-29",
       "containerType": "40hq",
+      "category": "Tofu Cat Litter",
       "brands": [
         "NATURAL WORLD"
       ],
@@ -6710,35 +7272,40 @@
           "barcode": "6921734931665",
           "qty": 400.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "NATURAL WORLD TOFU CAT LITTER GREEN TEA 2.5KG",
           "barcode": "6921734931627",
           "qty": 240.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "NATURAL WORLD TOFU CAT LITTER LAVENDER 2.5KG",
           "barcode": "6921734931634",
           "qty": 400.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "NATURAL WORLD TOFU CAT LITTER MILK 2.5KG",
           "barcode": "6921734931658",
           "qty": 320.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         },
         {
           "name": "NATURAL WORLD TOFU CAT LITTER CHARCOAL 2.5KG",
           "barcode": "6921734931672",
           "qty": 240.0,
           "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司"
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "Tofu Cat Litter"
         }
       ]
     },
@@ -6746,7 +7313,7 @@
       "contractNo": "FS20251222053",
       "customerPO": "xm-order-245",
       "companyNameEN": "PETSOME SDN BHD",
-      "companyCode": "",
+      "companyCode": "PETSOME",
       "country": "",
       "pol": "",
       "pod": "Port Klang Westport",
@@ -6755,6 +7322,7 @@
       "deliveryDate": "2026-01-23",
       "actDelivery": "2026-01-31",
       "containerType": "",
+      "category": "",
       "brands": [
         "ENRICH",
         "NU",
@@ -6792,47 +7360,53 @@
           "barcode": "9551016104097",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         },
         {
           "name": "CATSOME KITCHEN TUNA POUCH 70G",
           "barcode": "9551016104103",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         },
         {
           "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
           "barcode": "9551016104110",
           "qty": 384.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         },
         {
           "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
           "barcode": "9551016104141",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         },
         {
           "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
           "barcode": "9551016104158",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         },
         {
           "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
           "barcode": "9551016104165",
           "qty": 288.0,
           "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司"
+          "factory": "福建泰迪宠物食品有限公司",
+          "category": ""
         }
       ]
     }
   ],
   "total": 75,
-  "syncedAt": "2026-03-09T16:16:32+08:00",
+  "syncedAt": "2026-03-09T16:36:45+08:00",
   "source": "xlsx-import"
 }
