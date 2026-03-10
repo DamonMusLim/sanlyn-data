@@ -6445,6 +6445,91 @@
           "category": "膨润土猫砂"
         }
       ]
+    },
+    {
+      "contractNo": "FS20260310005",
+      "customerPO": "LL-2",
+      "status": "",
+      "companyNameEN": "ENRICH CHAMPION SDN BHD",
+      "companyCode": "ENRICH",
+      "pol": "Qingdao",
+      "pod": "Port Klang Westport",
+      "orderDate": "",
+      "deliveryDate": "2026-03-09",
+      "actDelivery": "",
+      "containerType": "1",
+      "category": "猫砂",
+      "brands": [
+        "ECO",
+        "ENRICH",
+        "DACO",
+        "WANPY"
+      ],
+      "etd": "",
+      "eta": "",
+      "vessel": "",
+      "voyage": "",
+      "containerNo": "",
+      "blNo": "",
+      "shipDate": "",
+      "products": [
+        {
+          "name": "ECO TOFU CAT LITTER STRAWBERRY 2.2KG",
+          "barcode": "9551017800264",
+          "qty": 280,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "ECO TOFU CAT LITTER COFFE 2.2KG",
+          "barcode": "9551017800233",
+          "qty": 280,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "ECO TOFU CAT LITTER GREEN TEA 2.2KG",
+          "barcode": "9551017800271",
+          "qty": 280,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "ECO TOFU CAT LITTER ORIGINAL 2.2KG",
+          "barcode": "9551017800240",
+          "qty": 140,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "ECO TOFU CAT LITTER LAVENDER 2.2KG",
+          "barcode": "9551017800226",
+          "qty": 140,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "ECO TOFU CAT LITTER CHARCOAL 2.2KG",
+          "barcode": "9551017800257",
+          "qty": 140,
+          "unit": "2.2KG*8/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        },
+        {
+          "name": "宠力美豆腐猫砂",
+          "barcode": "clm",
+          "qty": 140,
+          "unit": "2.5KG*6/CTN",
+          "factory": "连云港中砂宠物用品有限公司",
+          "category": "猫砂"
+        }
+      ]
     }
   ]
 }
