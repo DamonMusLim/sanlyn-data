@@ -1136,7 +1136,7 @@
     "code": "GZ00012",
     "pol": "Qingdao",
     "carrier": "COSCO",
-    "companyName": "",
+    "companyName": "宁波中远海运物流有限公司江西分公司",
     "voyageNo": "TIAN CHANG HE 113S",
     "pod": "Port Klang Westport",
     "freeTime": "7+14",
@@ -1291,6 +1291,6 @@
     "nextWeek": null,
     "routeCode": "",
     "remark": "",
-    "updatedAt": "2026-03-10"
+    "updatedAt": "2026-03-11"
   }
 ]
