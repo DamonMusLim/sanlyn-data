@@ -21,11 +21,18 @@
     },
     "invoice": {
       "nameCN": "恒安国际贸易有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "木浦路103号1201-01单元",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -51,11 +58,18 @@
     },
     "invoice": {
       "nameCN": "苏州春叶金属制品制造有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "新巷村1幢",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -81,11 +95,18 @@
     },
     "invoice": {
       "nameCN": "福建真宠宠物食品有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "莆美镇树洞村377号",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -111,11 +132,18 @@
     },
     "invoice": {
       "nameCN": "宣城福新宠物食品有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -141,11 +169,18 @@
     },
     "invoice": {
       "nameCN": "山东爱舒乐卫生用品有限责任公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -171,11 +206,18 @@
     },
     "invoice": {
       "nameCN": "浙江欧悠可科技有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -201,11 +243,18 @@
     },
     "invoice": {
       "nameCN": "福建泰迪宠物食品有限公司",
+      "nameEN": "",
       "taxNo": "91350629MA32W5FD43",
       "addressCN": "福建省漳州市华安县圣王大道39号",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国农业银行股份有限公司华安经济开发区支行",
-      "bankAccount": "13665501040004452"
+      "bankNameEN": "",
+      "bankAccount": "13665501040004452",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -231,11 +280,18 @@
     },
     "invoice": {
       "nameCN": "邢台仕爵宠物食品有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -261,11 +317,18 @@
     },
     "invoice": {
       "nameCN": "辽宁宠爱科技有限公司",
+      "nameEN": "",
       "taxNo": "91211322MADAM5T59M",
       "addressCN": "辽宁省朝阳市建平县万寿街道朝阳建平经济开发区一期31号标房",
+      "addressEN": "",
       "phone": "",
       "bankName": "朝阳银行建平支行",
-      "bankAccount": "6660002010000450147"
+      "bankNameEN": "",
+      "bankAccount": "6660002010000450147",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -291,11 +354,18 @@
     },
     "invoice": {
       "nameCN": "连云港中砂宠物用品有限公司",
+      "nameEN": "",
       "taxNo": "91320723MADDJNGU67",
       "addressCN": "江苏省连云港市灌云县图河镇董庄7组61号",
+      "addressEN": "",
       "phone": "15366656048",
       "bankName": "中国银行股份有限公司灌云支行",
-      "bankAccount": "549580495399"
+      "bankNameEN": "",
+      "bankAccount": "549580495399",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -321,11 +391,18 @@
     },
     "invoice": {
       "nameCN": "烟台中宠食品股份有限公司",
+      "nameEN": "",
       "taxNo": "913700007337235643",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中行烟台莱山支行",
-      "bankAccount": "235107318878"
+      "bankNameEN": "",
+      "bankAccount": "235107318878",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -351,11 +428,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "PET UNIVERSE NOURISH (M) SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "30, JALAN SULAIMAN 1, TAMAN PUTRA SULAIMAN 1,  68000 AMPANG, SELANGOR",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -381,11 +465,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "Global UnitedTech Pte Ltd",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "10 Anson Road, #10-11, International Plaza, Singapore 079903",
       "phone": "65",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -411,11 +502,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "Lot 6 Jalan CJ 1/5 Kawasan Perusahaan Cheras Jaya 43200 Cheras Selangor",
       "phone": "60",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -441,11 +539,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "PET UNIVERSE NOURISH SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "30,JALAN SULAIMAN 1, TAMAN PUTRA SULAIMAN, 68000 AMPANG,SELANGOR",
       "phone": "12",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -471,11 +576,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "PRO FEEDS PET PRODUCT SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "PT 14476.PERSIARAN BG PERDANA 2. TAMAN PERINDUSTRIAN BATU GAJAH PERDANA.31000 BATU GAJAH,PERAK,MALAYSIA",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -501,11 +613,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "IMPORTADORA Y COMIMPORTADORA Y COMERCIALIZADORA ESENCIA SPA.",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "DR. BARROS BORGONO 246 PROVIDENCIA",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -531,11 +650,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "Giant Mei Global Co.,Ltd",
       "taxNo": "",
       "addressCN": "台中市西屯區潮洋里市政北二路282號14樓之9",
+      "addressEN": "ADD:14F.-9,NO.282,SHIZHENGN.2ND RD., XITUN DIST.,TAICHUNG CITY 407608, TAIWAN",
       "phone": "886",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -561,11 +687,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "IMPORTADORA Y COMERCIALIZADORA CONSIGNA SPA",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -591,11 +724,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "JJ PET GROUP SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "Lot 1, Wei Hing Warehouse Jalan Bengkel Majlis Bandar Baru Penampang Jalan Bundusan 88300 Penampang Sabah, Malaysia",
       "phone": "6012",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -621,11 +761,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "BIRDS PALACE",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "12,DHAKA UNIVERSITY MARKET,KATABON,DHAKA 1000",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -651,11 +798,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "ENRICH CHAMPION SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "NO.2 JALAN PERDANA 1A,TAMAN SEGAR PERDANA,43200 CHERAS,SELANGOR,MALAYSIA",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -681,11 +835,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "DIBAQ (M) SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "LOT 1716,JALAN SG LONG,BATU 11,SG LONG,43000 KAJANG,SELANGOR",
       "phone": "603",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -711,11 +872,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "PETSOME (EU) SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "LOT 1716,JALAN SG LONG,BATU 11,SG LONG,43000 KAJANG,SELANGOR",
       "phone": "603",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -741,11 +909,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "PETSOME SDN BHD",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "LOT 1716,JALAN SG LONG,BATU 11,SG LONG,43000 KAJANG,SELANGOR",
       "phone": "603",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -771,11 +946,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "Eversparkles Pte Ltd",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "10 Anson Road, #10-11 International Plaza Singapore 079903",
       "phone": "6593830070",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -801,11 +983,18 @@
     },
     "invoice": {
       "nameCN": "厦门巴匕进出口有限公司",
+      "nameEN": "XIAMEN PET BABY IMPORT AND EXPORT CO.,LTD",
       "taxNo": "91350206MA34RW3852",
       "addressCN": "厦门市湖里区华荣路26-9号4层",
+      "addressEN": "4TH FLOOR,26-9#HUARONG ROAD,HULI,XIAMEN,CHINA",
       "phone": "18609058888",
       "bankName": "中国银行厦门文灶支行",
-      "bankAccount": "431279918006"
+      "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+      "bankAccount": "431279918006",
+      "swiftCode": "BKCHCNBI73A",
+      "usdBankName": "BANK OF CHINA XIAMEN BRANCHBKCHCNBI73A",
+      "usdBankAccount": "429982879286",
+      "usdSwiftCode": "BKCHCNBI73A"
     },
     "addresses": []
   },
@@ -831,11 +1020,18 @@
     },
     "invoice": {
       "nameCN": "富城山凌集团有限公司",
+      "nameEN": "FORTUNESANLYN GROUP LIMITED",
       "taxNo": "79015016-000-10-25-2",
       "addressCN": "",
+      "addressEN": "FLAT 03，15/F CARNIVAL COMMERCIAL BUILDING 18 JAVAROAD NORTH POINT HK",
       "phone": "18609058888",
       "bankName": "JP Morgan",
-      "bankAccount": "63115257431"
+      "bankNameEN": "JP Morgan Chase HONG KONG BRANCH",
+      "bankAccount": "63115257431",
+      "swiftCode": "CHASHKHHXXX",
+      "usdBankName": "JP Morgan Chase HONG KONG BRANCH",
+      "usdBankAccount": "63115257431",
+      "usdSwiftCode": "CHASHKHHXXX"
     },
     "addresses": []
   },
@@ -863,11 +1059,18 @@
     },
     "invoice": {
       "nameCN": "宁波中远海运物流有限公司江西分公司",
+      "nameEN": "COSCO SHIPPING LOGISTICS (NINGBO)CO., LTD JIANGXI BRANCH",
       "taxNo": "",
       "addressCN": "江西省南昌市红谷滩新区红谷中大道1619号南昌国际金融大厦A幢2112室（第21层）",
+      "addressEN": "R2112,NANCHANG IFC,NO.1619 HONGGU MIDDLE AVENUE,HONGGUTAN NEW DISTRICT,NANCHANG,CHINA",
       "phone": "",
       "bankName": "中国银行",
-      "bankAccount": "193241706555"
+      "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+      "bankAccount": "193241706555",
+      "swiftCode": "",
+      "usdBankName": "BANK OF CHINA XIAMEN BRANCH",
+      "usdBankAccount": "191725116176",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -893,11 +1096,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "Magros Petcare SL",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "Avenida la libertad numero 14, 5º planta, Camargo, Cantabria, Spain 39600",
       "phone": "34",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -923,11 +1133,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "AL BASHEK COMPANY",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "SOAQALJOMA.PARK BE HAPPY.199,TRIPOLI,LIBYA",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -955,11 +1172,18 @@
     },
     "invoice": {
       "nameCN": "厦门寅丰泰供应链管理有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国银行厦门厦禾支行",
-      "bankAccount": "4143 7659 3479"
+      "bankNameEN": "",
+      "bankAccount": "4143 7659 3479",
+      "swiftCode": "",
+      "usdBankName": "中国银行厦门厦禾支行",
+      "usdBankAccount": "4143 7672 8895",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -987,11 +1211,18 @@
     },
     "invoice": {
       "nameCN": "福建全力供应链管理有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国银行厦门湖里支行",
-      "bankAccount": "4286 7838 6466"
+      "bankNameEN": "",
+      "bankAccount": "4286 7838 6466",
+      "swiftCode": "",
+      "usdBankName": "中国银行厦门湖里支行",
+      "usdBankAccount": "4091 7840 6586",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1019,11 +1250,18 @@
     },
     "invoice": {
       "nameCN": "万汇恒通(厦门)国际物流有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "中国（福建）自由贸易试验区厦门片区（保税区）屿南四路7号自贸金融中心A栋3层03单元",
+      "addressEN": "",
       "phone": "",
       "bankName": "中行厦门湖里支行",
-      "bankAccount": "428672364925"
+      "bankNameEN": "",
+      "bankAccount": "428672364925",
+      "swiftCode": "",
+      "usdBankName": "中行厦门湖里支行",
+      "usdBankAccount": "432572436779",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1049,11 +1287,18 @@
     },
     "invoice": {
       "nameCN": "青岛联畅源国际货运代理有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "青岛银行小港支行",
-      "bankAccount": "802150200389626"
+      "bankNameEN": "",
+      "bankAccount": "802150200389626",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1079,11 +1324,18 @@
     },
     "invoice": {
       "nameCN": "厦门瀚龙国际物流有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "工行湖里支行",
-      "bankAccount": "4100021809201152156"
+      "bankNameEN": "",
+      "bankAccount": "4100021809201152156",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1109,11 +1361,18 @@
     },
     "invoice": {
       "nameCN": "锦州乐普物流有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "招商银行锦州中央大街支行",
-      "bankAccount": "416900883410000"
+      "bankNameEN": "",
+      "bankAccount": "416900883410000",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1139,11 +1398,18 @@
     },
     "invoice": {
       "nameCN": "中国人民财产保险股份有限公司青岛市分公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国工商银行青岛市市南区支行",
-      "bankAccount": "9558853803000767635"
+      "bankNameEN": "",
+      "bankAccount": "9558853803000767635",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1169,11 +1435,18 @@
     },
     "invoice": {
       "nameCN": "厦门欣力通报关有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国银行厦门自贸试验区分行",
-      "bankAccount": "4195 5836 7786"
+      "bankNameEN": "",
+      "bankAccount": "4195 5836 7786",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1201,11 +1474,18 @@
     },
     "invoice": {
       "nameCN": "天津同顺源达国际货运代理有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "中国银行天津南楼支行",
-      "bankAccount": "275276326251"
+      "bankNameEN": "",
+      "bankAccount": "275276326251",
+      "swiftCode": "",
+      "usdBankName": "中国银行天津南楼支行",
+      "usdBankAccount": "2713 7670 3384",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1231,11 +1511,18 @@
     },
     "invoice": {
       "nameCN": "揭阳市喜宠科技有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1261,11 +1548,18 @@
     },
     "invoice": {
       "nameCN": "潍坊华龙膨润土有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1291,11 +1585,18 @@
     },
     "invoice": {
       "nameCN": "福建利众诚食品有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1321,11 +1622,18 @@
     },
     "invoice": {
       "nameCN": "青岛馨华和荣包装有限公司",
+      "nameEN": "",
       "taxNo": "91370283MA3QPJFY8T",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "交通银行股份有限公司青岛平度支行",
-      "bankAccount": "372005587013002206489"
+      "bankNameEN": "",
+      "bankAccount": "372005587013002206489",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1351,11 +1659,18 @@
     },
     "invoice": {
       "nameCN": "温州九福实业有限公司",
+      "nameEN": "",
       "taxNo": "91330383MA2HBWQP3Y",
       "addressCN": "浙江省温州市龙港市松阳路571-711号B区（温州康尔微晶玻璃有限公司内）四号楼三楼东边",
+      "addressEN": "",
       "phone": "13336930192",
       "bankName": "招商银行股份有限公司温州龙港支行",
-      "bankAccount": "577905899610808"
+      "bankNameEN": "",
+      "bankAccount": "577905899610808",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1389,11 +1704,18 @@
     },
     "invoice": {
       "nameCN": "上海洋宝宝国际物流有限公司",
+      "nameEN": "Shanghai Ocean Baby International Logistics Co.,Ltd.",
       "taxNo": "91310106MAE9L4AQ28",
       "addressCN": "上海市静安区国庆路43号303室",
+      "addressEN": "Room 303, No. 43 Guoqing Road, Jing'an District, Shanghai",
       "phone": "",
       "bankName": "中国银行厦门文灶支行",
-      "bankAccount": "433849860868"
+      "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+      "bankAccount": "433849860868",
+      "swiftCode": "BKCHCNBI73A",
+      "usdBankName": "BANK OF CHINA XIAMEN BRANCH",
+      "usdBankAccount": "433849630299",
+      "usdSwiftCode": "BKCHCNBI73A"
     },
     "addresses": []
   },
@@ -1419,11 +1741,18 @@
     },
     "invoice": {
       "nameCN": "霸州市天缘塑料冲压制品厂",
+      "nameEN": "",
       "taxNo": "91131081601244182W",
       "addressCN": "河北省霸州市开发区赵家务二村",
+      "addressEN": "",
       "phone": "13785601113",
       "bankName": "河北省霸州农村商业银行股份有限公司城区支行",
-      "bankAccount": "335100122000013874"
+      "bankNameEN": "",
+      "bankAccount": "335100122000013874",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1449,11 +1778,18 @@
     },
     "invoice": {
       "nameCN": "长兴鸭嘴兽国际物流有限公司",
+      "nameEN": "",
       "taxNo": "91330522MAE1KRQ95Y",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": "19125101040040004"
+      "bankNameEN": "",
+      "bankAccount": "19125101040040004",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1477,11 +1813,18 @@
     },
     "invoice": {
       "nameCN": "广州润聪电子商务有限公司",
+      "nameEN": "",
       "taxNo": "914401063045373174",
       "addressCN": "",
+      "addressEN": "",
       "phone": "18022578613",
       "bankName": "广州银行股份有限公司科韵路支行",
-      "bankAccount": "800233775108011"
+      "bankNameEN": "",
+      "bankAccount": "800233775108011",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1507,11 +1850,18 @@
     },
     "invoice": {
       "nameCN": "河北悦佰兔箱包制造有限公司",
+      "nameEN": "",
       "taxNo": "91130684MA07NFQF8P",
       "addressCN": "河北省保定市白沟  东岳街9号。  悦佰兔院里",
+      "addressEN": "",
       "phone": "15030262775",
       "bankName": "中国建设银行股份有限公司高碑店支行",
-      "bankAccount": "13050166650800002941"
+      "bankNameEN": "",
+      "bankAccount": "13050166650800002941",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1535,11 +1885,18 @@
     },
     "invoice": {
       "nameCN": "",
+      "nameEN": "Giant Mei Global Co., Ltd",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1566,11 +1923,18 @@
     },
     "invoice": {
       "nameCN": "海管家",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1596,11 +1960,18 @@
     },
     "invoice": {
       "nameCN": "雨鹤国际物流（深圳）有限公司",
+      "nameEN": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
       "taxNo": "91440300MA5FG34D7J",
       "addressCN": "深圳市龙华区大浪街道高峰社区元芬工业区 B 区 E 栋 701",
+      "addressEN": "Longhua District Yuanfen Science and Technology Park Building E 701",
       "phone": "13725591183",
       "bankName": "交通银行股份有限公司深圳华融支行",
-      "bankAccount": "443899991010007545080"
+      "bankNameEN": "雨鹤国际物流（深圳）有限公司",
+      "bankAccount": "443899991010007545080",
+      "swiftCode": "",
+      "usdBankName": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
+      "usdBankAccount": "443066467143000172130",
+      "usdSwiftCode": "COMMCNSHSZN"
     },
     "addresses": []
   },
@@ -1626,11 +1997,18 @@
     },
     "invoice": {
       "nameCN": "畅至国际物流",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1656,11 +2034,18 @@
     },
     "invoice": {
       "nameCN": "深圳市禧运国际物流有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1686,11 +2071,18 @@
     },
     "invoice": {
       "nameCN": "宣城福新宠物食品有限公司（客户）",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1716,11 +2108,18 @@
     },
     "invoice": {
       "nameCN": "富城山凌集团有限公司",
+      "nameEN": "FORTUNESANLYN GROUP LIMITED",
       "taxNo": "79015016-000-10-25-2",
       "addressCN": "",
+      "addressEN": "FLAT 03，15/F CARNIVAL COMMERCIAL BUILDING 18 JAVAROAD NORTH POINT HK",
       "phone": "18609058888",
       "bankName": "JP Morgan",
-      "bankAccount": "63115257431"
+      "bankNameEN": "JP Morgan Chase HONG KONG BRANCH",
+      "bankAccount": "63115257431",
+      "swiftCode": "CHASHKHHXXX",
+      "usdBankName": "JP Morgan Chase HONG KONG BRANCH",
+      "usdBankAccount": "63115257431",
+      "usdSwiftCode": "CHASHKHHXXX"
     },
     "addresses": []
   },
@@ -1746,11 +2145,18 @@
     },
     "invoice": {
       "nameCN": "天津惠禾国际货运代理有限责任公司",
+      "nameEN": "天津惠禾国际货运代理有限责任公司",
       "taxNo": "",
       "addressCN": "",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1776,11 +2182,18 @@
     },
     "invoice": {
       "nameCN": "浙江领尚包装科技有限公司",
+      "nameEN": "",
       "taxNo": "",
       "addressCN": "浙江杭州市余杭区东湖街道兴国路530号9幢3楼南",
+      "addressEN": "",
       "phone": "",
       "bankName": "",
-      "bankAccount": ""
+      "bankNameEN": "",
+      "bankAccount": "",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
     },
     "addresses": []
   },
@@ -1808,11 +2221,18 @@
     },
     "invoice": {
       "nameCN": "万汇恒通(厦门)围际物流有限公司",
+      "nameEN": "",
       "taxNo": "91350200MA3497XN2G",
       "addressCN": "中国（福建）自由贸易试验区厦门片区屿南四路7号自贸金融中心A栋303室",
+      "addressEN": "",
       "phone": "",
       "bankName": "中信银行福建自贸试验区厦门片区分行营业部",
-      "bankAccount": "8114901014100204417"
+      "bankNameEN": "",
+      "bankAccount": "8114901014100204417",
+      "swiftCode": "CIBKCNBJ361",
+      "usdBankName": "中信银行",
+      "usdBankAccount": "8114914014800204540",
+      "usdSwiftCode": "CIBKCNBJ361"
     },
     "addresses": []
   }
