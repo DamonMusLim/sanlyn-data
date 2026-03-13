@@ -93,420 +93,6 @@
   },
   {
     "code": "",
-    "name": "福建真宠宠物食品有限公司",
-    "nameCN": "福建真宠宠物食品有限公司",
-    "nameEN": "",
-    "shortCode": "ZhenPet",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "福建真宠宠物食品有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "莆美镇树洞村377号",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "福建真宠宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "福建真宠宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "宣城福新宠物食品有限公司",
-    "nameCN": "宣城福新宠物食品有限公司",
-    "nameEN": "",
-    "shortCode": "FuxinPet",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "宣城福新宠物食品有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "宣城福新宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "宣城福新宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "山东爱舒乐卫生用品有限责任公司",
-    "nameCN": "山东爱舒乐卫生用品有限责任公司",
-    "nameEN": "",
-    "shortCode": "AiShuLe",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "山东爱舒乐卫生用品有限责任公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "山东爱舒乐卫生用品有限责任公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "山东爱舒乐卫生用品有限责任公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "浙江欧悠可科技有限公司",
-    "nameCN": "浙江欧悠可科技有限公司",
-    "nameEN": "",
-    "shortCode": "OYOKeTech",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "浙江欧悠可科技有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "浙江欧悠可科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "浙江欧悠可科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "福建泰迪宠物食品有限公司",
-    "nameCN": "福建泰迪宠物食品有限公司",
-    "nameEN": "",
-    "shortCode": "TeddyPet",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "福建泰迪宠物食品有限公司",
-      "nameEN": "",
-      "taxNo": "91350629MA32W5FD43",
-      "addressCN": "福建省漳州市华安县圣王大道39号",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "福建泰迪宠物食品有限公司",
-        "bankNameCN": "中国农业银行股份有限公司华安经济开发区支行",
-        "bankNameEN": "",
-        "account": "13665501040004452",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "福建泰迪宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "邢台仕爵宠物食品有限公司",
-    "nameCN": "邢台仕爵宠物食品有限公司",
-    "nameEN": "",
-    "shortCode": "ShiJuePet",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "邢台仕爵宠物食品有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "邢台仕爵宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "邢台仕爵宠物食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "辽宁宠爱科技有限公司",
-    "nameCN": "辽宁宠爱科技有限公司",
-    "nameEN": "",
-    "shortCode": "ChongAiTech",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "辽宁宠爱科技有限公司",
-      "nameEN": "",
-      "taxNo": "91211322MADAM5T59M",
-      "addressCN": "辽宁省朝阳市建平县万寿街道朝阳建平经济开发区一期31号标房",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "辽宁宠爱科技有限公司",
-        "bankNameCN": "朝阳银行建平支行",
-        "bankNameEN": "",
-        "account": "6660002010000450147",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "辽宁宠爱科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "连云港中砂宠物用品有限公司",
-    "nameCN": "连云港中砂宠物用品有限公司",
-    "nameEN": "",
-    "shortCode": "ZS",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "连云港中砂宠物用品有限公司",
-      "nameEN": "",
-      "taxNo": "91320723MADDJNGU67",
-      "addressCN": "江苏省连云港市灌云县图河镇董庄7组61号",
-      "addressEN": "",
-      "phone": "15366656048",
-      "bankCNY": {
-        "beneficiary": "连云港中砂宠物用品有限公司",
-        "bankNameCN": "中国银行股份有限公司灌云支行",
-        "bankNameEN": "",
-        "account": "549580495399",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "连云港中砂宠物用品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "烟台中宠食品股份有限公司",
-    "nameCN": "烟台中宠食品股份有限公司",
-    "nameEN": "",
-    "shortCode": "CP",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "烟台中宠食品股份有限公司",
-      "nameEN": "",
-      "taxNo": "913700007337235643",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "烟台中宠食品股份有限公司",
-        "bankNameCN": "中行烟台莱山支行",
-        "bankNameEN": "",
-        "account": "235107318878",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "烟台中宠食品股份有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
     "name": "PET UNIVERSE NOURISH (M) SDN BHD",
     "nameCN": "",
     "nameEN": "PET UNIVERSE NOURISH (M) SDN BHD",
@@ -530,7 +116,7 @@
       "nameEN": "PET UNIVERSE NOURISH (M) SDN BHD",
       "taxNo": "",
       "addressCN": "",
-      "addressEN": "30, JALAN SULAIMAN 1, TAMAN PUTRA SULAIMAN 1,  68000 AMPANG, SELANGOR",
+      "addressEN": "30, JALAN SULAIMAN 1, TAMAN PUTRA SULAIMAN 1, 68000 AMPANG, SELANGOR",
       "phone": "",
       "bankCNY": {
         "beneficiary": "",
@@ -549,7 +135,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PET_UNIVERSE"
   },
   {
     "code": "",
@@ -595,7 +182,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "GLOBAL_UNITEDTECH"
   },
   {
     "code": "",
@@ -622,7 +210,7 @@
       "nameEN": "HARMONIOUS HAPPY VENTURES SDN BHD",
       "taxNo": "",
       "addressCN": "",
-      "addressEN": "Lot 6 Jalan CJ 1/5 Kawasan Perusahaan Cheras Jaya 43200 Cheras Selangor",
+      "addressEN": "Lot 6 Jalan CJ 1/5 Kawasan Perusahaan Cheras Jaya 43200 Cheras Selangor",
       "phone": "60",
       "bankCNY": {
         "beneficiary": "",
@@ -641,7 +229,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "HARMONIOUS"
   },
   {
     "code": "",
@@ -687,7 +276,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PET_UNIVERSE"
   },
   {
     "code": "",
@@ -733,7 +323,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PRO_FEEDS"
   },
   {
     "code": "",
@@ -779,7 +370,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "ESENCIA"
   },
   {
     "code": "",
@@ -825,7 +417,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "GIANT_MEI"
   },
   {
     "code": "",
@@ -871,7 +464,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "CONSIGNA"
   },
   {
     "code": "",
@@ -917,7 +511,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "JJ_PET"
   },
   {
     "code": "",
@@ -963,7 +558,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "BIRDS_PALACE"
   },
   {
     "code": "",
@@ -1009,7 +605,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "ENRICH_CHAMPION"
   },
   {
     "code": "",
@@ -1055,7 +652,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PETSOME"
   },
   {
     "code": "",
@@ -1101,7 +699,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PETSOME"
   },
   {
     "code": "",
@@ -1147,7 +746,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "PETSOME"
   },
   {
     "code": "",
@@ -1193,7 +793,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "EVERSPARKLES"
   },
   {
     "code": "",
@@ -1289,54 +890,6 @@
   },
   {
     "code": "",
-    "name": "COSCO SHIPPING LOGISTICS (NINGBO)CO., LTD JIANGXI BRANCH",
-    "nameCN": "宁波中远海运物流有限公司江西分公司",
-    "nameEN": "COSCO SHIPPING LOGISTICS (NINGBO)CO., LTD JIANGXI BRANCH",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "宁波中远海运物流有限公司江西分公司",
-      "nameEN": "COSCO SHIPPING LOGISTICS (NINGBO)CO., LTD JIANGXI BRANCH",
-      "taxNo": "",
-      "addressCN": "江西省南昌市红谷滩新区红谷中大道1619号南昌国际金融大厦A幢2112室（第21层）",
-      "addressEN": "R2112,NANCHANG IFC,NO.1619 HONGGU MIDDLE AVENUE,HONGGUTAN NEW DISTRICT,NANCHANG,CHINA",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "宁波中远海运物流有限公司江西分公司",
-        "bankNameCN": "中国银行",
-        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
-        "account": "193241706555",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "COSCO SHIPPING LOGISTICS (NINGBO)CO., LTD JIANGXI BRANCH",
-        "bankNameCN": "中国银行",
-        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
-        "account": "191725116176",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
     "name": "Magros Petcare SL",
     "nameCN": "",
     "nameEN": "Magros Petcare SL",
@@ -1379,7 +932,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "MAGROS"
   },
   {
     "code": "",
@@ -1425,1124 +979,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "厦门寅丰泰供应链管理有限公司",
-    "nameCN": "厦门寅丰泰供应链管理有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "厦门寅丰泰供应链管理有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "厦门寅丰泰供应链管理有限公司",
-        "bankNameCN": "中国银行厦门厦禾支行",
-        "bankNameEN": "",
-        "account": "4143 7659 3479",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "厦门寅丰泰供应链管理有限公司",
-        "bankNameCN": "中国银行厦门厦禾支行",
-        "bankNameEN": "中国银行厦门厦禾支行",
-        "account": "4143 7672 8895",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "福建全力供应链管理有限公司",
-    "nameCN": "福建全力供应链管理有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)",
-      "Co-loader (同行货代/订舱代理)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "福建全力供应链管理有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "福建全力供应链管理有限公司",
-        "bankNameCN": "中国银行厦门湖里支行",
-        "bankNameEN": "",
-        "account": "4286 7838 6466",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "福建全力供应链管理有限公司",
-        "bankNameCN": "中国银行厦门湖里支行",
-        "bankNameEN": "中国银行厦门湖里支行",
-        "account": "4091 7840 6586",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "万汇恒通(厦门)国际物流有限公司",
-    "nameCN": "万汇恒通(厦门)国际物流有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "万汇恒通(厦门)国际物流有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "中国（福建）自由贸易试验区厦门片区（保税区）屿南四路7号自贸金融中心A栋3层03单元",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "万汇恒通(厦门)国际物流有限公司",
-        "bankNameCN": "中行厦门湖里支行",
-        "bankNameEN": "",
-        "account": "428672364925",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "万汇恒通(厦门)国际物流有限公司",
-        "bankNameCN": "中行厦门湖里支行",
-        "bankNameEN": "中行厦门湖里支行",
-        "account": "432572436779",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "青岛联畅源国际货运代理有限公司",
-    "nameCN": "青岛联畅源国际货运代理有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "customs",
-    "supTypes": [
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "青岛联畅源国际货运代理有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "青岛联畅源国际货运代理有限公司",
-        "bankNameCN": "青岛银行小港支行",
-        "bankNameEN": "",
-        "account": "802150200389626",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "青岛联畅源国际货运代理有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "厦门瀚龙国际物流有限公司",
-    "nameCN": "厦门瀚龙国际物流有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "truck",
-    "supTypes": [
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "厦门瀚龙国际物流有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "厦门瀚龙国际物流有限公司",
-        "bankNameCN": "工行湖里支行",
-        "bankNameEN": "",
-        "account": "4100021809201152156",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "厦门瀚龙国际物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "锦州乐普物流有限公司",
-    "nameCN": "锦州乐普物流有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "truck",
-    "supTypes": [
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "锦州乐普物流有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "锦州乐普物流有限公司",
-        "bankNameCN": "招商银行锦州中央大街支行",
-        "bankNameEN": "",
-        "account": "416900883410000",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "锦州乐普物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "中国人民财产保险股份有限公司青岛市分公司",
-    "nameCN": "中国人民财产保险股份有限公司青岛市分公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "insurance",
-    "supTypes": [
-      "Insurance (保险公司)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "中国人民财产保险股份有限公司青岛市分公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "中国人民财产保险股份有限公司青岛市分公司",
-        "bankNameCN": "中国工商银行青岛市市南区支行",
-        "bankNameEN": "",
-        "account": "9558853803000767635",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "中国人民财产保险股份有限公司青岛市分公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "厦门欣力通报关有限公司",
-    "nameCN": "厦门欣力通报关有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "customs",
-    "supTypes": [
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "厦门欣力通报关有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "厦门欣力通报关有限公司",
-        "bankNameCN": "中国银行厦门自贸试验区分行",
-        "bankNameEN": "",
-        "account": "4195 5836 7786",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "厦门欣力通报关有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "天津同顺源达国际货运代理有限公司",
-    "nameCN": "天津同顺源达国际货运代理有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "天津同顺源达国际货运代理有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "天津同顺源达国际货运代理有限公司",
-        "bankNameCN": "中国银行天津南楼支行",
-        "bankNameEN": "",
-        "account": "275276326251",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "天津同顺源达国际货运代理有限公司",
-        "bankNameCN": "中国银行天津南楼支行",
-        "bankNameEN": "中国银行天津南楼支行",
-        "account": "2713 7670 3384",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "揭阳市喜宠科技有限公司",
-    "nameCN": "揭阳市喜宠科技有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "揭阳市喜宠科技有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "揭阳市喜宠科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "揭阳市喜宠科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "潍坊华龙膨润土有限公司",
-    "nameCN": "潍坊华龙膨润土有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "潍坊华龙膨润土有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "潍坊华龙膨润土有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "潍坊华龙膨润土有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "福建利众诚食品有限公司",
-    "nameCN": "福建利众诚食品有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "福建利众诚食品有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "福建利众诚食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "福建利众诚食品有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "青岛馨华和荣包装有限公司",
-    "nameCN": "青岛馨华和荣包装有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "青岛馨华和荣包装有限公司",
-      "nameEN": "",
-      "taxNo": "91370283MA3QPJFY8T",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "青岛馨华和荣包装有限公司",
-        "bankNameCN": "交通银行股份有限公司青岛平度支行",
-        "bankNameEN": "",
-        "account": "372005587013002206489",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "青岛馨华和荣包装有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "温州九福实业有限公司",
-    "nameCN": "温州九福实业有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "温州九福实业有限公司",
-      "nameEN": "",
-      "taxNo": "91330383MA2HBWQP3Y",
-      "addressCN": "浙江省温州市龙港市松阳路571-711号B区（温州康尔微晶玻璃有限公司内）四号楼三楼东边",
-      "addressEN": "",
-      "phone": "13336930192",
-      "bankCNY": {
-        "beneficiary": "温州九福实业有限公司",
-        "bankNameCN": "招商银行股份有限公司温州龙港支行",
-        "bankNameEN": "",
-        "account": "577905899610808",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "温州九福实业有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "Shanghai Ocean Baby International Logistics Co.,Ltd.",
-    "nameCN": "上海洋宝宝国际物流有限公司",
-    "nameEN": "Shanghai Ocean Baby International Logistics Co.,Ltd.",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Group（集团内部）",
-      "Co-loader (同行货代/订舱代理)",
-      "DDP Agent (双清专线代理)",
-      "Express (国际官方快递)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)",
-      "Insurance (保险公司)",
-      "Overseas Agent (目的港海外代理)",
-      "Warehouse (仓储服务)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "上海洋宝宝国际物流有限公司",
-      "nameEN": "Shanghai Ocean Baby International Logistics Co.,Ltd.",
-      "taxNo": "91310106MAE9L4AQ28",
-      "addressCN": "上海市静安区国庆路43号303室",
-      "addressEN": "Room 303, No. 43 Guoqing Road, Jing'an District, Shanghai",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "上海洋宝宝国际物流有限公司",
-        "bankNameCN": "中国银行厦门文灶支行",
-        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
-        "account": "433849860868",
-        "swift": "BKCHCNBI73A"
-      },
-      "bankUSD": {
-        "beneficiary": "Shanghai Ocean Baby International Logistics Co.,Ltd.",
-        "bankNameCN": "中国银行厦门文灶支行",
-        "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
-        "account": "433849630299",
-        "swift": "BKCHCNBI73A",
-        "iban": "",
-        "bankAddress": "No. 40 North Hubin Road, Xiamen"
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "霸州市天缘塑料冲压制品厂",
-    "nameCN": "霸州市天缘塑料冲压制品厂",
-    "nameEN": "",
-    "shortCode": "霸州市天缘塑料冲压制品厂",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "霸州市天缘塑料冲压制品厂",
-      "nameEN": "",
-      "taxNo": "91131081601244182W",
-      "addressCN": "河北省霸州市开发区赵家务二村",
-      "addressEN": "",
-      "phone": "13785601113",
-      "bankCNY": {
-        "beneficiary": "霸州市天缘塑料冲压制品厂",
-        "bankNameCN": "河北省霸州农村商业银行股份有限公司城区支行",
-        "bankNameEN": "",
-        "account": "335100122000013874",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "霸州市天缘塑料冲压制品厂",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "长兴鸭嘴兽国际物流有限公司",
-    "nameCN": "长兴鸭嘴兽国际物流有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "truck",
-    "supTypes": [
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "长兴鸭嘴兽国际物流有限公司",
-      "nameEN": "",
-      "taxNo": "91330522MAE1KRQ95Y",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "长兴鸭嘴兽国际物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "19125101040040004",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "长兴鸭嘴兽国际物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "广州润聪电子商务有限公司",
-    "nameCN": "广州润聪电子商务有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Seller（销售公司）",
-    "portalRole": "seller",
-    "supType": "all",
-    "supTypes": [],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "广州润聪电子商务有限公司",
-      "nameEN": "",
-      "taxNo": "914401063045373174",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "18022578613",
-      "bankCNY": {
-        "beneficiary": "广州润聪电子商务有限公司",
-        "bankNameCN": "广州银行股份有限公司科韵路支行",
-        "bankNameEN": "",
-        "account": "800233775108011",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "广州润聪电子商务有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "河北悦佰兔箱包制造有限公司",
-    "nameCN": "河北悦佰兔箱包制造有限公司",
-    "nameEN": "",
-    "shortCode": "河北悦佰兔箱包制造有限公司",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
-    "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "河北悦佰兔箱包制造有限公司",
-      "nameEN": "",
-      "taxNo": "91130684MA07NFQF8P",
-      "addressCN": "河北省保定市白沟  东岳街9号。  悦佰兔院里",
-      "addressEN": "",
-      "phone": "15030262775",
-      "bankCNY": {
-        "beneficiary": "河北悦佰兔箱包制造有限公司",
-        "bankNameCN": "中国建设银行股份有限公司高碑店支行",
-        "bankNameEN": "",
-        "account": "13050166650800002941",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "河北悦佰兔箱包制造有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "Giant Mei Global Co., Ltd",
-    "nameCN": "",
-    "nameEN": "Giant Mei Global Co., Ltd",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Buyer（客户）",
-    "portalRole": "customer",
-    "supType": "all",
-    "supTypes": [],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "",
-      "nameEN": "Giant Mei Global Co., Ltd",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "Giant Mei Global Co., Ltd",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "海管家",
-    "nameCN": "海管家",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "customs",
-    "supTypes": [
-      "Insurance (保险公司)",
-      "Customs Broker (报关行)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "海管家",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "海管家",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "海管家",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
-    "nameCN": "雨鹤国际物流（深圳）有限公司",
-    "nameEN": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
-    "shortCode": "雨鹤",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ddp",
-    "supTypes": [
-      "DDP Agent (双清专线代理)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "雨鹤国际物流（深圳）有限公司",
-      "nameEN": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
-      "taxNo": "91440300MA5FG34D7J",
-      "addressCN": "深圳市龙华区大浪街道高峰社区元芬工业区 B 区 E 栋 701",
-      "addressEN": "Longhua District Yuanfen Science and Technology Park Building E 701",
-      "phone": "13725591183",
-      "bankCNY": {
-        "beneficiary": "雨鹤国际物流（深圳）有限公司",
-        "bankNameCN": "交通银行股份有限公司深圳华融支行",
-        "bankNameEN": "雨鹤国际物流（深圳）有限公司",
-        "account": "443899991010007545080",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
-        "bankNameCN": "BANK OF COMMUNICATIONS SHEN ZHEN BRANCH",
-        "bankNameEN": "Yuhe International Logistics (Shenzhen) Co. , Ltd",
-        "account": "443066467143000172130",
-        "swift": "COMMCNSHSZN",
-        "iban": "",
-        "bankAddress": "13/F,BANK OF COMMUNICATIONS TOWER NO.3018 SHENNAN\nMIDDLE ROADSHENZHEN,GUANGDONG(518031) CHINA"
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "畅至国际物流",
-    "nameCN": "畅至国际物流",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ddp",
-    "supTypes": [
-      "DDP Agent (双清专线代理)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "畅至国际物流",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "畅至国际物流",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "畅至国际物流",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "深圳市禧运国际物流有限公司",
-    "nameCN": "深圳市禧运国际物流有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ddp",
-    "supTypes": [
-      "DDP Agent (双清专线代理)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "深圳市禧运国际物流有限公司",
-      "nameEN": "",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "深圳市禧运国际物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "深圳市禧运国际物流有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "AL_BASHEK"
   },
   {
     "code": "",
@@ -2588,7 +1026,8 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "FUXIN_CUSTOMER"
   },
   {
     "code": "",
@@ -2634,67 +1073,20 @@
         "bankAddress": "The Quayside, 18/F Tower 1,77 Hoi Bun Road, Kwun Tong,Hong Kong"
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "FORTUNESANLYN"
   },
   {
     "code": "",
-    "name": "天津惠禾国际货运代理有限责任公司",
-    "nameCN": "天津惠禾国际货运代理有限责任公司",
-    "nameEN": "天津惠禾国际货运代理有限责任公司",
+    "name": "Giant Mei Global Co., Ltd",
+    "nameCN": "",
+    "nameEN": "Giant Mei Global Co., Ltd",
     "shortCode": "",
     "country": "",
-    "roleType": "Supplier（供应商）",
-    "portalRole": "logistics",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "天津惠禾国际货运代理有限责任公司",
-      "nameEN": "天津惠禾国际货运代理有限责任公司",
-      "taxNo": "",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "天津惠禾国际货运代理有限责任公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "天津惠禾国际货运代理有限责任公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "浙江领尚包装科技有限公司",
-    "nameCN": "浙江领尚包装科技有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Manufacturer（工厂）",
-    "portalRole": "factory",
+    "roleType": "Buyer（客户）",
+    "portalRole": "customer",
     "supType": "all",
-    "supTypes": [
-      "Manufacturer（工厂）"
-    ],
+    "supTypes": [],
     "pricingTier": "",
     "featureFlags": {},
     "markup": {
@@ -2703,164 +1095,21 @@
       "currency": "USD"
     },
     "invoice": {
-      "nameCN": "浙江领尚包装科技有限公司",
-      "nameEN": "",
+      "nameCN": "",
+      "nameEN": "Giant Mei Global Co., Ltd",
       "taxNo": "",
-      "addressCN": "浙江杭州市余杭区东湖街道兴国路530号9幢3楼南",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "浙江领尚包装科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "浙江领尚包装科技有限公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "万汇恒通(厦门)围际物流有限公司",
-    "nameCN": "万汇恒通(厦门)围际物流有限公司",
-    "nameEN": "",
-    "shortCode": "万汇恒通",
-    "country": "",
-    "roleType": "Freight Forwarder（货代）",
-    "portalRole": "",
-    "supType": "ocean",
-    "supTypes": [
-      "Customs Broker (报关行)",
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "万汇恒通(厦门)围际物流有限公司",
-      "nameEN": "",
-      "taxNo": "91350200MA3497XN2G",
-      "addressCN": "中国（福建）自由贸易试验区厦门片区屿南四路7号自贸金融中心A栋303室",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "万汇恒通(厦门)围际物流有限公司",
-        "bankNameCN": "中信银行福建自贸试验区厦门片区分行营业部",
-        "bankNameEN": "",
-        "account": "8114901014100204417",
-        "swift": "CIBKCNBJ361"
-      },
-      "bankUSD": {
-        "beneficiary": "万汇恒通(厦门)围际物流有限公司",
-        "bankNameCN": "中信银行福建自贸试验区厦门片区分行营业部",
-        "bankNameEN": "中信银行",
-        "account": "8114914014800204540",
-        "swift": "CIBKCNBJ361",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "山东威邦和供应链有限公司烟台分公司",
-    "nameCN": "山东威邦和供应链有限公司烟台分公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Freight Forwarder（货代）",
-    "portalRole": "",
-    "supType": "ocean",
-    "supTypes": [
-      "Co-loader (同行货代/订舱代理)",
-      "Trucking (拖车/车队)",
-      "Customs Broker (报关行)",
-      "Warehouse (仓储服务)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "山东威邦和供应链有限公司烟台分公司",
-      "nameEN": "",
-      "taxNo": "91370602MA3NAMMC6A",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "15954506786",
-      "bankCNY": {
-        "beneficiary": "山东威邦和供应链有限公司烟台分公司",
-        "bankNameCN": "中国银行股份有限公司烟台市分行",
-        "bankNameEN": "",
-        "account": "229937389409",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "山东威邦和供应链有限公司烟台分公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "威海市永泰货物运输有限公司",
-    "nameCN": "威海市永泰货物运输有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "country": "",
-    "roleType": "Seller（销售公司）",
-    "portalRole": "seller",
-    "supType": "truck",
-    "supTypes": [
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "威海市永泰货物运输有限公司",
-      "nameEN": "",
-      "taxNo": "91371002744516632R",
       "addressCN": "",
       "addressEN": "",
       "phone": "",
       "bankCNY": {
-        "beneficiary": "威海市永泰货物运输有限公司",
-        "bankNameCN": "中信银行威海市环翠支行",
+        "beneficiary": "",
+        "bankNameCN": "",
         "bankNameEN": "",
-        "account": "7373410182600067949",
+        "account": "",
         "swift": ""
       },
       "bankUSD": {
-        "beneficiary": "威海市永泰货物运输有限公司",
+        "beneficiary": "Giant Mei Global Co., Ltd",
         "bankNameCN": "",
         "bankNameEN": "",
         "account": "",
@@ -2869,6 +1118,7 @@
         "bankAddress": ""
       }
     },
-    "addresses": []
+    "addresses": [],
+    "groupCode": "GIANT_MEI"
   }
 ]
