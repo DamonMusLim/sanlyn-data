@@ -2235,5 +2235,82 @@
       "usdSwiftCode": "CIBKCNBJ361"
     },
     "addresses": []
+  },
+  {
+    "code": "",
+    "name": "山东威邦和供应链有限公司烟台分公司",
+    "nameCN": "山东威邦和供应链有限公司烟台分公司",
+    "nameEN": "",
+    "shortCode": "",
+    "country": "",
+    "roleType": "Freight Forwarder（货代）",
+    "portalRole": "",
+    "supType": "ocean",
+    "supTypes": [
+      "Co-loader (同行货代/订舱代理)",
+      "Trucking (拖车/车队)",
+      "Customs Broker (报关行)",
+      "Warehouse (仓储服务)"
+    ],
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "",
+      "value": 0,
+      "currency": "USD"
+    },
+    "invoice": {
+      "nameCN": "山东威邦和供应链有限公司烟台分公司",
+      "nameEN": "",
+      "taxNo": "91370602MA3NAMMC6A",
+      "addressCN": "",
+      "addressEN": "",
+      "phone": "15954506786",
+      "bankName": "中国银行股份有限公司烟台市分行",
+      "bankNameEN": "",
+      "bankAccount": "229937389409",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
+    },
+    "addresses": []
+  },
+  {
+    "code": "",
+    "name": "威海市永泰货物运输有限公司",
+    "nameCN": "威海市永泰货物运输有限公司",
+    "nameEN": "",
+    "shortCode": "",
+    "country": "",
+    "roleType": "Seller（销售公司）",
+    "portalRole": "seller",
+    "supType": "truck",
+    "supTypes": [
+      "Trucking (拖车/车队)"
+    ],
+    "pricingTier": "",
+    "featureFlags": {},
+    "markup": {
+      "mode": "",
+      "value": 0,
+      "currency": "USD"
+    },
+    "invoice": {
+      "nameCN": "威海市永泰货物运输有限公司",
+      "nameEN": "",
+      "taxNo": "91371002744516632R",
+      "addressCN": "",
+      "addressEN": "",
+      "phone": "",
+      "bankName": "中信银行威海市环翠支行",
+      "bankNameEN": "",
+      "bankAccount": "7373410182600067949",
+      "swiftCode": "",
+      "usdBankName": "",
+      "usdBankAccount": "",
+      "usdSwiftCode": ""
+    },
+    "addresses": []
   }
 ]
