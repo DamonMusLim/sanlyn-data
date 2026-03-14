@@ -1841,11 +1841,11 @@
       "status": "",
       "companyNameEN": "PETSOME SDN BHD",
       "companyCode": "PETSOME",
-      "pol": "",
+      "pol": "Qingdao",
       "pod": "Port Klang Westport",
       "orderDate": "2026-03-14",
       "deliveryDate": "2026-02-19",
-      "actDelivery": "",
+      "actDelivery": "2026-03-16",
       "containerType": "40hq",
       "totalBoxes": 2640,
       "grossWeight": 13728,
@@ -1884,7 +1884,7 @@
       "paidFactory": 0,
       "unpaidFactory": 219648,
       "tradeTerms": "FOB",
-      "productionStatus": "生产中"
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260220037",
@@ -1896,7 +1896,7 @@
       "pod": "Port Klang Westport",
       "orderDate": "2026-03-14",
       "deliveryDate": "2026-02-19",
-      "actDelivery": "",
+      "actDelivery": "2026-03-16",
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26160,
@@ -1935,7 +1935,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": "生产中"
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260220038",
