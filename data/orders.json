@@ -48,56 +48,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20251225056",
@@ -138,48 +89,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "NATURAL WORLD TOFU CAT LITTER ORIGINAL 2.5KG",
-          "barcode": "6921734931665",
-          "qty": 400,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "NATURAL WORLD TOFU CAT LITTER GREEN TEA 2.5KG",
-          "barcode": "6921734931627",
-          "qty": 240,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "NATURAL WORLD TOFU CAT LITTER LAVENDER 2.5KG",
-          "barcode": "6921734931634",
-          "qty": 400,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "NATURAL WORLD TOFU CAT LITTER MILK 2.5KG",
-          "barcode": "6921734931658",
-          "qty": 320,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "NATURAL WORLD TOFU CAT LITTER CHARCOAL 2.5KG",
-          "barcode": "6921734931672",
-          "qty": 240,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20251229059",
@@ -228,88 +138,7 @@
       "paidFactory": 0,
       "unpaidFactory": 185168,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
-          "barcode": "9551016105353",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G TUNA WITH CRANBERRY GRAVY",
-          "barcode": "9551016105360",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN WITH SALMON GRAVY",
-          "barcode": "9551016105384",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF SARDINE  400G",
-          "barcode": "9551016100969",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
-          "barcode": "9551016100891",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
-          "barcode": "9551016100952",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF TUNA 400G",
-          "barcode": "9551016100914",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
-          "barcode": "9551016102963",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
-          "barcode": "9551016101454",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
-          "barcode": "9551016101423",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20251229060",
@@ -358,64 +187,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
-          "barcode": "9551016102833",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 480,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
-          "barcode": "9551016102536",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
-          "barcode": "9551016102529",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮"
-        },
-        {
-          "name": "",
-          "barcode": "",
-          "qty": 0,
-          "unit": "",
-          "factory": "",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20251230062",
@@ -464,56 +236,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME TOFU CAT LITTER MILK 2.5KG",
-          "barcode": "9551016100471",
-          "qty": 80,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "CATSOME TOFU CAT LITTER STRAWBERRY 2.5KG",
-          "barcode": "9551016100464",
-          "qty": 240,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "CATSOME TOFU CAT LITTER CHARCOAL 2.5KG",
-          "barcode": "9551016100457",
-          "qty": 400,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "CATSOME TOFU CAT LITTER GREEN TEA 2.5KG",
-          "barcode": "9551016100440",
-          "qty": 400,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "CATSOME TOFU CAT LITTER LAVENDER 2.5KG",
-          "barcode": "9551016100433",
-          "qty": 320,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "CATSOME TOFU CAT LITTER ORIGINAL 2.5KG",
-          "barcode": "9551016100426",
-          "qty": 160,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20251231065",
@@ -562,32 +285,7 @@
       "paidFactory": 184800,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 1760,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016101737",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016101744",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260105001",
@@ -636,56 +334,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77420,
       "tradeTerms": "EXW",
-      "products": [
-        {
-          "name": "ECO TOFU CAT LITTER CHARCOAL 2.2KG",
-          "barcode": "9551017800257",
-          "qty": 350,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER GREEN TEA 2.2KG",
-          "barcode": "9551017800271",
-          "qty": 140,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER STRAWBERRY 2.2KG",
-          "barcode": "9551017800264",
-          "qty": 70,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER LAVENDER 2.2KG",
-          "barcode": "9551017800226",
-          "qty": 350,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER ORIGINAL 2.2KG",
-          "barcode": "9551017800240",
-          "qty": 350,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER COFFE 2.2KG",
-          "barcode": "9551017800233",
-          "qty": 140,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "豆腐猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260119016",
@@ -724,48 +373,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT SALMON POUCH 70G",
-          "barcode": "9551016102499",
-          "qty": 576,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016102550",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260122017",
@@ -804,72 +412,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
-          "barcode": "9551016101188",
-          "qty": 96,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & SHRIMP POUCH 80G",
-          "barcode": "9551016101201",
-          "qty": 96,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & TUNA POUCH 80G",
-          "barcode": "9551016101195",
-          "qty": 384,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN POUCH 80G",
-          "barcode": "9551016101225",
-          "qty": 192,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
-          "barcode": "9551016101270",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SALMON POUCH 80G",
-          "barcode": "9551016101287",
-          "qty": 384,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SCALLOPS POUCH 80G",
-          "barcode": "9551016101263",
-          "qty": 192,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA POUCH 80G",
-          "barcode": "9551016101249",
-          "qty": 96,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260123018",
@@ -922,24 +465,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
-          "barcode": "9551014016620",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  COFFEE 6KG",
-          "barcode": "9551014016637",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260123020",
@@ -978,16 +504,7 @@
       "paidFactory": 48502,
       "unpaidFactory": -1702,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "bag",
-          "barcode": "pb-1",
-          "qty": 100,
-          "unit": "240*190",
-          "factory": "",
-          "category": "bag"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260126025",
@@ -1040,32 +557,7 @@
       "paidFactory": 0,
       "unpaidFactory": 48060,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Sinature7 TOFU CAT LITTER STRAWBERRY 2.5KG",
-          "barcode": "0753692081740",
-          "qty": 144,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "Sinature7 TOFU CAT LITTER Charcoal 2.5KG",
-          "barcode": "0753692081757",
-          "qty": 288,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "Sinature7 TOFU CAT LITTER LAVENDER 2.5KG",
-          "barcode": "0753692081764",
-          "qty": 288,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260203005",
@@ -1118,136 +610,7 @@
       "paidFactory": 82882.8,
       "unpaidFactory": -82882.8,
       "tradeTerms": "EXW",
-      "products": [
-        {
-          "name": "No.1 Standard Pet Airline Carrier",
-          "barcode": "16",
-          "qty": 252,
-          "unit": "咖色，灰色，黑色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物出行"
-        },
-        {
-          "name": "Hanging Large Bowl",
-          "barcode": "15",
-          "qty": 252,
-          "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Hanging Water Dispenser",
-          "barcode": "14",
-          "qty": 144,
-          "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Hanging Feeder",
-          "barcode": "13",
-          "qty": 180,
-          "unit": "雾霾蓝",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Large Capacity Automatic Water Dispenser (8 L)",
-          "barcode": "12",
-          "qty": 600,
-          "unit": "黑色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Square Food & Water Feeder",
-          "barcode": "11",
-          "qty": 600,
-          "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Integrated 15° Tilted Food & Water Feeder",
-          "barcode": "10",
-          "qty": 200,
-          "unit": "灰色，黄色，蓝色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "All-in-One Food & Water Feeder with Stainless Steel Bowl",
-          "barcode": "9",
-          "qty": 200,
-          "unit": "灰色，蓝色，绿色，黄色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Automatic Water Dispenser (3.8 L)",
-          "barcode": "8",
-          "qty": 560,
-          "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Automatic Water Dispenser (3.3 L)",
-          "barcode": "7",
-          "qty": 720,
-          "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Automatic Feeder (2.1 kg)",
-          "barcode": "6",
-          "qty": 660,
-          "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "Automatic Feeder (1.3 kg)",
-          "barcode": "5",
-          "qty": 50,
-          "unit": "白色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "宠物餐具"
-        },
-        {
-          "name": "No.40 Single-Layer Hamster Cage",
-          "barcode": "4",
-          "qty": 180,
-          "unit": "橙色，蓝色，绿色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "仓鼠"
-        },
-        {
-          "name": "No.50 High-Transparency Hamster Cage",
-          "barcode": "3",
-          "qty": 180,
-          "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "仓鼠"
-        },
-        {
-          "name": "No.43 High-Transparency Hamster Cage",
-          "barcode": "2",
-          "qty": 315,
-          "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "仓鼠"
-        },
-        {
-          "name": "No.35 High-Transparency Hamster Cage",
-          "barcode": "1",
-          "qty": 400,
-          "unit": "粉色，蓝色，橙色",
-          "factory": "霸州市天缘塑料冲压制品厂",
-          "category": "仓鼠"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260204007",
@@ -1300,40 +663,7 @@
       "paidFactory": 0,
       "unpaidFactory": 81702,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Sinature7 TOFU CAT LITTER Green tea 2.5KG",
-          "barcode": "0753692081733",
-          "qty": 288,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "Sinature7 TOFU CAT LITTER Charcoal 2.5KG",
-          "barcode": "0753692081757",
-          "qty": 360,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "Sinature7 TOFU CAT LITTER LAVENDER 2.5KG",
-          "barcode": "0753692081764",
-          "qty": 288,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "Sinature7 TOFU CAT LITTER LEMON 2.5KG",
-          "barcode": "0753692081771",
-          "qty": 288,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260205011",
@@ -1386,32 +716,7 @@
       "paidFactory": 0,
       "unpaidFactory": 41373.072,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
-          "barcode": "19",
-          "qty": 1668,
-          "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": ""
-        },
-        {
-          "name": "PET'S ACADEMY BENTONITE CAT LITTER  COFFEE 1.3KG",
-          "barcode": "18",
-          "qty": 1668,
-          "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": ""
-        },
-        {
-          "name": "PET'S ACADEMY BENTONITE CAT LITTER  LEMON 1.3KG",
-          "barcode": "17",
-          "qty": 1668,
-          "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260205012",
@@ -1466,16 +771,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
-          "barcode": "19",
-          "qty": 1668,
-          "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260205013",
@@ -1530,16 +826,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PET'S ACADEMY BENTONITE CAT LITTER  COFFEE 1.3KG",
-          "barcode": "18",
-          "qty": 1668,
-          "unit": "1.3KG/BAG X 12/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260205014",
@@ -1594,16 +881,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "",
-          "barcode": "17",
-          "qty": 1668,
-          "unit": "",
-          "factory": "",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260205015",
@@ -1658,88 +936,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T138",
-          "qty": 900,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T147",
-          "qty": 480,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T149",
-          "qty": 1200,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T151",
-          "qty": 200,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T103",
-          "qty": 540,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T167",
-          "qty": 600,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Box",
-          "barcode": "T133",
-          "qty": 450,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "cat litter scoop",
-          "barcode": "7020",
-          "qty": 1000,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Grass Planter",
-          "barcode": "T131",
-          "qty": 15960,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        },
-        {
-          "name": "Cat Litter Mat",
-          "barcode": "T140",
-          "qty": 600,
-          "unit": "",
-          "factory": "广州润聪电子商务有限公司",
-          "category": ""
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206016",
@@ -1794,32 +991,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 1100,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016101737",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016101744",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206017",
@@ -1874,64 +1046,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
-          "barcode": "9551016101751",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
-          "barcode": "9551016101768",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016101775",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101782",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101799",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016102086",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102093",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206018",
@@ -1986,56 +1101,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016102109",
-          "qty": 660,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
-          "barcode": "9551016102116",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
-          "barcode": "9551016102123",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
-          "barcode": "9551016102130",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102147",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016102154",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206019",
@@ -2090,104 +1156,7 @@
       "paidFactory": 0,
       "unpaidFactory": 246816,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
-          "barcode": "9551016101645",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY KITTY RECIPE CHICKEN CAT CANNED FOOD 80G",
-          "barcode": "9551016101669",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN SALMON CAT CANNED FOOD 80G",
-          "barcode": "9551016101676",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA  CAT CANNED FOOD 80G",
-          "barcode": "9551016102024",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G CHICKEN WITH GOAT MILK PATE",
-          "barcode": "9551016105476",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G CHICKEN WITH SALMON PATE",
-          "barcode": "9551016105483",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G CHICKEN WITH KRILL PATE",
-          "barcode": "9551016105490",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G SALMON WITH KRILL PATE",
-          "barcode": "9551016105506",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105735",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DUCK SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105742",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105759",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN & DUCK SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105766",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206020",
@@ -2242,136 +1211,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016101737",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016101744",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
-          "barcode": "9551016101751",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
-          "barcode": "9551016101768",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016101775",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101782",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101799",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016102086",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102093",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016102109",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
-          "barcode": "9551016102116",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
-          "barcode": "9551016102123",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
-          "barcode": "9551016102130",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102147",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016102154",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206021",
@@ -2426,136 +1266,7 @@
       "paidFactory": 0,
       "unpaidFactory": 137884.8,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN VSR CHICKEN PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105674",
-          "qty": 610,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105698",
-          "qty": 137,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR CHICKEN TUNA PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105704",
-          "qty": 380,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR TUNA PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105681",
-          "qty": 137,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR TUNA DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105711",
-          "qty": 137,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR TUNA DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105711",
-          "qty": 137,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN LAMB POUCH 70G",
-          "barcode": "9551016104080",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
-          "barcode": "9551016104127",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
-          "barcode": "9551016104134",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 48,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 48,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 48,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
-          "barcode": "9551016104172",
-          "qty": 48,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206022",
@@ -2610,120 +1321,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177672,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF KITTY SARDINE WITH MACKEREL 400G",
-          "barcode": "9551016100945",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE  400G",
-          "barcode": "9551016100969",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL CRAB 400G",
-          "barcode": "9551016100884",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
-          "barcode": "9551016100921",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL SILVERFISH 400G",
-          "barcode": "9551016100877",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL TUNA 400G",
-          "barcode": "9551016100907",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA 400G",
-          "barcode": "9551016100914",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA CRAB CANNED FOOD 400G",
-          "barcode": "9551016102956",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
-          "barcode": "9551016102963",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
-          "barcode": "9551016102970",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
-          "barcode": "9551016102987",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
-          "barcode": "9551016105131",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE LAMB CHICKEN CANNED FOOD",
-          "barcode": "9551016105148",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE BEEF CHICKEN CANNED FOOD",
-          "barcode": "9551016105162",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206023",
@@ -2778,40 +1376,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
-          "barcode": "9551016101270",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SALMON POUCH 80G",
-          "barcode": "9551016101287",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SHIRASU POUCH 80G",
-          "barcode": "9551016101232",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA POUCH 80G",
-          "barcode": "9551016101249",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260206024",
@@ -2866,112 +1431,7 @@
       "paidFactory": 0,
       "unpaidFactory": 225072,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME SALMON & CHICKEN GRAVY 80G",
-          "barcode": "9551016100174",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & CRAB & CHICKEN GRAVY 80G",
-          "barcode": "9551016100150",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN JELLY 80G",
-          "barcode": "9551016100211",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SALMON JELLY 80G",
-          "barcode": "9551016100228",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN GRAVY",
-          "barcode": "9551016105377",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
-          "barcode": "9551016102987",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
-          "barcode": "9551016105131",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR CHICKEN PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105674",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR TUNA PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105681",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105698",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR CHICKEN TUNA PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105704",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR TUNA DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105711",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN VSR CHICKEN DUCK PUMPKIN CANNED FOOD 400G",
-          "barcode": "9551016105728",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260209026",
@@ -3036,80 +1496,7 @@
       "paidFactory": 0,
       "unpaidFactory": 292864,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "DOGSOME TRAY DUCK+ORANGE",
-          "barcode": "9551016103571",
-          "qty": 320,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY CODFISH+APPLE",
-          "barcode": "9551016106022",
-          "qty": 160,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY SALMON+KIWI",
-          "barcode": "9551016103557",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY CHICKEN+PINEAPPLE",
-          "barcode": "9551016103533",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY DUCK",
-          "barcode": "9551016103526",
-          "qty": 320,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY CODFISH",
-          "barcode": "9551016106015",
-          "qty": 160,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY SALMON",
-          "barcode": "9551016103502",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY  LAMB",
-          "barcode": "9551016103496",
-          "qty": 640,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "DOGSOME TRAY CHICKEN",
-          "barcode": "9551016103489",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260210027",
@@ -3150,88 +1537,7 @@
       "paidFactory": 0,
       "unpaidFactory": 205593.6,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY GF DOG CAN TURKEY CANNED FOOD",
-          "barcode": "9551016102796",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY GF DOG CAN TURKEY CANNED FOOD",
-          "barcode": "9551016102802",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY GF DOG CAN LAMB CANNED FOOD",
-          "barcode": "9551016102826",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY GF DOG CAN DUCK CANNED FOOD",
-          "barcode": "9551016105889",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY CODFISH",
-          "barcode": "9551016103397",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY TURKEY",
-          "barcode": "9551016103403",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY MACKEREL",
-          "barcode": "9551016103410",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY LAMB",
-          "barcode": "9551016103427",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY VENSION",
-          "barcode": "9551016103465",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        },
-        {
-          "name": "SNIFFLY DOG TRAY TUNA",
-          "barcode": "9551016103472",
-          "qty": 176,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "犬零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260210028",
@@ -3273,24 +1579,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
-          "barcode": "9551014016620",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  COFFEE 6KG",
-          "barcode": "9551014016637",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260218030",
@@ -3340,408 +1629,7 @@
       "paidFactory": 0,
       "unpaidFactory": 613313.24,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "WANPY CHICKEN JERKY 100G",
-          "barcode": "6927749810308",
-          "qty": 50,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY STEAKS 100G",
-          "barcode": "6927749810643",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY BARS 100G",
-          "barcode": "6927749810612",
-          "qty": 35,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SOFT CHICKEN JERKY STRIPS 100G",
-          "barcode": "6927749810339",
-          "qty": 35,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY CHIPS 100G",
-          "barcode": "6927749810650",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SOFT CHICKEN JERKY & CHEESE SLICES 100G",
-          "barcode": "6927749810926",
-          "qty": 35,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & CODFISH SANDWICHES 100G",
-          "barcode": "6927749810636",
-          "qty": 35,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & CODFISH SUSHI 100G",
-          "barcode": "6927749810629",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY DUMBBELLS 100G",
-          "barcode": "6927749810896",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & RAWHIDE WRAPS 100G",
-          "barcode": "6927749810278",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & RAWHIDE TWISTS 100G",
-          "barcode": "6927749810919",
-          "qty": 35,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & CALCIUME BONE TWISTS 100G",
-          "barcode": "6927749810353",
-          "qty": 20,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & CALCIUM BONE WRAP 100G",
-          "barcode": "6927749812302",
-          "qty": 25,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY DUCK JERKY 100G",
-          "barcode": "6927749820048",
-          "qty": 25,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY TOOTHBRUSH CHEW (CHICKEN FLAVOR) 100G",
-          "barcode": "6927749869016",
-          "qty": 15,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY LAMB JERKY DUMBBELLS 100G",
-          "barcode": "6927749840206",
-          "qty": 15,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SWEET POTATO DUMBBELLS 100G",
-          "barcode": "6927749860136",
-          "qty": 15,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SALMON STICKS 100G",
-          "barcode": "6927749869047",
-          "qty": 25,
-          "unit": "10KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SOFT CHICKEN JERKY STRIPS FOR CAT 80G",
-          "barcode": "6927749811299",
-          "qty": 25,
-          "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN BITES FOR CAT 80G",
-          "barcode": "6927749811343",
-          "qty": 15,
-          "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY CHICKEN JERKY & CODFISH SANDWICHES FOR CAT 80G",
-          "barcode": "6927749811336",
-          "qty": 15,
-          "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SOFT DUCK JERKY STRIPS FOR CAT 80G",
-          "barcode": "6927749811466",
-          "qty": 15,
-          "unit": "8KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY SALMON FISH SHAPE BITES 450G",
-          "barcode": "6927749868033",
-          "qty": 84,
-          "unit": "5.4KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "WANPY TOOTHBRUSH CHEW (CHICKEN FLAVOR) 500G",
-          "barcode": "6927749869030",
-          "qty": 42,
-          "unit": "6KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "犬用"
-        },
-        {
-          "name": "TREAT - TU CREAMY NA & SHRIMP FOR CAT 70G",
-          "barcode": "6927749871095",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - CHICKEN FOR CAT 70G",
-          "barcode": "6927749871088",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT-TUNA & SCALLOP FOR CAT 70G",
-          "barcode": "6927749871101",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - TUNA & SALMON FOR CAT 70G",
-          "barcode": "6927749871118",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - TUNA & CODFISH FOR CAT 70G",
-          "barcode": "6927749871125",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - TUNA FOR CAT 70G",
-          "barcode": "6927749871194",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - TUNA & CRAB FOR CAT 70G",
-          "barcode": "6927749871200",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - CHICKEN & CRAB FOR CAT 70G",
-          "barcode": "6927749871217",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY CREAMY TREAT-4 FLAVORS ASSORTED 50P",
-          "barcode": "6927749871859",
-          "qty": 84,
-          "unit": "8.4KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - CHICKEN 70G",
-          "barcode": "6927749870241",
-          "qty": 19,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY CREAMY TREAT-CHICKEN & CHEESE 40P",
-          "barcode": "6927749870296",
-          "qty": 19,
-          "unit": "6.72KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY  TREAT - SALMON & CHICKEN 70G",
-          "barcode": "6927749870265",
-          "qty": 19,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "CREAMY TREAT - DUCK FOR DOG  70G",
-          "barcode": "6927749870272",
-          "qty": 19,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY SKIN & COAT  CREAMY TREAT TUNA & SALMON 70G",
-          "barcode": "6927749871743",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "HAIRBALL CONTROL CREAMY TREAT CODFISH & CHICKEN 70G",
-          "barcode": "6927749871750",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "URINARY CARE CREAMY TREAT DUCK & CHICKEN 70G",
-          "barcode": "6927749871767",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "JOINT SUPPORT CREAMY TREAT BEEF & CHICKEN 70G",
-          "barcode": "6927749871774",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "KIDNEY CARE CREAMY TREAT CHICKEN & VEGGIES 70G",
-          "barcode": "6927749871781",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "DIGESTIVE HEALTH CREAMY TREAT SALMON & CHICKEN 70G",
-          "barcode": "6927749871798",
-          "qty": 28,
-          "unit": "7.56KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY STEW TUNA FOR CAT 70G",
-          "barcode": "6927749853251",
-          "qty": 95,
-          "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY STEW TUNA&CHICKEN FOR CAT 70G",
-          "barcode": "6927749853282",
-          "qty": 95,
-          "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY STEW TUNA&SHRIMP FOR CAT 70G",
-          "barcode": "6927749853275",
-          "qty": 95,
-          "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY STEW  SALMON&TUNA FOR KITTEN 70G",
-          "barcode": "6927749853299",
-          "qty": 95,
-          "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY STEW CHICKEN&DUCK FOR KITTEN 70G",
-          "barcode": "6927749853305",
-          "qty": 95,
-          "unit": "7KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY LICKABLE CREAM - SALMON FOR CAT",
-          "barcode": "6927749871927",
-          "qty": 24,
-          "unit": "5.12KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY LICKABLE CREAM - CHICKEN FOR CAT",
-          "barcode": "6927749871910",
-          "qty": 24,
-          "unit": "5.12KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260219031",
@@ -3792,48 +1680,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Dogsome duck 375g",
-          "barcode": "9551016105872",
-          "qty": 360,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "其他宠物用品"
-        },
-        {
-          "name": "Dogsome salmon 375g",
-          "barcode": "9551016100327",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "其他宠物用品"
-        },
-        {
-          "name": "Dogsome codfish 375g",
-          "barcode": "9551016100334",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "其他宠物用品"
-        },
-        {
-          "name": "Dogsome chicken 375g",
-          "barcode": "9551016100358",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "其他宠物用品"
-        },
-        {
-          "name": "Dogsome lamb 375g",
-          "barcode": "9551016100341",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "其他宠物用品"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260219032",
@@ -3884,48 +1731,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Dogsome duck 375g",
-          "barcode": "9551016105872",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome salmon 375g",
-          "barcode": "9551016100327",
-          "qty": 720,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome codfish 375g",
-          "barcode": "9551016100334",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome lamb 375g",
-          "barcode": "9551016100341",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome chicken 375g",
-          "barcode": "9551016100358",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260219033",
@@ -3976,48 +1782,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Dogsome duck 375g",
-          "barcode": "9551016105872",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome salmon 375g",
-          "barcode": "9551016100327",
-          "qty": 720,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome codfish 375g",
-          "barcode": "9551016100334",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome lamb 375g",
-          "barcode": "9551016100341",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome chicken 375g",
-          "barcode": "9551016100358",
-          "qty": 600,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220035",
@@ -4068,48 +1833,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "WANPY MEAT LOAF VENISON CANNEDFOOD FOR DOG",
-          "barcode": "8885565",
-          "qty": 480,
-          "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY MEAT LOAF CHICKEN &VEGETABLE CANNED FOOD FOR DOG",
-          "barcode": "6927749850113",
-          "qty": 480,
-          "unit": "9KG/箱",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY MEAT LOAF TURKEY CANNEDFOOD FOR DOG",
-          "barcode": "6927749855514",
-          "qty": 480,
-          "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY MEAT LOAF SALMON CANNEDFOOD FOR DOG",
-          "barcode": "6927749854517",
-          "qty": 480,
-          "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        },
-        {
-          "name": "WANPY MEAT LOAF LAMB CANNED FOODFOR DOG",
-          "barcode": "6927749852018",
-          "qty": 480,
-          "unit": "9KG/箱(375g)",
-          "factory": "烟台中宠股份有限公司",
-          "category": "猫用"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220036",
@@ -4160,72 +1884,7 @@
       "paidFactory": 0,
       "unpaidFactory": 219648,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "DOGSOME TRAY CHICKEN",
-          "barcode": "9551016103489",
-          "qty": 240,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY  LAMB",
-          "barcode": "9551016103496",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY SALMON",
-          "barcode": "9551016103502",
-          "qty": 480,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY CODFISH",
-          "barcode": "9551016106015",
-          "qty": 360,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY DUCK",
-          "barcode": "9551016103526",
-          "qty": 360,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY LAMB+BLUEBERRIES",
-          "barcode": "9551016103540",
-          "qty": 360,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY CODFISH+APPLE",
-          "barcode": "9551016106022",
-          "qty": 120,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        },
-        {
-          "name": "DOGSOME TRAY DUCK+ORANGE",
-          "barcode": "9551016103571",
-          "qty": 240,
-          "unit": "100G/PC*8/TRAY*4/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/餐盒"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220037",
@@ -4276,48 +1935,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "Dogsome duck 375g",
-          "barcode": "9551016105872",
-          "qty": 360,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome salmon 375g",
-          "barcode": "9551016100327",
-          "qty": 360,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome codfish 375g",
-          "barcode": "9551016100334",
-          "qty": 240,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome lamb 375g",
-          "barcode": "9551016100341",
-          "qty": 720,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        },
-        {
-          "name": "Dogsome chicken 375g",
-          "barcode": "9551016100358",
-          "qty": 720,
-          "unit": "375G/CANX24/CTN",
-          "factory": "烟台中宠食品股份有限公司",
-          "category": "湿粮/罐头"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220038",
@@ -4368,40 +1986,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF CHICKEN & GOAT MILK (KITTEN) POUCH 80G",
-          "barcode": "9551016101171",
-          "qty": 192,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
-          "barcode": "9551016101188",
-          "qty": 288,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & SARDINE POUCH 80G",
-          "barcode": "9551016101218",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SALMON POUCH 80G",
-          "barcode": "9551016101287",
-          "qty": 960,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220039",
@@ -4452,40 +2037,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF CHICKEN POUCH 80G",
-          "barcode": "9551016101225",
-          "qty": 384,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
-          "barcode": "9551016101270",
-          "qty": 384,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA & SHIRASU POUCH 80G",
-          "barcode": "9551016101232",
-          "qty": 480,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA POUCH 80G",
-          "barcode": "9551016101249",
-          "qty": 672,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220040",
@@ -4536,56 +2088,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220041",
@@ -4636,56 +2139,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 480,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
-          "barcode": "9551016102529",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
-          "barcode": "9551016102536",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
-          "barcode": "9551016102833",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220042",
@@ -4726,48 +2180,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 384,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT SALMON POUCH 70G",
-          "barcode": "9551016102499",
-          "qty": 576,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016102550",
-          "qty": 480,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220043",
@@ -4818,88 +2231,7 @@
       "paidFactory": 0,
       "unpaidFactory": 196049.6,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
-          "barcode": "9551016105353",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G TUNA WITH CRANBERRY GRAVY",
-          "barcode": "9551016105360",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN WITH SALMON GRAVY",
-          "barcode": "9551016105384",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE  400G",
-          "barcode": "9551016100969",
-          "qty": 351,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
-          "barcode": "9551016100891",
-          "qty": 351,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
-          "barcode": "9551016100952",
-          "qty": 351,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA 400G",
-          "barcode": "9551016100914",
-          "qty": 234,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
-          "barcode": "9551016102963",
-          "qty": 234,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
-          "barcode": "9551016101423",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
-          "barcode": "9551016101454",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220044",
@@ -4940,72 +2272,7 @@
       "paidFactory": 0,
       "unpaidFactory": 145497.6,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 480,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
-          "barcode": "9551016102529",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
-          "barcode": "9551016102536",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
-          "barcode": "9551016102833",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN",
-          "barcode": "9551016104431",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN EGG YOLK",
-          "barcode": "9551016104462",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220045",
@@ -5046,56 +2313,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102093",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016102109",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SCALLOP CAT CANNED FOOD 400G",
-          "barcode": "9551016102116",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
-          "barcode": "9551016102130",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SALMON CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102147",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016102154",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220046",
@@ -5136,48 +2354,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
-          "barcode": "9551016101768",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016101775",
-          "qty": 660,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101782",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101799",
-          "qty": 660,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016102086",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220047",
@@ -5218,40 +2395,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016101737",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016101744",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
-          "barcode": "9551016101751",
-          "qty": 550,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220048",
@@ -5292,136 +2436,7 @@
       "paidFactory": 0,
       "unpaidFactory": 341880,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
-          "barcode": "9551016101645",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH GOAT MILK CAT CANNED FOOD 80G",
-          "barcode": "9551016101652",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN SALMON CAT CANNED FOOD 80G",
-          "barcode": "9551016101676",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN FRESH TUNA CAT CANNED FOOD 80G",
-          "barcode": "9551016101683",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN TUNA SALMON CAT CANNED FOOD 80G",
-          "barcode": "9551016101713",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SILVER FISH CAT CANNED FOOD 80G",
-          "barcode": "9551016102048",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SEAFOOD PLATTER CAT CANNED FOOD 80G",
-          "barcode": "9551016102055",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 80G",
-          "barcode": "9551016102062",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G CHICKEN WITH TUNA GRAVY",
-          "barcode": "9551016105438",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G TUNA WITH SALMON GRAVY",
-          "barcode": "9551016105445",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G CHICKEN WITH PUMPKIN GRAVY",
-          "barcode": "9551016105452",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY DELIGHT 80G TUNA GRAVY",
-          "barcode": "9551016105469",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
-          "barcode": "9551016102130",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105735",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA SOUP BASE CANNED FOOD 400G",
-          "barcode": "9551016105759",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220049",
@@ -5462,160 +2477,7 @@
       "paidFactory": 0,
       "unpaidFactory": 337132.8,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN LAMB POUCH 70G",
-          "barcode": "9551016104080",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
-          "barcode": "9551016104127",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
-          "barcode": "9551016104134",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
-          "barcode": "9551016104172",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN GRAVY 80G",
-          "barcode": "9551016100099",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SALMON GRAVY 80G",
-          "barcode": "9551016100105",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA WHITE MEAT & CHICKEN GRAVY 80G",
-          "barcode": "9551016100167",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA WHITE MEAT GRAVY 80G",
-          "barcode": "9551016100082",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN & PUMPKIN JELLY 80G",
-          "barcode": "9551016100303",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN JELLY 80G",
-          "barcode": "9551016100211",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME SALMON & CHICKEN JELLY 80G",
-          "barcode": "9551016100297",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SALMON JELLY 80G",
-          "barcode": "9551016100228",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA ANCHOVY JELLY 80G",
-          "barcode": "9551016100310",
-          "qty": 480,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220050",
@@ -5666,80 +2528,7 @@
       "paidFactory": 0,
       "unpaidFactory": 166400,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF CREAMY CAT STICK CHICKEN & GOAT MILK (KITTEN) 75G",
-          "barcode": "9551016101478",
-          "qty": 192,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK CHICKEN & MACKEREL 75G",
-          "barcode": "9551016101508",
-          "qty": 128,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK CHICKEN & SALMON 75G",
-          "barcode": "9551016101492",
-          "qty": 192,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK CHICKEN & SCALLOPS 75G",
-          "barcode": "9551016101485",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK CHICKEN 75G",
-          "barcode": "9551016101461",
-          "qty": 192,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA & CHICKEN 75G",
-          "barcode": "9551016101416",
-          "qty": 128,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA & SALMON 75G",
-          "barcode": "9551016101423",
-          "qty": 192,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA & SHRIMP 75G",
-          "barcode": "9551016101447",
-          "qty": 128,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CREAMY CAT STICK TUNA 75G",
-          "barcode": "9551016101454",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220051",
@@ -5790,56 +2579,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF KITTY CHICKEN 400G",
-          "barcode": "9551016100938",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF KITTY SARDINE WITH MACKEREL 400G",
-          "barcode": "9551016100945",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE  400G",
-          "barcode": "9551016100969",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL 400G",
-          "barcode": "9551016100891",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL CHICKEN 400G",
-          "barcode": "9551016100952",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
-          "barcode": "9551016100921",
-          "qty": 110,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220052",
@@ -5882,168 +2622,7 @@
       "paidFactory": 0,
       "unpaidFactory": 520560,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME TUNA WHITE MEAT GRAVY 80G",
-          "barcode": "9551016100082",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA WHITE MEAT & CHICKEN GRAVY 80G",
-          "barcode": "9551016100167",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SALMON GRAVY 80G",
-          "barcode": "9551016100105",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SHRIMP GRAVY 80G",
-          "barcode": "9551016100112",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA ANCHOVY GRAVY 80G",
-          "barcode": "9551016100198",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN GRAVY 80G",
-          "barcode": "9551016100099",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN & PUMPKIN GRAVY 80G",
-          "barcode": "9551016100181",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME SALMON & CHICKEN GRAVY 80G",
-          "barcode": "9551016100174",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN GOAT MILK GRAVY 80G",
-          "barcode": "9551016100",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA WHITE MEAT JELLY 80G",
-          "barcode": "9551016100204",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA WHITE MEAT & CHICKEN JELLY 80G",
-          "barcode": "9551016100280",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA & SALMON JELLY 80G",
-          "barcode": "9551016100228",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN JELLY 80G",
-          "barcode": "9551016100211",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN & PUMPKIN JELLY 80G",
-          "barcode": "9551016100303",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME SALMON & CHICKEN JELLY 80G",
-          "barcode": "9551016100297",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN & TUNA JELLY 80G",
-          "barcode": "95510161001",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME CHICKEN GOAT MILK JELLY 80G",
-          "barcode": "95510161002",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME TUNA GOAT MILK JELLY 80G",
-          "barcode": "95510161003",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G SALMON WITH CRANBERRY PATE",
-          "barcode": "9551016105407",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY PATE",
-          "barcode": "9551016105414",
-          "qty": 450,
-          "unit": "80G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220053",
@@ -6086,112 +2665,7 @@
       "paidFactory": 0,
       "unpaidFactory": 161913.6,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF CHICKEN POUCH 80G",
-          "barcode": "9551016101225",
-          "qty": 192,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & GOAT MILK (KITTEN) POUCH 80G",
-          "barcode": "9551016101171",
-          "qty": 288,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
-          "barcode": "9551016101188",
-          "qty": 96,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF CHICKEN & TUNA POUCH 80G",
-          "barcode": "9551016101195",
-          "qty": 288,
-          "unit": "80G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN LAMB POUCH 70G",
-          "barcode": "9551016104080",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
-          "barcode": "9551016104134",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
-          "barcode": "9551016104172",
-          "qty": 96,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220054",
@@ -6232,88 +2706,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016101720",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SALMON CAT CANNED FOOD 400G",
-          "barcode": "9551016101737",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016101744",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH MACKEREL CAT CANNED FOOD 400G",
-          "barcode": "9551016101775",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH SILVERFISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101782",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CHICKEN WITH OCEAN FISH CAT CANNED FOOD 400G",
-          "barcode": "9551016101799",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
-          "barcode": "9551016102093",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ANCHOVY CAT CANNED FOOD 400G",
-          "barcode": "9551016102123",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA WITH GOAT MILK CAT CANNED FOOD 400G",
-          "barcode": "9551016102130",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA ATLANTIC PURE TUNA CAT CANNED FOOD 400G",
-          "barcode": "9551016102154",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220055",
@@ -6354,80 +2747,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT CHICKEN POUCH 70G",
-          "barcode": "9551016102482",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT SALMON POUCH 70G",
-          "barcode": "9551016102499",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA POUCH 70G",
-          "barcode": "9551016102505",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY KITTEN RECIPE CHICKEN & GOAT MILK POUCH 70G",
-          "barcode": "9551016102529",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT TUNA & SALMON POUCH 70G",
-          "barcode": "9551016102536",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN & SALMON POUCH 70G",
-          "barcode": "9551016102543",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016102550",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
-          "barcode": "9551016102833",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY TUNA & MACKEREL CAT POUCH 70G",
-          "barcode": "9551016102840",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220056",
@@ -6468,96 +2788,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177715.2,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "SNIFFLY CAT STICK TUNA",
-          "barcode": "9551016104288",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT STICK SALMON",
-          "barcode": "9551016104295",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY CAT STICK CHICKEN",
-          "barcode": "9551016104301",
-          "qty": 64,
-          "unit": "75G X 100/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH SALMON",
-          "barcode": "9551016104394",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH SALMON TUNA",
-          "barcode": "9551016104400",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH TUNA GOAT MILK KITTEN",
-          "barcode": "9551016104424",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN",
-          "barcode": "9551016104431",
-          "qty": 288,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN TUNA",
-          "barcode": "9551016104448",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN SALMON",
-          "barcode": "9551016104455",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN EGG YOLK",
-          "barcode": "9551016104462",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "SNIFFLY SUPERIOR CAT POUCH WILD CHICKEN GOAT MILK KITTEN",
-          "barcode": "9551016104479",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220057",
@@ -6600,56 +2831,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
-          "barcode": "9551016100921",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF SARDINE WITH MACKEREL TUNA 400G",
-          "barcode": "9551016100907",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GF TUNA 400G",
-          "barcode": "9551016100914",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA CRAB CANNED FOOD 400G",
-          "barcode": "9551016102956",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA ANCHOVY CANNED FOOD 400G",
-          "barcode": "9551016102963",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
-          "barcode": "9551016102970",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220058",
@@ -6692,56 +2874,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
-          "barcode": "9551016102970",
-          "qty": 220,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE TUNA SALMON CANNED FOOD 400G",
-          "barcode": "9551016102987",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE SALMON CHICKEN CANNED FOOD",
-          "barcode": "9551016105131",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE LAMB CHICKEN CANNED FOOD",
-          "barcode": "9551016105148",
-          "qty": 330,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE BEEF CHICKEN CANNED FOOD",
-          "barcode": "9551016105162",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME GRAIN FREE CHICKEN GOAT MILK CANNED FOOD 400G",
-          "barcode": "9551016105",
-          "qty": 440,
-          "unit": "400G X 24/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260220059",
@@ -6784,88 +2917,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "CATSOME KITCHEN LAMB POUCH 70G",
-          "barcode": "9551016104080",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN SALMON POUCH 70G",
-          "barcode": "9551016104097",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA POUCH 70G",
-          "barcode": "9551016104103",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN POUCH 70G",
-          "barcode": "9551016104110",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA CRAB POUCH 70G",
-          "barcode": "9551016104127",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SILVERFISH POUCH 70G",
-          "barcode": "9551016104134",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN TUNA SALMON POUCH 70G",
-          "barcode": "9551016104141",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN SALMON POUCH 70G",
-          "barcode": "9551016104158",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN TUNA POUCH 70G",
-          "barcode": "9551016104165",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        },
-        {
-          "name": "CATSOME KITCHEN CHICKEN MACKEREL POUCH 70G",
-          "barcode": "9551016104172",
-          "qty": 192,
-          "unit": "70G X 72/CTN",
-          "factory": "福建泰迪宠物食品有限公司",
-          "category": "湿粮零食"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223060",
@@ -6908,16 +2960,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LEMON 7KG",
-          "barcode": "9551017800134",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223061",
@@ -6960,16 +3003,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE COFFEE 7KG",
-          "barcode": "9551017800165",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223062",
@@ -7012,16 +3046,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE COFFEE 7KG",
-          "barcode": "9551017800165",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223063",
@@ -7064,16 +3089,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LEMON 7KG",
-          "barcode": "9551017800134",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223064",
@@ -7116,16 +3132,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LAVENDER 7KG",
-          "barcode": "9551017800141",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223065",
@@ -7168,16 +3175,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LAVENDER 7KG",
-          "barcode": "9551017800141",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223066",
@@ -7220,16 +3218,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LAVENDER 7KG",
-          "barcode": "9551017800141",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223067",
@@ -7272,16 +3261,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE APPLE 7KG",
-          "barcode": "9551017800158",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223068",
@@ -7324,16 +3304,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE APPLE 7KG",
-          "barcode": "9551017800158",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223069",
@@ -7376,16 +3347,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE LEMON 7KG",
-          "barcode": "9551017800134",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223070",
@@ -7428,24 +3390,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21595.77,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "DACO BENTONITE COFFEE 7KG",
-          "barcode": "04711987888872",
-          "qty": 1048,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        },
-        {
-          "name": "DACO BENTONITE LAVENDER 7KG",
-          "barcode": "04711987888873",
-          "qty": 191,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223071",
@@ -7488,16 +3433,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE Mulit LEMON 7KG",
-          "barcode": "9551017800172",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223072",
@@ -7540,16 +3476,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE Mulit LAVENDER 7KG",
-          "barcode": "9551017800189",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223073",
@@ -7592,16 +3519,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE Mulit APPLE 7KG",
-          "barcode": "9551017800196",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260223074",
@@ -7644,16 +3562,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ENRICH BENTONITE Mulit Babypower 7KG",
-          "barcode": "9551017800202",
-          "qty": 1238,
-          "unit": "7KG/BAG X 3/INNERBAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260310005",
@@ -7697,64 +3606,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77464.8,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "ECO TOFU CAT LITTER STRAWBERRY 2.2KG",
-          "barcode": "9551017800264",
-          "qty": 280,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER COFFE 2.2KG",
-          "barcode": "9551017800233",
-          "qty": 280,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER GREEN TEA 2.2KG",
-          "barcode": "9551017800271",
-          "qty": 280,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER ORIGINAL 2.2KG",
-          "barcode": "9551017800240",
-          "qty": 140,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER LAVENDER 2.2KG",
-          "barcode": "9551017800226",
-          "qty": 140,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "ECO TOFU CAT LITTER CHARCOAL 2.2KG",
-          "barcode": "9551017800257",
-          "qty": 140,
-          "unit": "2.2KG*8/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        },
-        {
-          "name": "宠力美豆腐猫砂",
-          "barcode": "clm",
-          "qty": 140,
-          "unit": "2.5KG*6/CTN",
-          "factory": "连云港中砂宠物用品有限公司",
-          "category": "猫砂"
-        }
-      ]
+      "productionStatus": ""
     },
     {
       "contractNo": "FS20260313006",
@@ -7796,24 +3648,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "products": [
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
-          "barcode": "9551014016620",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        },
-        {
-          "name": "PROPAW BENTONITE CAT LITTER  COFFEE 6KG",
-          "barcode": "9551014016637",
-          "qty": 709,
-          "unit": "6KG/BAG",
-          "factory": "辽宁宠爱科技有限公司",
-          "category": "膨润土猫砂"
-        }
-      ]
+      "productionStatus": ""
     }
   ]
 }
