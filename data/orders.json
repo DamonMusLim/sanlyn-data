@@ -48,7 +48,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20251225056",
@@ -89,7 +89,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20251229059",
@@ -138,7 +138,7 @@
       "paidFactory": 0,
       "unpaidFactory": 185168,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20251229060",
@@ -187,7 +187,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20251230062",
@@ -236,7 +236,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20251231065",
@@ -285,7 +285,7 @@
       "paidFactory": 184800,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260105001",
@@ -334,7 +334,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77420,
       "tradeTerms": "EXW",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260119016",
@@ -373,7 +373,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260122017",
@@ -412,7 +412,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260123018",
@@ -465,7 +465,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260123020",
@@ -504,7 +504,7 @@
       "paidFactory": 48502,
       "unpaidFactory": -1702,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260126025",
@@ -557,7 +557,7 @@
       "paidFactory": 0,
       "unpaidFactory": 48060,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260203005",
@@ -610,7 +610,7 @@
       "paidFactory": 82882.8,
       "unpaidFactory": -82882.8,
       "tradeTerms": "EXW",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260204007",
@@ -663,7 +663,7 @@
       "paidFactory": 0,
       "unpaidFactory": 81702,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260205011",
@@ -716,7 +716,7 @@
       "paidFactory": 0,
       "unpaidFactory": 41373.072,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260205012",
@@ -771,7 +771,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260205013",
@@ -826,7 +826,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260205014",
@@ -881,7 +881,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260205015",
@@ -936,7 +936,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206016",
@@ -991,7 +991,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206017",
@@ -1046,7 +1046,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206018",
@@ -1101,7 +1101,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206019",
@@ -1156,7 +1156,7 @@
       "paidFactory": 0,
       "unpaidFactory": 246816,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206020",
@@ -1211,7 +1211,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206021",
@@ -1266,7 +1266,7 @@
       "paidFactory": 0,
       "unpaidFactory": 137884.8,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206022",
@@ -1321,7 +1321,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177672,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206023",
@@ -1376,7 +1376,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260206024",
@@ -1431,7 +1431,7 @@
       "paidFactory": 0,
       "unpaidFactory": 225072,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260209026",
@@ -1496,7 +1496,7 @@
       "paidFactory": 0,
       "unpaidFactory": 292864,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260210027",
@@ -1537,7 +1537,7 @@
       "paidFactory": 0,
       "unpaidFactory": 205593.6,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260210028",
@@ -1579,7 +1579,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260218030",
@@ -1629,7 +1629,7 @@
       "paidFactory": 0,
       "unpaidFactory": 613313.24,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260219031",
@@ -1680,7 +1680,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260219032",
@@ -1731,7 +1731,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260219033",
@@ -1782,7 +1782,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260220035",
@@ -1833,7 +1833,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220036",
@@ -1884,7 +1884,7 @@
       "paidFactory": 0,
       "unpaidFactory": 219648,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220037",
@@ -1935,7 +1935,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220038",
@@ -1986,7 +1986,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220039",
@@ -2037,7 +2037,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220040",
@@ -2088,7 +2088,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220041",
@@ -2139,7 +2139,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220042",
@@ -2180,7 +2180,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220043",
@@ -2231,7 +2231,7 @@
       "paidFactory": 0,
       "unpaidFactory": 196049.6,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220044",
@@ -2272,7 +2272,7 @@
       "paidFactory": 0,
       "unpaidFactory": 145497.6,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220045",
@@ -2313,7 +2313,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220046",
@@ -2354,7 +2354,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220047",
@@ -2395,7 +2395,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220048",
@@ -2436,7 +2436,7 @@
       "paidFactory": 0,
       "unpaidFactory": 341880,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220049",
@@ -2477,7 +2477,7 @@
       "paidFactory": 0,
       "unpaidFactory": 337132.8,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220050",
@@ -2528,7 +2528,7 @@
       "paidFactory": 0,
       "unpaidFactory": 166400,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220051",
@@ -2579,7 +2579,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220052",
@@ -2622,7 +2622,7 @@
       "paidFactory": 0,
       "unpaidFactory": 520560,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220053",
@@ -2665,7 +2665,7 @@
       "paidFactory": 0,
       "unpaidFactory": 161913.6,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220054",
@@ -2706,7 +2706,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220055",
@@ -2747,7 +2747,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220056",
@@ -2788,7 +2788,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177715.2,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220057",
@@ -2831,7 +2831,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220058",
@@ -2874,7 +2874,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260220059",
@@ -2917,7 +2917,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223060",
@@ -2960,7 +2960,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223061",
@@ -3003,7 +3003,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223062",
@@ -3046,7 +3046,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223063",
@@ -3089,7 +3089,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223064",
@@ -3132,7 +3132,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223065",
@@ -3175,7 +3175,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223066",
@@ -3218,7 +3218,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223067",
@@ -3261,7 +3261,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223068",
@@ -3304,7 +3304,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223069",
@@ -3347,7 +3347,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223070",
@@ -3390,7 +3390,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21595.77,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223071",
@@ -3433,7 +3433,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223072",
@@ -3476,7 +3476,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223073",
@@ -3519,7 +3519,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260223074",
@@ -3562,7 +3562,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "已完成"
     },
     {
       "contractNo": "FS20260310005",
@@ -3606,7 +3606,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77464.8,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     },
     {
       "contractNo": "FS20260313006",
@@ -3648,7 +3648,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
-      "productionStatus": ""
+      "productionStatus": "生产中"
     }
   ]
 }
