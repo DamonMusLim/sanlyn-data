@@ -1,42 +1,43 @@
-- sanlyn-data: transform script done, 75 orders / 9 customers
-- portal_orders.json generated (PETSOME 27, PETSOME EU 19, ENRICH 17...)
-- Next: CustomerLogistics.jsx fetch portal_orders.json from GitHub
-- Portal now reads portal_orders.json from GitHub raw URL
-- 75 orders / 9 customers live
+## 2026-03-14 — Session 31 · TT水单全链路打通
 
-- - L4 driver-submit n8n workflow: Webhook Ã¢ÂÂ Build Payload Ã¢ÂÂ Update JDY Driver Info Ã¢ÂÂ Respond to Webhook
-  - - driver-submit POST /driver-submit, body: { entry_id, driver_name, driver_phone, plate_no }
-    - - JDY customs entry update: _widget_1766737976886 (driver_name), _widget_1766737976887 (driver_phone), _widget_1766737976888 (plate_no)
-      - - app_id: 689cb08a93c073210bfc772b, entry_id: 69a08efb981bbbf58c024599 (customs table)
-        - - Published 2026-02-28
+### Completed
+- TTSlipModal.jsx 新增付款日期字段（type=date，默认今天，colorScheme dark）
+- OSS 上传通（sanlyn-api.vercel.app/api/oss-upload）→ tt-slips/{companyCode}/{contract}_{ts}.{ext}
+- n8n webhook 打通（path: tt-slip-upload，Webhook → 企业微信通知）
+  - 企业微信通知：errcode:0 errmsg:ok
+- JDY 收付款直写（前端 fetch 直调 JDY v5 API）
+  - app_id: 689cb08a93c073210bfc772b / entry_id: 694a4c10c530d677dc4ca0ef
+  - 字段：收款类型/合同号/公司名/金额/付款日期/收付款公司
+  - 付款日期 widget: _widget_1773494537707（格式: YYYY-MM-DD 00:00:00）
+  - n8n JDY写入节点因 Expression 渲染 bug 无法可靠使用，改为前端直调绕过
+- CustomerFinance.jsx 上传成功后卡片状态更新（slipUrl state + 绿色提示 + 按钮切换）
+- Build + Deploy: commit 2d907c8 → ai.sanlynos.com
 
+### Tech notes
+- n8n webhook path 须手动改为 tt-slip-upload 并重新 Publish，UUID path 不会生效
+- sed 注入反引号会被 shell 解释导致 Vite 崩溃，用字符串拼接替代
+- JDY list API 默认升序，今天写入的记录在最后，filter 需按 createTime 降序
 
+### Session 32 Next
+- L3A 地图：4portun 船舶位置接入（AppId: SHYBB）
+  - 修复 sanlyn-api Vercel 代理支持 POST（vessel-track）
+  - 用真实在海 BL 号测试 API
+  - Leaflet 地图组件显示船位 + 航向
+- 前置：Damon 提供真实在海 BL 号
+
+---
 
 ## 2026-02-28 — n8n GitHub Sync fix + Data Compression
 
 ### Completed
-- Fixed `写入GitHub` code node (old token expired, syntax errors, read-only property bug)
-- Rewrote as self-contained node: fetches JDY API + writes GitHub directly, no upstream dependency
-- Data compression achieved:
-  - orders.json: 1,224 KB → 33.5 KB (97% reduction), 75 orders, 16 Portal fields only
-  - customs.json: 237 KB → 1.28 KB (99.5% reduction), 11 records
-  - shipping.json: 143 KB → 68 KB (52% reduction), 16 records
-- Execution time: 25.193s, all 3 tables synced successfully
-- Hourly auto-sync now working (每小时定时 trigger)
+- Fixed 写入GitHub code node (old token expired, syntax errors, read-only property bug)
+- Rewrote as self-contained node: fetches JDY API + writes GitHub directly
+- Data compression: orders.json 1,224KB→33.5KB (97%), customs.json 237KB→1.28KB, shipping.json 143KB→68KB
+- Hourly auto-sync now working
 
-### Tech notes
-- Code node: 90 lines, transformOrders / transformCustoms / transformShipping
-- Fix method: clipboard paste to avoid typing errors in CodeMirror
-- GitHub raw sync URL: https://raw.githubusercontent.com/DamonMusLim/sanlyn-data/main/data/orders.json
+## 2026-02-28 — L7 Multi-tenant Auth System Live
 
-## 2026-02-28 — L7 Multi-tenant Auth System Live (Portal)
-
-### Completed (parallel track)
+### Completed
 - Multi-tenant login system live (tenantId-based auth)
-- First-login force password change modal: petsome / admin tested OK
-- App.jsx two syntax errors fixed, Vercel build restored
+- First-login force password change modal tested OK
 - ai.sanlynos.com accessible
-
-### Next up
-- [ ] L2: App.jsx filter orders by tenantId from JDY real data (use compressed orders.json)
-- [ ] n8n: /update-credentials endpoint to persist new password after first-login change
