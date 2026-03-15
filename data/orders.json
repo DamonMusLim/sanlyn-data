@@ -48,6 +48,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
@@ -113,7 +114,7 @@
       "containerType": "40hq",
       "totalBoxes": 1600,
       "grossWeight": null,
-      "category": "豆腐猫砂",
+      "category": "Tofu Cat Litter",
       "brands": [
         "NATURAL WORLD"
       ],
@@ -138,6 +139,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "NATURAL WORLD TOFU CAT LITTER ORIGINAL 2.5KG",
@@ -195,7 +197,7 @@
       "containerType": "40hq",
       "totalBoxes": 2908,
       "grossWeight": 84.3,
-      "category": "湿粮",
+      "category": "Wet Food",
       "brands": [
         "CATSOME",
         "ECO",
@@ -228,6 +230,7 @@
       "paidFactory": 0,
       "unpaidFactory": 185168,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
@@ -325,7 +328,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 36.48,
-      "category": "湿粮",
+      "category": "Wet Food",
       "brands": [
         "CATSOME",
         "ECO",
@@ -358,6 +361,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY TUNA & CHICKEN CAT POUCH 70G",
@@ -431,7 +435,7 @@
       "containerType": "40hq",
       "totalBoxes": 1600,
       "grossWeight": 25300,
-      "category": "豆腐猫砂",
+      "category": "Tofu Cat Litter",
       "brands": [
         "CATSOME",
         "ECO",
@@ -464,6 +468,7 @@
       "paidFactory": 0,
       "unpaidFactory": 96000,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME TOFU CAT LITTER MILK 2.5KG",
@@ -529,7 +534,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "ECO",
@@ -562,6 +567,7 @@
       "paidFactory": 184800,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -603,7 +609,7 @@
       "containerType": "40hq",
       "totalBoxes": 1400,
       "grossWeight": 111,
-      "category": "豆腐猫砂",
+      "category": "Tofu Cat Litter",
       "brands": [
         "CATSOME",
         "ECO",
@@ -636,6 +642,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77420,
       "tradeTerms": "EXW",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ECO TOFU CAT LITTER CHARCOAL 2.2KG",
@@ -701,7 +708,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 11673.6,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [],
       "etd": "",
       "eta": "",
@@ -724,6 +731,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -781,7 +789,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 13440,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [],
       "etd": "",
       "eta": "",
@@ -804,6 +812,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME GF CHICKEN & SALMON POUCH 80G",
@@ -885,7 +894,7 @@
       "containerType": "20gp",
       "totalBoxes": 1418,
       "grossWeight": 26100,
-      "category": "猫砂",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -922,6 +931,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
@@ -955,7 +965,7 @@
       "containerType": "20gp",
       "totalBoxes": 100,
       "grossWeight": null,
-      "category": "bag",
+      "category": "Bags",
       "brands": [],
       "etd": "",
       "eta": "",
@@ -978,6 +988,7 @@
       "paidFactory": 48502,
       "unpaidFactory": -1702,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "bag",
@@ -1003,7 +1014,7 @@
       "containerType": "20gp",
       "totalBoxes": 720,
       "grossWeight": 11385,
-      "category": "猫砂",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1040,6 +1051,7 @@
       "paidFactory": 0,
       "unpaidFactory": 48060,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Sinature7 TOFU CAT LITTER STRAWBERRY 2.5KG",
@@ -1081,7 +1093,7 @@
       "containerType": "40hq",
       "totalBoxes": 5493,
       "grossWeight": 76190.65,
-      "category": "宠物出行",
+      "category": "Pet Travel",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1118,6 +1130,7 @@
       "paidFactory": 82882.8,
       "unpaidFactory": -82882.8,
       "tradeTerms": "EXW",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "No.1 Standard Pet Airline Carrier",
@@ -1263,7 +1276,7 @@
       "containerType": "40hq",
       "totalBoxes": 1224,
       "grossWeight": 19354.5,
-      "category": "猫砂",
+      "category": "Cat Litter",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1300,6 +1313,7 @@
       "paidFactory": 0,
       "unpaidFactory": 81702,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "Sinature7 TOFU CAT LITTER Green tea 2.5KG",
@@ -1386,6 +1400,7 @@
       "paidFactory": 0,
       "unpaidFactory": 41373.072,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
@@ -1466,6 +1481,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  LAVENDER 1.3KG",
@@ -1530,6 +1546,7 @@
       "paidFactory": 0,
       "unpaidFactory": 13791.024,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "PET'S ACADEMY BENTONITE CAT LITTER  COFFEE 1.3KG",
@@ -1594,6 +1611,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "",
@@ -1658,6 +1676,7 @@
       "paidFactory": 0,
       "unpaidFactory": 0,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Cat Litter Box",
@@ -1755,7 +1774,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1794,6 +1813,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -1835,7 +1855,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1874,6 +1894,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CHICKEN WITH SARDINE CAT CANNED FOOD 400G",
@@ -1947,7 +1968,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -1986,6 +2007,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY TUNA SALMON CAT CANNED FOOD 400G",
@@ -2051,7 +2073,7 @@
       "containerType": "40hq",
       "totalBoxes": 4920,
       "grossWeight": 25080,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2090,6 +2112,7 @@
       "paidFactory": 0,
       "unpaidFactory": 246816,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
@@ -2203,7 +2226,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2242,6 +2265,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -2387,7 +2411,7 @@
       "containerType": "40hq",
       "totalBoxes": 2306,
       "grossWeight": 23063,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2426,6 +2450,7 @@
       "paidFactory": 0,
       "unpaidFactory": 137884.8,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME KITCHEN VSR CHICKEN PUMPKIN CANNED FOOD 400G",
@@ -2571,7 +2596,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2610,6 +2635,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177672,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME GF KITTY SARDINE WITH MACKEREL 400G",
@@ -2739,7 +2765,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 13440,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2778,6 +2804,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME GF TUNA & CHICKEN POUCH 80G",
@@ -2827,7 +2854,7 @@
       "containerType": "40hq",
       "totalBoxes": 3900,
       "grossWeight": 25275,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "AMD",
         "爱舒乐",
@@ -2866,6 +2893,7 @@
       "paidFactory": 0,
       "unpaidFactory": 225072,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME SALMON & CHICKEN GRAVY 80G",
@@ -2987,7 +3015,7 @@
       "containerType": "40hq",
       "totalBoxes": 3520,
       "grossWeight": 18304,
-      "category": "犬零食",
+      "category": "Dog Treats",
       "brands": [
         "福贝",
         "SINATURE 7",
@@ -3036,6 +3064,7 @@
       "paidFactory": 0,
       "unpaidFactory": 292864,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "DOGSOME TRAY DUCK+ORANGE",
@@ -3125,7 +3154,7 @@
       "containerType": "40hq",
       "totalBoxes": 2736,
       "grossWeight": 23803.2,
-      "category": "犬零食",
+      "category": "Dog Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -3150,6 +3179,7 @@
       "paidFactory": 0,
       "unpaidFactory": 205593.6,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY GF DOG CAN TURKEY CANNED FOOD",
@@ -3247,7 +3277,7 @@
       "containerType": "20gp",
       "totalBoxes": 1418,
       "grossWeight": 8536.36,
-      "category": "猫砂",
+      "category": "Cat Litter",
       "brands": [
         "PET'S ACADEMY",
         "PROPAW"
@@ -3273,6 +3303,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
@@ -3306,7 +3337,7 @@
       "containerType": "40hq",
       "totalBoxes": 1736,
       "grossWeight": 17426.9,
-      "category": "犬用",
+      "category": "Dog Supplies",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3340,6 +3371,7 @@
       "paidFactory": 0,
       "unpaidFactory": 613313.24,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "WANPY CHICKEN JERKY 100G",
@@ -3757,7 +3789,7 @@
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26160,
-      "category": "其他宠物用品",
+      "category": "Pet Supplies",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3792,6 +3824,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -3849,7 +3882,7 @@
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26160,
-      "category": "湿粮/罐头",
+      "category": "Wet Food / Cans",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3884,6 +3917,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -3941,7 +3975,7 @@
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26160,
-      "category": "湿粮/罐头",
+      "category": "Wet Food / Cans",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -3976,6 +4010,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -4033,7 +4068,7 @@
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26164.8,
-      "category": "猫用",
+      "category": "Cat Supplies",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4068,6 +4103,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "WANPY MEAT LOAF VENISON CANNEDFOOD FOR DOG",
@@ -4125,7 +4161,7 @@
       "containerType": "40hq",
       "totalBoxes": 2640,
       "grossWeight": 13728,
-      "category": "湿粮/餐盒",
+      "category": "Wet Food / Trays",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4160,6 +4196,7 @@
       "paidFactory": 0,
       "unpaidFactory": 219648,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "DOGSOME TRAY CHICKEN",
@@ -4241,7 +4278,7 @@
       "containerType": "40hq",
       "totalBoxes": 2400,
       "grossWeight": 26160,
-      "category": "湿粮/罐头",
+      "category": "Wet Food / Cans",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4276,6 +4313,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "Dogsome duck 375g",
@@ -4333,7 +4371,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 14304,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4368,6 +4406,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF CHICKEN & GOAT MILK (KITTEN) POUCH 80G",
@@ -4417,7 +4456,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 13440,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4452,6 +4491,7 @@
       "paidFactory": 0,
       "unpaidFactory": 186624,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF CHICKEN POUCH 80G",
@@ -4501,7 +4541,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 13440,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4536,6 +4576,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME KITCHEN SALMON POUCH 70G",
@@ -4601,7 +4642,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 11673.6,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4636,6 +4677,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -4701,7 +4743,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 11673.6,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -4726,6 +4768,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -4783,7 +4826,7 @@
       "containerType": "40hq",
       "totalBoxes": 3089,
       "grossWeight": 22701.1,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -4818,6 +4861,7 @@
       "paidFactory": 0,
       "unpaidFactory": 196049.6,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME KITCHEN 80G CHICKEN WITH CRANBERRY GRAVY",
@@ -4915,7 +4959,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 11673.6,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -4940,6 +4984,7 @@
       "paidFactory": 0,
       "unpaidFactory": 145497.6,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -5021,7 +5066,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -5046,6 +5091,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY TUNA CHICKEN CAT CANNED FOOD 400G",
@@ -5111,7 +5157,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -5136,6 +5182,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CHICKEN WITH SHRIMP CAT CANNED FOOD 400G",
@@ -5193,7 +5240,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -5218,6 +5265,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -5267,7 +5315,7 @@
       "containerType": "40hq",
       "totalBoxes": 6280,
       "grossWeight": 24880,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -5292,6 +5340,7 @@
       "paidFactory": 0,
       "unpaidFactory": 341880,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 80G",
@@ -5437,7 +5486,7 @@
       "containerType": "40hq",
       "totalBoxes": 5376,
       "grossWeight": 19488,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -5462,6 +5511,7 @@
       "paidFactory": 0,
       "unpaidFactory": 337132.8,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
@@ -5631,7 +5681,7 @@
       "containerType": "40hq",
       "totalBoxes": 1280,
       "grossWeight": 11776,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -5666,6 +5716,7 @@
       "paidFactory": 0,
       "unpaidFactory": 166400,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF CREAMY CAT STICK CHICKEN & GOAT MILK (KITTEN) 75G",
@@ -5755,7 +5806,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "JERKYTIME",
@@ -5790,6 +5841,7 @@
       "paidFactory": 0,
       "unpaidFactory": 164736,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF KITTY CHICKEN 400G",
@@ -5855,7 +5907,7 @@
       "containerType": "40hq",
       "totalBoxes": 9000,
       "grossWeight": 25200,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -5882,6 +5934,7 @@
       "paidFactory": 0,
       "unpaidFactory": 520560,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME TUNA WHITE MEAT GRAVY 80G",
@@ -6059,7 +6112,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 14736,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -6086,6 +6139,7 @@
       "paidFactory": 0,
       "unpaidFactory": 161913.6,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF CHICKEN POUCH 80G",
@@ -6207,7 +6261,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -6232,6 +6286,7 @@
       "paidFactory": 0,
       "unpaidFactory": 184800,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CHICKEN CAT CANNED FOOD 400G",
@@ -6329,7 +6384,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 11673.6,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -6354,6 +6409,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CAT CHICKEN POUCH 70G",
@@ -6443,7 +6499,7 @@
       "containerType": "40hq",
       "totalBoxes": 1824,
       "grossWeight": 11688.96,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "SNIFFLY"
       ],
@@ -6468,6 +6524,7 @@
       "paidFactory": 0,
       "unpaidFactory": 177715.2,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "SNIFFLY CAT STICK TUNA",
@@ -6573,7 +6630,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -6600,6 +6657,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GF SARDINE WITH MACKEREL SALMON 400G",
@@ -6665,7 +6723,7 @@
       "containerType": "40hq",
       "totalBoxes": 2200,
       "grossWeight": 25300,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -6692,6 +6750,7 @@
       "paidFactory": 0,
       "unpaidFactory": 179520,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "CATSOME GRAIN FREE TUNA CHICKEN CANNED FOOD 400G",
@@ -6757,7 +6816,7 @@
       "containerType": "40hq",
       "totalBoxes": 1920,
       "grossWeight": 13440,
-      "category": "湿粮零食",
+      "category": "Wet Food & Treats",
       "brands": [
         "CATSOME",
         "WANPY",
@@ -6784,6 +6843,7 @@
       "paidFactory": 0,
       "unpaidFactory": 141696,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "CATSOME KITCHEN LAMB POUCH 70G",
@@ -6881,7 +6941,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -6908,6 +6968,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -6933,7 +6994,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -6960,6 +7021,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE COFFEE 7KG",
@@ -6985,7 +7047,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7012,6 +7074,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE COFFEE 7KG",
@@ -7037,7 +7100,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7064,6 +7127,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -7089,7 +7153,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7116,6 +7180,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -7141,7 +7206,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7168,6 +7233,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -7193,7 +7259,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7220,6 +7286,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LAVENDER 7KG",
@@ -7245,7 +7312,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7272,6 +7339,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE APPLE 7KG",
@@ -7297,7 +7365,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7324,6 +7392,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE APPLE 7KG",
@@ -7349,7 +7418,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7376,6 +7445,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21578.34,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE LEMON 7KG",
@@ -7401,7 +7471,7 @@
       "containerType": "20gp",
       "totalBoxes": 1239,
       "grossWeight": 26266.8,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7428,6 +7498,7 @@
       "paidFactory": 0,
       "unpaidFactory": 21595.77,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "DACO BENTONITE COFFEE 7KG",
@@ -7461,7 +7532,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7488,6 +7559,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit LEMON 7KG",
@@ -7513,7 +7585,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7540,6 +7612,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit LAVENDER 7KG",
@@ -7565,7 +7638,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7592,6 +7665,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit APPLE 7KG",
@@ -7617,7 +7691,7 @@
       "containerType": "20gp",
       "totalBoxes": 1238,
       "grossWeight": 26245.6,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7644,6 +7718,7 @@
       "paidFactory": 0,
       "unpaidFactory": 32497.5,
       "tradeTerms": "FOB",
+      "productionStatus": "已完成",
       "products": [
         {
           "name": "ENRICH BENTONITE Mulit Babypower 7KG",
@@ -7669,7 +7744,7 @@
       "containerType": "40hq",
       "totalBoxes": 1400,
       "grossWeight": 25550,
-      "category": "猫砂",
+      "category": "Cat Litter",
       "brands": [
         "ECO",
         "ENRICH",
@@ -7697,6 +7772,7 @@
       "paidFactory": 0,
       "unpaidFactory": 77464.8,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "ECO TOFU CAT LITTER STRAWBERRY 2.2KG",
@@ -7770,7 +7846,7 @@
       "containerType": "20gp",
       "totalBoxes": 1418,
       "grossWeight": 26233,
-      "category": "膨润土猫砂",
+      "category": "Bentonite Litter",
       "brands": [
         "PET'S ACADEMY",
         "PROPAW"
@@ -7796,6 +7872,7 @@
       "paidFactory": 0,
       "unpaidFactory": 22461.12,
       "tradeTerms": "FOB",
+      "productionStatus": "生产中",
       "products": [
         {
           "name": "PROPAW BENTONITE CAT LITTER  LEMON 6KG",
