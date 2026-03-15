@@ -586,5 +586,25 @@
     "thisOceanPayAmount": 0,
     "createTime": "2026-02-24T09:45:10.384Z",
     "updateTime": "2026-02-24T09:45:10.384Z"
+  },
+  {
+    "_id": "696e13afc2613c5f20494741",
+    "contractNo": "XM 241",
+    "orderNo": "FS20251231065",
+    "companyNameEN": "PETSOME (EU) SDN BHD",
+    "companyNameCN": "",
+    "totalAmountCustomer": 184800,
+    "shipperCompany": "厦门巴匕进出口有限公司",
+    "receivedAmount": 0,
+    "pendingReceiveAmount": 184800,
+    "paidAmount": 184800,
+    "pendingPayAmount": 0,
+    "thisReceiveAmount": 184800,
+    "thisPayAmount": 0,
+    "paymentDate": null,
+    "paymentType": "",
+    "receiveOrPay": "",
+    "receiveCompany": "",
+    "updatedAt": "2026-02-24"
   }
 ]
