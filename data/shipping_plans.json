@@ -426,7 +426,10 @@
     "updatedAt": "2026-03-15",
     "submittedAt": "2026-03-13",
     "factoryName": "烟台中宠股份有限公司",
-    "tradeTerms": ""
+    "tradeTerms": "",
+    "currentStatus": "DSCH",
+    "currentStatusCn": "卸货",
+    "trackingUpdatedAt": "2026-03-15"
   },
   {
     "_id": "69b5a89f2ae41eb4f2865be8",
@@ -459,6 +462,9 @@
     "updatedAt": "2026-03-15",
     "submittedAt": "2026-03-14",
     "factoryName": "烟台中宠食品股份有限公司",
-    "tradeTerms": ""
+    "tradeTerms": "",
+    "currentStatus": "TRAN",
+    "currentStatusCn": "在途",
+    "trackingUpdatedAt": "2026-03-15"
   }
 ]
