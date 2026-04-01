@@ -1281,7 +1281,7 @@
     ],
     "currency": "CNY",
     "paymentTerm": "",
-    "blPrefer": "",
+    "blPrefer": "SWB",
     "country": "",
     "roleType": "Buyer（客户）",
     "portalRole": "customer",
@@ -1331,7 +1331,7 @@
     "companyCode": "CN-00036",
     "groupId": "CN-00036",
     "brands": [
-      "SINATURE 7"
+      "Signature7"
     ],
     "currency": "USD",
     "paymentTerm": "",
@@ -3258,58 +3258,6 @@
       },
       "bankUSD": {
         "beneficiary": "山东威邦和供应链有限公司烟台分公司",
-        "bankNameCN": "",
-        "bankNameEN": "",
-        "account": "",
-        "swift": "",
-        "iban": "",
-        "bankAddress": ""
-      }
-    },
-    "addresses": []
-  },
-  {
-    "code": "",
-    "name": "威海市永泰货物运输有限公司",
-    "nameCN": "威海市永泰货物运输有限公司",
-    "nameEN": "",
-    "shortCode": "",
-    "companyCode": "CN-00063",
-    "groupId": "CN-00063",
-    "brands": [],
-    "currency": "",
-    "paymentTerm": "",
-    "blPrefer": "",
-    "country": "",
-    "roleType": "Seller（销售公司）",
-    "portalRole": "seller",
-    "supType": "truck",
-    "supTypes": [
-      "Trucking (拖车/车队)"
-    ],
-    "pricingTier": "",
-    "featureFlags": {},
-    "markup": {
-      "mode": "",
-      "value": 0,
-      "currency": "USD"
-    },
-    "invoice": {
-      "nameCN": "威海市永泰货物运输有限公司",
-      "nameEN": "",
-      "taxNo": "91371002744516632R",
-      "addressCN": "",
-      "addressEN": "",
-      "phone": "",
-      "bankCNY": {
-        "beneficiary": "威海市永泰货物运输有限公司",
-        "bankNameCN": "中信银行威海市环翠支行",
-        "bankNameEN": "",
-        "account": "7373410182600067949",
-        "swift": ""
-      },
-      "bankUSD": {
-        "beneficiary": "威海市永泰货物运输有限公司",
         "bankNameCN": "",
         "bankNameEN": "",
         "account": "",
