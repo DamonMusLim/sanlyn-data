@@ -39,7 +39,7 @@
     {
       "companyCode": "PETSOME_SDN_BHD",
       "displayName": "PETSOME SDN BHD",
-      "contactEmail": "",
+      "contactEmail": "CN-00037",
       "pricingTier": "standard",
       "creditDays": 30,
       "features": {
@@ -97,5 +97,5 @@
       }
     }
   ],
-  "updatedAt": "2026-03-14T16:00:20.873Z"
+  "updatedAt": "2026-04-01T16:00:11.443Z"
 } }}
