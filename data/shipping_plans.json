@@ -393,7 +393,11 @@
     "updatedAt": "2026-03-15",
     "submittedAt": "2026-03-11",
     "factoryName": "连云港中砂宠物用品有限公司",
-    "tradeTerms": ""
+    "tradeTerms": "",
+    "atd": "2026-01-11 14:32:00",
+    "currentStatus": "RCVE",
+    "currentStatusCn": "还空",
+    "trackingUpdatedAt": "2026-04-01T00:01:01.868Z"
   },
   {
     "_id": "69b3b071b50b3cf192cf9c12",
@@ -415,7 +419,7 @@
     "etd": "2026-03-02",
     "blNo": "KMTCTAO8367643",
     "containerNo": "KMTU9346796",
-    "vessel": "KMTC",
+    "vessel": "KMTC DALIAN",
     "freightSaleUSD": 0,
     "freightCost": 0,
     "portSurchargeTotal": 2785.9,
@@ -427,9 +431,11 @@
     "submittedAt": "2026-03-13",
     "factoryName": "烟台中宠股份有限公司",
     "tradeTerms": "",
-    "currentStatus": "DSCH",
-    "currentStatusCn": "卸货",
-    "trackingUpdatedAt": "2026-03-15"
+    "currentStatus": "GITM",
+    "currentStatusCn": "进港",
+    "trackingUpdatedAt": "2026-04-01T00:01:01.868Z",
+    "voyage": "2602S",
+    "atd": "2026-03-03 12:00:00"
   },
   {
     "_id": "69b5a89f2ae41eb4f2865be8",
@@ -451,7 +457,7 @@
     "etd": null,
     "blNo": "177HJYJYQ14468V",
     "containerNo": "",
-    "vessel": "",
+    "vessel": "MSC SHIVALIKA III",
     "freightSaleUSD": 720,
     "freightCost": 720,
     "portSurchargeTotal": 0,
@@ -463,8 +469,10 @@
     "submittedAt": "2026-03-14",
     "factoryName": "烟台中宠食品股份有限公司",
     "tradeTerms": "",
-    "currentStatus": "TRAN",
-    "currentStatusCn": "在途",
-    "trackingUpdatedAt": "2026-03-15"
+    "currentStatus": "LOBD",
+    "currentStatusCn": "装船",
+    "trackingUpdatedAt": "2026-04-01T00:01:01.868Z",
+    "voyage": "HV612A",
+    "atd": "2026-03-24 00:00:00"
   }
 ]
