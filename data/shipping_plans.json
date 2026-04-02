@@ -397,7 +397,7 @@
     "atd": "2026-01-11 14:32:00",
     "currentStatus": "RCVE",
     "currentStatusCn": "还空",
-    "trackingUpdatedAt": "2026-04-02T04:00:59.860Z"
+    "trackingUpdatedAt": "2026-04-02T08:01:01.422Z"
   },
   {
     "_id": "69b3b071b50b3cf192cf9c12",
@@ -433,7 +433,7 @@
     "tradeTerms": "",
     "currentStatus": "GITM",
     "currentStatusCn": "进港",
-    "trackingUpdatedAt": "2026-04-02T04:00:59.860Z",
+    "trackingUpdatedAt": "2026-04-02T08:01:01.422Z",
     "voyage": "2602S",
     "atd": "2026-03-03 12:00:00"
   },
@@ -471,7 +471,7 @@
     "tradeTerms": "",
     "currentStatus": "LOBD",
     "currentStatusCn": "装船",
-    "trackingUpdatedAt": "2026-04-02T04:00:59.860Z",
+    "trackingUpdatedAt": "2026-04-02T08:01:01.422Z",
     "voyage": "HV612A",
     "atd": "2026-03-24 00:00:00"
   }
