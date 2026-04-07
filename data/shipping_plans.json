@@ -397,7 +397,7 @@
     "atd": "2026-01-11 14:32:00",
     "currentStatus": "RCVE",
     "currentStatusCn": "还空",
-    "trackingUpdatedAt": "2026-04-07T04:01:01.277Z"
+    "trackingUpdatedAt": "2026-04-07T08:01:01.416Z"
   },
   {
     "_id": "69b3b071b50b3cf192cf9c12",
@@ -433,7 +433,7 @@
     "tradeTerms": "",
     "currentStatus": "GITM",
     "currentStatusCn": "进港",
-    "trackingUpdatedAt": "2026-04-07T04:01:01.278Z",
+    "trackingUpdatedAt": "2026-04-07T08:01:01.417Z",
     "voyage": "2602S",
     "atd": "2026-03-03 12:00:00"
   },
@@ -469,9 +469,9 @@
     "submittedAt": "2026-03-14",
     "factoryName": "烟台中宠食品股份有限公司",
     "tradeTerms": "",
-    "currentStatus": "LOBD",
-    "currentStatusCn": "装船",
-    "trackingUpdatedAt": "2026-04-07T04:01:01.278Z",
+    "currentStatus": "DSCH",
+    "currentStatusCn": "卸货",
+    "trackingUpdatedAt": "2026-04-07T08:01:01.417Z",
     "voyage": "HV612A",
     "atd": "2026-03-24 00:00:00"
   }
