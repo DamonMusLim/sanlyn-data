@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T18:52:21.428693Z",
+  "generatedAt": "2026-04-17T19:03:05.197035Z",
   "totalOrders": 77,
   "customers": [
     "PETSOME SDN BHD",
@@ -289,11 +289,13 @@
       ],
       "jdyId": "",
       "blNo": null,
-      "freightRMB": 4320.0,
+      "freightRMB": 7344,
       "freightUSD": 600.0,
-      "isPaid": false,
-      "paymentRef": null,
-      "isFreightPaid": false
+      "isPaid": true,
+      "paymentRef": "PBZSA-20251231 / AOBFTT19012026500239",
+      "isFreightPaid": false,
+      "paymentDate": "2026-01-19",
+      "freightPaymentRef": "PBZSA-20251231-1 / AOBFTT19012026500453"
     },
     {
       "id": "FS20251231065",
@@ -433,9 +435,11 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDB-20260119 / AOBFTT09022026007965",
+      "isFreightPaid": null,
+      "paymentDate": "2026-02-10",
+      "freightPaymentRef": "AOBFTT09022026007176 (batch XM219,221,210,238)"
     },
     {
       "id": "FS20260122017",
@@ -497,9 +501,11 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDA-20260120 / AOBFTT09022026008979",
+      "isFreightPaid": null,
+      "paymentDate": "2026-02-10",
+      "freightPaymentRef": "AOBFTT09022026008547"
     },
     {
       "id": "FS20260123018",
@@ -969,9 +975,11 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDB-20260109 / 031BA26030488289 (batch XM227,228,229+)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-03-04",
+      "freightPaymentRef": "AOBFTT05032026518442"
     },
     {
       "id": "FS20260206017",
@@ -1028,9 +1036,10 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDB-20260109 / 031BA26030488289 (batch XM227,228,229+)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-03-04"
     },
     {
       "id": "FS20260206018",
@@ -1082,9 +1091,10 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDB-20260109 / 031BA26030488289 (batch XM227,228,229+)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-03-04"
     },
     {
       "id": "FS20260206019",
@@ -1468,9 +1478,10 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDA-20260119 / AOBFTT09022026008779 (batch XM236,237,240)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-02-10"
     },
     {
       "id": "FS20260206023",
@@ -1512,9 +1523,10 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDA-20260119 / AOBFTT09022026008779 (batch XM236,237,240)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-02-10"
     },
     {
       "id": "FS20260206024",
@@ -1601,9 +1613,11 @@
       "blNo": "",
       "freightRMB": null,
       "freightUSD": null,
-      "isPaid": null,
-      "paymentRef": "",
-      "isFreightPaid": null
+      "isPaid": true,
+      "paymentRef": "PBTDA-20260119 / AOBFTT09022026008779 (batch XM236,237,240)",
+      "isFreightPaid": null,
+      "paymentDate": "2026-02-10",
+      "freightPaymentRef": "AOBFTT09022026008547"
     },
     {
       "id": "FS20260209026",
@@ -1671,8 +1685,10 @@
       "freightRMB": 5840.0,
       "freightUSD": null,
       "isPaid": true,
-      "paymentRef": "TT-ALLIANCE - 20.08.2024 - CNY 709,286.40",
-      "isFreightPaid": false
+      "paymentRef": "FS20260209026 / 531BA26041097876 CNY309,760",
+      "isFreightPaid": false,
+      "paymentDate": "2026-04-10",
+      "freightPaymentRef": "AOBFTT08042026266824 (WP52+ZC17 ocean)"
     },
     {
       "id": "FS20260210027",
@@ -1744,9 +1760,11 @@
       "blNo": "OOLU2743200620",
       "freightRMB": 5840.0,
       "freightUSD": null,
-      "isPaid": false,
-      "paymentRef": null,
-      "isFreightPaid": false
+      "isPaid": true,
+      "paymentRef": "031BA26041097960 (WP57 CNY204,432)",
+      "isFreightPaid": false,
+      "paymentDate": "2026-04-10",
+      "freightPaymentRef": "WP57-ocean KMTCTAO8365712B USD685"
     },
     {
       "id": "FS20260210028",
@@ -2053,8 +2071,10 @@
       "freightRMB": 3240.0,
       "freightUSD": 450.0,
       "isPaid": true,
-      "paymentRef": "AOBFTT20022024609087",
-      "isFreightPaid": false
+      "paymentRef": "PBZCA-20251223 / 531BA26041097787 CNY613,313.24",
+      "isFreightPaid": false,
+      "paymentDate": "2026-04-10",
+      "freightPaymentRef": "AOBFTT08042026266824 (WP52+ZC17 ocean)"
     },
     {
       "id": "FS20260219031",
@@ -2102,8 +2122,10 @@
       "freightRMB": 5840.0,
       "freightUSD": null,
       "isPaid": true,
-      "paymentRef": "TT-ALLIANCE - 23.09.2024 - CNY559,872.00",
-      "isFreightPaid": false
+      "paymentRef": "PBZCA-20250129 / AOBFTT13022026159530 (batch WP54,56,58)",
+      "isFreightPaid": false,
+      "paymentDate": "2026-02-13",
+      "freightPaymentRef": "AOBFTT13022026158952 (WP54,56,58 ocean)"
     },
     {
       "id": "FS20260219032",
@@ -2151,8 +2173,9 @@
       "freightRMB": 5840.0,
       "freightUSD": null,
       "isPaid": true,
-      "paymentRef": "TT-ALLIANCE - 20.08.2024 - CNY 17,520.00",
-      "isFreightPaid": false
+      "paymentRef": "PBZCA-20250129 / AOBFTT13022026159530 (batch WP54,56,58)",
+      "isFreightPaid": false,
+      "paymentDate": "2026-02-13"
     },
     {
       "id": "FS20260219033",
@@ -2200,8 +2223,9 @@
       "freightRMB": 5840.0,
       "freightUSD": null,
       "isPaid": true,
-      "paymentRef": "- Alliance TT 19.08.2024          CNY 387,504.00        - Ocean Freight-TT to Tian Jin on 30.08.2024",
-      "isFreightPaid": false
+      "paymentRef": "PBZCA-20250129 / AOBFTT13022026159530 (batch WP54,56,58)",
+      "isFreightPaid": false,
+      "paymentDate": "2026-02-13"
     },
     {
       "id": "FS20260220035",
@@ -2250,7 +2274,8 @@
       "freightUSD": 600.0,
       "isPaid": true,
       "paymentRef": "已付款3.28日",
-      "isFreightPaid": false
+      "isFreightPaid": false,
+      "freightPaymentRef": "PBZCA-20251218-1 / AOBFTT13022026159318 (ZC16+18 ocean)"
     },
     {
       "id": "FS20260220036",
@@ -2314,7 +2339,8 @@
       "freightUSD": null,
       "isPaid": false,
       "paymentRef": null,
-      "isFreightPaid": false
+      "isFreightPaid": false,
+      "freightPaymentRef": "WP55.59-ocean MEDUWX422340 USD685×2 (货款TT未找到)"
     },
     {
       "id": "FS20260220037",
@@ -2363,7 +2389,8 @@
       "freightUSD": null,
       "isPaid": false,
       "paymentRef": null,
-      "isFreightPaid": false
+      "isFreightPaid": false,
+      "freightPaymentRef": "WP55.59-ocean MEDUWX422340 (货款TT未找到)"
     },
     {
       "id": "FS20260220038",
