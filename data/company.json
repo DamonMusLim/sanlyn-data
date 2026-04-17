@@ -1,0 +1,39 @@
+{
+  "sellers": [
+    {
+      "id": "xiamen-pet-baby",
+      "nameEN": "XIAMEN PET BABY CO., LTD",
+      "nameCN": "厦门巴比宠物用品有限公司",
+      "bankAccounts": [
+        {
+          "currency": "USD",
+          "bankNameEN": "BANK OF CHINA XIAMEN BRANCH",
+          "bankNameCN": "中国银行厦门分行",
+          "accountNo": "TBC",
+          "swift": "BKCHCNBJ450",
+          "bankAddress": "Xiamen, China"
+        },
+        {
+          "currency": "CNY",
+          "bankNameCN": "中国银行厦门分行",
+          "accountNo": "TBC",
+          "swift": ""
+        }
+      ]
+    },
+    {
+      "id": "fortunesanlyn-hk",
+      "nameEN": "FORTUNE SANLYN INTERNATIONAL LIMITED",
+      "nameCN": "可信贸易（香港）有限公司",
+      "bankAccounts": [
+        {
+          "currency": "USD",
+          "bankNameEN": "HANG SENG BANK",
+          "accountNo": "TBC",
+          "swift": "HASEHKHH",
+          "bankAddress": "Hong Kong"
+        }
+      ]
+    }
+  ]
+}

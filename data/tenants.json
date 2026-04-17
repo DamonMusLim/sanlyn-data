@@ -1,0 +1,101 @@
+{
+  "tenants": [
+    {
+      "companyCode": "PETSOME_EU_SDN_BHD",
+      "displayName": "PETSOME (EU) SDN BHD",
+      "contactEmail": "",
+      "pricingTier": "standard",
+      "creditDays": 20,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    },
+    {
+      "companyCode": "JJ_PET_GROUP_SDN_BHD",
+      "displayName": "JJ PET GROUP SDN BHD",
+      "contactEmail": "",
+      "pricingTier": "standard",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    },
+    {
+      "companyCode": "DIBAQ_M_SDN_BHD",
+      "displayName": "DIBAQ (M) SDN BHD",
+      "contactEmail": "",
+      "pricingTier": "standard",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    },
+    {
+      "companyCode": "PETSOME_SDN_BHD",
+      "displayName": "PETSOME SDN BHD",
+      "contactEmail": "CN-00037",
+      "pricingTier": "standard",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    },
+    {
+      "companyCode": "FORTUNESANLYN_GROUP_LIMITED",
+      "displayName": "FORTUNESANLYN GROUP LIMITED",
+      "contactEmail": "",
+      "pricingTier": "standard",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    },
+    {
+      "companyCode": "EVERSPARKLES_PTE_LTD",
+      "displayName": "Eversparkles Pte Ltd",
+      "contactEmail": "",
+      "pricingTier": "premium",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": true
+      }
+    },
+    {
+      "companyCode": "HARMONIOUS_HAPPY_VENTURES_SDN_BHD",
+      "displayName": "HARMONIOUS HAPPY VENTURES SDN BHD",
+      "contactEmail": "",
+      "pricingTier": "premium",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": true
+      }
+    },
+    {
+      "companyCode": "ENRICH_CHAMPION_SDN_BHD",
+      "displayName": "ENRICH CHAMPION SDN BHD",
+      "contactEmail": "",
+      "pricingTier": "standard",
+      "creditDays": 30,
+      "features": {
+        "showFinance": true,
+        "showNewOrder": true,
+        "showClaims": false
+      }
+    }
+  ],
+  "updatedAt": "2026-04-11T16:00:11.238Z"
+} }}
