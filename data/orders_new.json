@@ -6464,13 +6464,13 @@
     "blNo": null,
     "freightRMB": 3600.0,
     "freightUSD": 500.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "AOBFTT04052024051896",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — AOBFTT04052024051896"
   },
   {
     "_id": "hist_ORDER33",
@@ -6500,13 +6500,13 @@
     "blNo": null,
     "freightRMB": 3600.0,
     "freightUSD": 500.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "AOBFTT04052024051896",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — AOBFTT04052024051896"
   },
   {
     "_id": "hist_ORDER27",
@@ -6571,13 +6571,13 @@
     "blNo": null,
     "freightRMB": 3600.0,
     "freightUSD": 500.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "AOBFTT06052024072085",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — AOBFTT06052024072085"
   },
   {
     "_id": "hist_WPORDER11",
@@ -6785,13 +6785,13 @@
     "blNo": null,
     "freightRMB": 4176.0,
     "freightUSD": 580.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "已收款(同批ORDER39)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — 已收款(同批ORDER39)"
   },
   {
     "_id": "hist_ORDER32",
@@ -6821,13 +6821,13 @@
     "blNo": null,
     "freightRMB": 4176.0,
     "freightUSD": 580.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "已收款(同批ORDER39)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — 已收款(同批ORDER39)"
   },
   {
     "_id": "hist_WPORDER15",
@@ -6998,13 +6998,13 @@
     "blNo": null,
     "freightRMB": 9490.0,
     "freightUSD": 1300.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "Alliance TT 7.18(同批ORDER35)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — Alliance TT 7.18(同批ORDER35)"
   },
   {
     "_id": "hist_ORDER38",
@@ -7034,13 +7034,13 @@
     "blNo": null,
     "freightRMB": 9490.0,
     "freightUSD": 1300.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "Alliance TT 7.18(同批ORDER35)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — Alliance TT 7.18(同批ORDER35)"
   },
   {
     "_id": "hist_ORDER40",
@@ -7212,13 +7212,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "Alliance TT 8.1(同批ORDER34)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — Alliance TT 8.1(同批ORDER34)"
   },
   {
     "_id": "hist_ORDER52",
@@ -7783,13 +7783,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT-ALLIANCE 23.09(同批ORDER54)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT-ALLIANCE 23.09(同批ORDER54)"
   },
   {
     "_id": "hist_ORDER72",
@@ -7961,13 +7961,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT-ALLIANCE 11.10(同批ORDER68)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT-ALLIANCE 11.10(同批ORDER68)"
   },
   {
     "_id": "hist_ORDER70",
@@ -7997,13 +7997,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT-ALLIANCE 11.10(同批ORDER68)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT-ALLIANCE 11.10(同批ORDER68)"
   },
   {
     "_id": "hist_ORDER44",
@@ -8068,13 +8068,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "已付20/9/24(同批ORDER44)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — 已付20/9/24(同批ORDER44)"
   },
   {
     "_id": "hist_ORDER60",
@@ -8104,13 +8104,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "已付20/9/24(同批ORDER44)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — 已付20/9/24(同批ORDER44)"
   },
   {
     "_id": "hist_ORDER47",
@@ -8281,13 +8281,13 @@
     "blNo": null,
     "freightRMB": 7300.0,
     "freightUSD": 1000.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT ALLIANCE 22.11(同批WP25)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT ALLIANCE 22.11(同批WP25)"
   },
   {
     "_id": "hist_WPORDER28",
@@ -8353,13 +8353,13 @@
     "blNo": null,
     "freightRMB": 7300.0,
     "freightUSD": 1000.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT ALLIANCE 28.10(同批WP28)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT ALLIANCE 28.10(同批WP28)"
   },
   {
     "_id": "hist_ORDER46",
@@ -8530,13 +8530,13 @@
     "blNo": null,
     "freightRMB": 5040.0,
     "freightUSD": 700.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 12.11(同批ORDER50)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 12.11(同批ORDER50)"
   },
   {
     "_id": "hist_ORDER67",
@@ -8637,13 +8637,13 @@
     "blNo": null,
     "freightRMB": 5040.0,
     "freightUSD": 700.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 14.11(同批ORDER62)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 14.11(同批ORDER62)"
   },
   {
     "_id": "hist_ORDER79",
@@ -8673,13 +8673,13 @@
     "blNo": null,
     "freightRMB": 5040.0,
     "freightUSD": 700.0,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 14.11(同批ORDER62)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 14.11(同批ORDER62)"
   },
   {
     "_id": "hist_WPORDER30",
@@ -8886,13 +8886,13 @@
     "blNo": null,
     "freightRMB": 5680.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 03.01.25(同批ORDER77)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 03.01.25(同批ORDER77)"
   },
   {
     "_id": "hist_ORDER80",
@@ -8922,13 +8922,13 @@
     "blNo": null,
     "freightRMB": 5680.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 03.01.25(同批ORDER77)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 03.01.25(同批ORDER77)"
   },
   {
     "_id": "hist_ORDER82",
@@ -8958,13 +8958,13 @@
     "blNo": null,
     "freightRMB": 5680.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT Alliance 03.01.25(同批ORDER77)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT Alliance 03.01.25(同批ORDER77)"
   },
   {
     "_id": "hist_ORDER81",
@@ -9064,13 +9064,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "7/2/25 Alliance TT(同批ORDER85)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — 7/2/25 Alliance TT(同批ORDER85)"
   },
   {
     "_id": "hist_ORDER87",
@@ -9135,13 +9135,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER87)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER87)"
   },
   {
     "_id": "hist_ORDER89",
@@ -9171,13 +9171,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER87)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER87)"
   },
   {
     "_id": "hist_ORDER92",
@@ -9207,13 +9207,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER87)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER87)"
   },
   {
     "_id": "hist_ORDER93",
@@ -9243,13 +9243,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER87)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER87)"
   },
   {
     "_id": "hist_ORDER94",
@@ -9279,13 +9279,13 @@
     "blNo": null,
     "freightRMB": 5840.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER87)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER87)"
   },
   {
     "_id": "hist_ORDER63",
@@ -9350,13 +9350,13 @@
     "blNo": null,
     "freightRMB": 5920.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER63)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER63)"
   },
   {
     "_id": "hist_ORDER66",
@@ -9386,13 +9386,13 @@
     "blNo": null,
     "freightRMB": 5920.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER63)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER63)"
   },
   {
     "_id": "hist_ORDER83",
@@ -9457,13 +9457,13 @@
     "blNo": null,
     "freightRMB": 5920.0,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "TT 11.03.25(同批ORDER83)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — TT 11.03.25(同批ORDER83)"
   },
   {
     "_id": "hist_ORDER84",
@@ -10022,13 +10022,13 @@
     "blNo": "TAOTSSH1225006PKGA",
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBZCA-20250305(同批WP33)",
     "isFreightPaid": true,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额"
+    "reviewNote": "AI推断: 同批TT付款 — PBZCA-20250305(同批WP33)"
   },
   {
     "_id": "hist_WPORDER37",
@@ -10058,13 +10058,13 @@
     "blNo": "TAOTSSH1225006PKGB",
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBZCA-20250305(同批WP33)",
     "isFreightPaid": true,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额"
+    "reviewNote": "AI推断: 同批TT付款 — PBZCA-20250305(同批WP33)"
   },
   {
     "_id": "hist_WPORDER38",
@@ -10094,13 +10094,13 @@
     "blNo": "TAOTSSH1225006PKGA",
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBZCA-20250305(同批WP33)",
     "isFreightPaid": true,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额"
+    "reviewNote": "AI推断: 同批TT付款 — PBZCA-20250305(同批WP33)"
   },
   {
     "_id": "hist_WPORDER35",
@@ -10165,13 +10165,13 @@
     "blNo": "TAOTSSH1225005PKG",
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBZCA-20250305(同批WP33)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额"
+    "reviewNote": "AI推断: 同批TT付款 — PBZCA-20250305(同批WP33)"
   },
   {
     "_id": "hist_ORDER121",
@@ -10236,13 +10236,13 @@
     "blNo": "MEDUYY897546",
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250313(同批ORDER121)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250313(同批ORDER121)"
   },
   {
     "_id": "hist_ORDER144",
@@ -10484,13 +10484,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250325(同批ORDER104)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250325(同批ORDER104)"
   },
   {
     "_id": "hist_ORDER119",
@@ -10520,13 +10520,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250325(同批ORDER104)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250325(同批ORDER104)"
   },
   {
     "_id": "hist_ORDER120",
@@ -10556,13 +10556,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250325(同批ORDER104)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250325(同批ORDER104)"
   },
   {
     "_id": "hist_WPORDER39",
@@ -10697,13 +10697,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250328(同批ORDER106)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250328(同批ORDER106)"
   },
   {
     "_id": "hist_ORDER108",
@@ -10733,13 +10733,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250328(同批ORDER106)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250328(同批ORDER106)"
   },
   {
     "_id": "hist_LLORDER4",
@@ -10839,13 +10839,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250407(同批ORDER109)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250407(同批ORDER109)"
   },
   {
     "_id": "hist_ORDER111",
@@ -10875,13 +10875,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250407(同批ORDER109)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250407(同批ORDER109)"
   },
   {
     "_id": "hist_ORDER112",
@@ -11051,13 +11051,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDA-20250412(同批ORDER116)",
     "isFreightPaid": true,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDA-20250412(同批ORDER116)"
   },
   {
     "_id": "hist_ORDER148",
@@ -11087,13 +11087,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDA-20250412(同批ORDER116)",
     "isFreightPaid": true,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDA-20250412(同批ORDER116)"
   },
   {
     "_id": "hist_ORDER117",
@@ -11158,13 +11158,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250410(同批ORDER117)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250410(同批ORDER117)"
   },
   {
     "_id": "hist_ORDER122",
@@ -11229,13 +11229,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250416(同批ORDER122)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250416(同批ORDER122)"
   },
   {
     "_id": "hist_LLORDER8",
@@ -11370,13 +11370,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250423(同批ORDER130)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250423(同批ORDER130)"
   },
   {
     "_id": "hist_ORDER133",
@@ -11406,13 +11406,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250423(同批ORDER130)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250423(同批ORDER130)"
   },
   {
     "_id": "hist_ORDER126",
@@ -11477,13 +11477,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250506(同批ORDER126)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250506(同批ORDER126)"
   },
   {
     "_id": "hist_ORDER137",
@@ -11513,13 +11513,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250506(同批ORDER126)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250506(同批ORDER126)"
   },
   {
     "_id": "hist_ORDER138",
@@ -11549,13 +11549,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDB-20250506(同批ORDER126)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDB-20250506(同批ORDER126)"
   },
   {
     "_id": "hist_ORDER134",
@@ -11938,13 +11938,13 @@
     "blNo": null,
     "freightRMB": null,
     "freightUSD": null,
-    "isPaid": false,
-    "paymentRef": null,
+    "isPaid": true,
+    "paymentRef": "PBTDA-20250511(同批ORDER200)",
     "isFreightPaid": false,
     "dataSource": "LIST2026_HISTORICAL",
-    "needsReview": true,
+    "needsReview": false,
     "products": [],
-    "reviewNote": "待补充: 货款金额, 提单号"
+    "reviewNote": "AI推断: 同批TT付款 — PBTDA-20250511(同批ORDER200)"
   },
   {
     "_id": "hist_ORDER204",
